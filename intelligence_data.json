@@ -1,33 +1,33 @@
 {
   "report_metadata": {
     "version": "2.0",
-    "last_updated": "2026-06-15T06:00:03.738339",
+    "last_updated": "2026-06-15T12:21:37.831347",
     "report_date": "2026-06-15",
     "title": "AURORA | 战略情报简报"
   },
   "prices": [
     {
       "name": "黄金 XAU/USD",
-      "price": "4,238.80",
-      "change": "+3.63%",
+      "price": "4,346.10",
+      "change": "+3.11%",
       "up": true
     },
     {
       "name": "白银 XAG/USD",
-      "price": "67.97",
-      "change": "+6.40%",
+      "price": "70.49",
+      "change": "+3.87%",
       "up": true
     },
     {
       "name": "WTI 原油",
-      "price": "84.88",
-      "change": "-3.23%",
+      "price": "80.53",
+      "change": "-5.12%",
       "up": false
     },
     {
       "name": "布伦特 Brent",
-      "price": "87.33",
-      "change": "-3.37%",
+      "price": "83.33",
+      "change": "-4.58%",
       "up": false
     },
     {
@@ -38,14 +38,14 @@
     },
     {
       "name": "比特币 BTC",
-      "price": "65,300.01",
-      "change": "+1.36%",
+      "price": "65,726.04",
+      "change": "+2.03%",
       "up": true
     },
     {
       "name": "美元指数 DXY",
-      "price": "99.75",
-      "change": "-0.11%",
+      "price": "99.52",
+      "change": "-0.23%",
       "up": false
     }
   ],
@@ -53,10 +53,18 @@
     "precious_metals": {
       "title": "贵金属情报（黄金/白银）",
       "game_theory": {
-        "bull_drivers": "地缘政治溢价走高 (中东局势升级) & 美联储货币政策宽松预期升温",
-        "bear_drivers": "美债收益率上升施压黄金"
+        "bull_drivers": "地缘政治溢价走高 (中东局势升级)",
+        "bear_drivers": "美元指数强势表现 & 美债实际收益率高企对无息资产形成挤压"
       },
       "items": [
+        {
+          "title": "美伊和平协议缓解通胀担忧，美元下跌，金价上涨2% - Investing.com",
+          "desc": "美伊和平协议缓解通胀担忧，美元下跌，金价上涨 2% Investing.com",
+          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQYUUxNHJidGNnS2puMklPOG1qQUl0TzhsVnlBYUt6VE1rWmFBVzg4d3BBQ1VHRkZGR1d5dktqbE9IbXpLcGpEa3lsbmp5TlRIcW5WVHZXRUtkQ2FoelJ3ZXlQZ256VG5WeVNNNTlXalhZcjdjQlFNajJabmRqSXF1MEZBMXRLTVpZMDlDb3ZjbjNrSVdiVTFEbWg1dUllOF93cDIzOXF1UWQ4UGhPMHlGR01LUnppOVg0OGZGek5oUnoxQQ?oc=5",
+          "timestamp": "01:59:35Z",
+          "source": "Investing.com",
+          "sentiment_score": 0.0
+        },
         {
           "title": "黄金价格持续下跌。全球复苏可能需要一些时间。 - 巴伦周刊",
           "desc": "黄金价格持续下跌。全球复苏可能需要一些时间。  巴伦周刊",
@@ -74,14 +82,6 @@
           "sentiment_score": 0.0
         },
         {
-          "title": "随着交易员加大美联储加息押注，黄金、白银和比特币下跌 - CNBC",
-          "desc": "随着交易员加大美联储加息押注，黄金、白银和比特币下跌 CNBC",
-          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNRnhXZlNwU2VVYzlTY2RITnh1N1NTUzMxUmlicEdweF9CcUwtYzVVUnItLTNyUU10cm5wYzloMXZkZjZQaDZ2WjF4R09Eb0tyVHN5X1NQUUhWdHRfSW5IWjNqRzhBTXFOVHdTM2ZURDF0aFNSRDVSSXI5bVU4QWt6NFZ0XzV4SmFUMUFEa1JDb3g4Y0ZWcWR0SGNTYVJETmIzRUNwMWV30gGrAUFVX3lxTE0yRVFwQnFheVNZbXo4OEM0S2xtQUg1b0tyR0Z3TkdQTjlRM0xHYlhaVHZzZFV3cXZDQ19vSXFmUnA2cWROZ1NhMGZEa1lBQ2hjY3lDYXVJVW1UckpFV3lUelFYVzVKa1R4VUdUa3hzbVJFY0dHLTdURnhKUE9vZjB4SkFmZWw2M1ZTX0lsUjdVYXE3YzZNd3UzYXpoTzhncy1xQ0VVX1RWcjhWZw?oc=5",
-          "timestamp": "11:35:17Z",
-          "source": "CNBC",
-          "sentiment_score": 0.0
-        },
-        {
           "title": "石油市场“抵消”；黄金失去光泽 - 凯投宏观",
           "desc": "石油市场“抵消”；黄金失去光芒 凯投宏观",
           "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNLWU5bnBFWWlCaGlUSTlwYVdpR0lraFN2YUNLeTExcVo3VXl4YmM2NmZocl9uanlkQnhtb2tuMUFwbGhqdDR2ZFVoN3o3ZXNkNG1TdWlWemp1WVNUM1g2QWE5dDJ4dllzX2JhLVFtdmRicTdPTjhUWGJIeHE1WnhsdFpIQV9udTZzR2FNVlV6Y0RLNGp2bFR1bGpJazFPM0NIN2RxT2w1NUk?oc=5",
@@ -90,12 +90,12 @@
           "sentiment_score": 0.0
         },
         {
-          "title": "报告称，随着市场追踪美联储、伊朗协议和石油趋势，金价下周可能持平 - Moneycontrol.com",
-          "desc": "随着市场追踪美联储、伊朗协议和石油趋势，金价下周可能持平：报告 Moneycontrol.com",
-          "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNSm51dG1RdUp2WXA4Mkx5YTk1TU5vNG1vVlRnekV5MFNvV3VwazdVcklYbzRsV2tBWFlsakdMMEdKc1plVTFrdy1rS3BnRXk2X2tYOEVyT3J1WGVfd2lhdXZDeDdsb0pHWDlzdGp6R2dibk04aDYwV2wxUFlBUFdmU2dZaFRHNXNVY3BvVmE4RWtfWjJjTE4xUlAwRUlSVmNjbzJUSWxCS0NOaEp0ZTJYX1F0bDZfYkVYOVZqRzVHbHhsUlNqY2lMMENaMUNLdU9FSWVhNkFadmRpS2JmMklTdzVaYjZqNWFobEhyc0N30gHzAUFVX3lxTFA5OW1qaWxZTWIxNjYydjRCenNaYnd4enNmOEtWRFRiZllVT21HLW9VdlFvRk9uN242WDExTEQ1Qi01OEF1RVBoemh3RFBmZ3dkSTFjR1dMRkNpeGFJeHk3S1Rndk9NY0dNYWNmTHRKV1dxX3U5eGxvZy1XTEtfNWE5ZmJ3ZXg1c183Znd0SXNURHpmRm9GQkFoQlRvZl9BSGlfdXdhSDl2a3J1UTFrRVFhVmFKMXJKVS1EYjJzb1FBZnljcHJ5eUdkWVRjV1ZTZ0lKbkJaQkp3QnVDZmx3aWd0cnpydUgxRUhGTW41cy0yQ0dxaw?oc=5",
-          "timestamp": "09:57:50Z",
-          "source": "Moneycontrol.com",
-          "sentiment_score": 0.0
+          "title": "美国与伊朗达成和平协议后金价上涨2% - ZAWYA",
+          "desc": "美国与伊朗达成和平协议后金价上涨 2% ZAWYA",
+          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOaVE0NVg3TGVrbjl3TlVsYndOX2NRalI5QjYzOER2T0l4TnoyUi1LOEpXcnd6bzI2VzVDckIwLWVFNFZlNVozSUgxUWY2RDVYZV80QjVrMnZXT1kxSW9VSUVpd19qck5rSGhIRUhZNTJ2SXR6VzF4b1pWTWZxVjR2RkJkNlhjSmVzLXhhN01va2oyZmo2ak4tWVA1WTdmcmM?oc=5",
+          "timestamp": "03:36:05Z",
+          "source": "ZAWYA",
+          "sentiment_score": 0.5
         }
       ]
     },
@@ -123,20 +123,20 @@
           "sentiment_score": 0.0
         },
         {
-          "title": "阿拉斯加未开发的石油财富仍在努力寻找投资者 - 今日原油价格 |石油价格网",
-          "desc": "阿拉斯加未开发的石油财富仍在努力寻找投资者当今原油价格|石油价格网",
-          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNZjdnZkFQMUhZLTFSZmc2Nnk2WXpJYWhwejJoYkVJVDA2M0VJdHZoc1JVcURDVUY4R2k3bWVxMEVTcFdyald3aEs5dVdGZEtjMXUzWnU4WDh0b29GTzBOVFZEVmVadTlWc1c4ZG1LNGVKUkZPVHgzMGdKaEFQMEl6QU16N01UdFUxc2h4Z3M0amtGNUZ4M3MzczY1T0lEMndDMkFuZFoyTF9nalIzUG84MHJid9IBuAFBVV95cUxNNEJmVHVxYUZ0dUZXa01JdDgtMElDSnBYcjV1UWZQcjNjTTVDcUtJWWs0aXhUWE56ZC02cVoxeFhKdWlRVFJtenZvQWswSENDdW5TRHNxMnZWNWJMY1pma29CX0MwZTc5NTNOcmp1cVNsaFZ1Q21mMkd1YWVOM0dlc3h3SHZ2cXhIdTRSb0Q4SGtNbTlSNmVuMnZDUnhPU0pCOGp6c2kwaFp3aEpCR191d2ctdFRDNkFh?oc=5",
-          "timestamp": "19:00:00Z",
-          "source": "Crude Oil Prices Today | OilPrice.com",
+          "title": "石油高管对库存减少敲响警钟 - 华尔街日报",
+          "desc": "石油高管对库存减少敲响警钟 华尔街日报",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNSXpwMjh3VktXeUxVMXFDS015d3F4Y3Nmd3RlVmd5c1lrdHpmTEFxU2VIMVlDTkpVb043MkxSZy1PUGt2WEtuNGVMZVFZWmR5eHFCbTUxejZUVWZJTUNsemVGZlplZ3Z3S0txd0hiZnYwSEZJYnlPbXpMZnlWMFFRYjZxbG1RRlpBcUFGUUZrUXpOcGhac25CUlNfZzYtSXZiTFRzcG1TaFJMSUNTOHBjek1R?oc=5",
+          "timestamp": "00:00:00Z",
+          "source": "WSJ",
           "sentiment_score": 0.0
         },
         {
-          "title": "为什么油价尚未冲破顶峰 - 华尔街日报",
-          "desc": "《华尔街日报》为何油价尚未飙升",
-          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQU1NvNVpJU29xQjk0RVNqRGVkZzh0TlNGSWo0ODNzT1JwSFJFY1liQVoySU5hN2NVbUNMcWR3Mmh5X2pwWnBIM1ZDaHhtRmV3b1hDcFR1VDhFWVF3emZ5OGQzRG9xbzAwZTJtQ253RmN0SVVBZWx6ai1BZUNmbENrV1dWZ3gxSkFsb196bFNUWG9rNUhqRkxsVGY4cw?oc=5",
-          "timestamp": "02:00:00Z",
-          "source": "WSJ",
-          "sentiment_score": 0.5
+          "title": "霍尔木兹海峡：能源专家表示，伊朗达成协议后，石油和天然气供应可能需要数月时间才能恢复正常 - ABC7 Los Angeles",
+          "desc": "霍尔木兹海峡：能源专家称，伊朗达成协议后，石油和天然气供应可能需要数月时间才能恢复正常 ABC7 洛杉矶",
+          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQZUdWazBjWFpmMkR6Sy1mS1FkRHNsSkk0cWNqZEkzRVJrRHJUQ3JoRDFNUHBiRXlzQ3gtSXlhcExxODJ5QW5wRHYtZkhRTUQ1SXd0SGJZNTNSclg2R0dvSWx0azhrdjhsc2pXbVpnUlB5bVFOZG5sVFdMY3JvZ1BCUWEzeWZtblFnTUk4RU1HWF9lZTFNcTZVR3RCRUltQ2JxLXJ6UEFqRUVabDZRenkwSWFkUndfbXZDLURLXzZ4dTXSAcYBQVVfeXFMUEFfWHZrRWFLY3BHWnN4V0ZzNENOSDItb1cxXzNoSWFFOXRHbUtLVk5wZFhia3dZcUZGOGJwTmZ0M1ZwSlhpUVpneERCc1NGdnZIVURHV2ZZN1JycGZzYW5LX1VuZ3pIa3lKa21wZHYwTzA0c3dVRUdoTHdzZ3JSYUVZV1MxdkZxSWtPM0J3VlRxNkhzZ1lpVDQ5TVZyR0lzLVRNNGw0Z1BpdlUxcG1xTVN1MDlGU0lMX3puYXIwTTJtWHRoZnNn?oc=5",
+          "timestamp": "03:02:52Z",
+          "source": "ABC7 Los Angeles",
+          "sentiment_score": 0.0
         },
         {
           "title": "能源部长称，美国军队正在护送越来越多的油轮通过霍尔木兹海峡 - Politico",
@@ -157,7 +157,7 @@
       "items": [
         {
           "title": "美国要求 Anthropic 阻止全球访问顶级人工智能模型：为什么这很重要 - 半岛电视台",
-          "desc": "US asks Anthropic to block global access to top AI models: Why it matters&nbsp;&nbsp;Al Jazeera",
+          "desc": "美国要求 Anthropic 阻止全球访问顶级人工智能模型：为什么这很重要",
           "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOS0JVZ1VmVE9Tam15QlVrVURFYkFKaDRCenItc1JZWGlaakl3ZmhIUVFfbE4yMUhaQmdIUDlHVnJxT1FONWdBWW1ZREFPcHJBQVhIUFdYd28tNEVzSS1FdVZBcGNLdG01bDB3T2p2dnpBSDY1UUV5N3N5dEx3ejZJZk9zNzZxRlhPdnJHYmRPeDlrQzNVMGxSYkg4YUoxQ21lbURBY0ZpczRpSkU3SktvbUxpQdIBuAFBVV95cUxONGMzSmFWQzJhLWV5ckJsX2dXQ2FuVk5rMjQ5dGZjblRVSzNuUU9lRjRMOHRzdGRUQ2RPbGJBMTFmczM3eEZHYVA1bG1vUFVjWkYzQUpMRXN5dmVjV0t3YTJlRlBmbDhmSkZlTXJsSXM4V0pHeDc0cmpBS1ROQkxxcDkzcmFjVjVaOVZwNGhOU3FwNENFZ0g3RzFmaC1maXNjTEQ3TGlZaWhXeU5iWTN4Q1ctRVd6eVNt?oc=5",
           "timestamp": "14:10:04Z",
           "source": "Al Jazeera",
@@ -167,7 +167,7 @@
           "title": "在美国禁止外国使用后，Anthropic 关闭了最新的人工智能模型 - 华盛顿邮报",
           "desc": "在美国禁止外国使用后，Anthropic 关闭了最新的人工智能模型 华盛顿邮报",
           "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQbHppUEhwc2RnTHNOTjU3TFlPVVBWQm40Z1FCV0w5dkdmOWVaZ0g4a2xUamVGSVhGZV9TMTM4X2lTa2g1Z0ZtV1AzS05DLUI5MlRFUzAtUUp5N3ZpdVdLX3BZNkxiSHJZX2pUM0NNcG54WGplam1wTVlZSFdSeHFyYnhoVUdxR1g1Zm9pM1NoVGtYOVNhZVkzak5OUVM4VnljN3hacWhualFpRXRpTWFBVHBOdFBCVlk?oc=5",
-          "timestamp": "06:14:00Z",
+          "timestamp": "03:15:12Z",
           "source": "The Washington Post",
           "sentiment_score": 0.0
         },
@@ -181,18 +181,18 @@
         },
         {
           "title": "埃隆·马斯克和他的同事可能会喜欢机器人的进步，但工作场所必须有人工智能的界限希瑟·斯图尔特 - 卫报",
-          "desc": "埃隆·马斯克和他的同事可能会喜欢机器人的进步，但工作场所必须有人工智能的界限Heather Stewart  The Guardian",
+          "desc": "埃隆·马斯克和他的同事可能会喜欢机器人的进步，但工作场所必须有人工智能的界限希瑟·斯图尔特《卫报》",
           "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQZkZoZXZId2tQeWliZXVMWWRjdTBUSmV5TmxrQnNjX0xoVlRjTUlsNTYxM1Y1dEUwRXN5clNGN0N2dVhUSnJxSFV6cmk3dUpObEwwMnl6X3dGSWpsSnVIOVVlNjM0WWI2NVNYcTNvU192LTRkdjFVWm5EZXI4ZDdSNkhGUHNuRGRCXzBUTU0zNVlMTUFBN2FUdw?oc=5",
           "timestamp": "20:12:00Z",
           "source": "The Guardian",
           "sentiment_score": 0.0
         },
         {
-          "title": "数以百万计的歌曲融入人工智能生成的音乐 - 大西洋月刊",
-          "desc": "数以百万计的歌曲融入人工智能生成的音乐 - 大西洋月刊",
-          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNMlplTmkza1NXTDNpWWFLaUdPa2xXdWw0ZkZqbVdlRWZ2QW8tS2xfU2QyMFF0ZzJ0c2phRjBRWUw3NksxTlh3cktRajI0Vzl0MjNTX0ZrYnpXclFtUlF0S2dmTkVzaC1JVWREcEMzaEt2aXJHZVFoem1PWjViSk84cWlTS0xsUFQ4WG9ENmFwX2tBVzRqREE?oc=5",
-          "timestamp": "11:00:00Z",
-          "source": "The Atlantic",
+          "title": "我在巴黎测试了人工智能眼镜。他们错了——BBC",
+          "desc": "我在巴黎测试了人工智能眼镜。 BBC 他们错了",
+          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOdGxxMFU1dmZFZ294Rk52bDJKSVhKQkJENi12WWVtVzdzNVo1eTh3bW5CMlV3cjMtSzNVa0pKZWNzV2hqYnRtYU13N1h4aEhlRXVwbW56cWJoSTdCc01JVFNFVjVjUWIxVkZGNUlrbWc4eEg3U3FJeE5ySm5aQlB5NlQ3ajc?oc=5",
+          "timestamp": "13:01:38Z",
+          "source": "BBC",
           "sentiment_score": 0.0
         }
       ]
@@ -205,43 +205,43 @@
       },
       "items": [
         {
-          "title": "Sadri Ramabaja 博士：阿尔巴尼亚领土和东南欧的地缘政治 – 访谈 - 欧亚评论",
-          "desc": "Sadri Ramabaja 博士：阿尔巴尼亚领土和东南欧的地缘政治 – 访谈《欧亚评论》",
-          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPcUV2NF9GU1MzUnlyRHhBUEk4Mmo5VGhISkVyN0RmdUlLeEZ1eUZDWmIzTVlJVmNGRGs2SnZMMTRLd2pQd3JVT1JRSWtORHdtd1hvVl81cE5EcnlmYWFuTzFUSE1ldmtZUFFOamM1dnd6Ull5YjVYWElaZkttT1pRWmJVRF9lZGpkanBNdUVYVlBXa29MN29aWkJ4NV9wa09uMTRCQW1kZXlGQ2NmOEk5b0dLUnJ6em5NSkFMTEEwWDhxT1EyT0hENU1fOA?oc=5",
-          "timestamp": "21:44:23Z",
-          "source": "Eurasia Review",
+          "title": "托德·杨谈论世界杯地缘政治、第 702 条和 2028 年 - 实时更新 - Politico",
+          "desc": "托德·杨 (Todd Young) 谈论世界杯地缘政治、第 702 条和 2028 年 - 实时更新 Politico",
+          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPZE81VWN3enJXb0U2c1RST1BKeDRSUVoyMlBScDFkMHprMHZWaUdXNHNWM25PNGtsVEgyVnNVdk5Fc0VVYS1Zbzh5S0MxcmxLckJhcDExb3FlTmhyWTcweUViUV96N1ozRTBsZmpnSGFqYzFaOThobXZnZkhsRlltektteVF6aXdwcXdtLU1BZVY5T2t2NlRRcEZkMzhnbXQ4VWc?oc=5",
+          "timestamp": "23:06:45Z",
+          "source": "Politico",
           "sentiment_score": 0.0
         },
         {
-          "title": "美伊谈判的不确定性以及本月需要了解的其他地缘政治故事 - 世界经济论坛",
-          "desc": "美伊谈判的不确定性以及本月需要了解的其他地缘政治故事 世界经济论坛",
-          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQNFVaRVVRQXo0RmVaM3dlU2hvY2JGVUJvSjBhcTN1TUVCM0xkeWZ5UFJzWVMxeUlLZ0U5Vl9tS3VodDhZQ1lUeVBIa1d3dURjRGRpZ1M1elVvRGRfYTFwOWpheTRHM1FWUzFaMEEtVjktQ3diem5LQ3p2cXNfbS1wTE82eGZKS0V0ajQ1QmNJVF83QjIteklEWnNxbzJXQ0hOb2N2U0pEMlBaXzlPdzZXUlQtTzJGTmExeWhGcWxDMVR1eFhmdGc?oc=5",
-          "timestamp": "15:02:34Z",
-          "source": "The World Economic Forum",
+          "title": "中以贸易与投资的地缘政治 - 外交家 – 亚太时事杂志",
+          "desc": "中以贸易和投资的地缘政治 The Diplomat – 亚太时事杂志",
+          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPNUtnekNmc2xzaXNsR28xcFRwS2ZSRHNYYXN1RWxHZm9COVRsbWNZWlJ6czBuQlFYT1BVaGFjaEFJYlhpaG9nNVlTNVZwS2U5aC1EVkNtZk1aaFlDdkd3SW13WUxUTFlRTkFSMVRGeks5bGRSQ0l6b3ZJZTE0VVR4RktRRjBqR2ZXZi1nY2Nn?oc=5",
+          "timestamp": "03:02:31Z",
+          "source": "The Diplomat – Asia-Pacific Current Affairs Magazine",
           "sentiment_score": 0.0
         },
         {
-          "title": "以能源地缘政治为战略视角——美以伊冲突凸显日本面临的挑战 - 笹川和平财团",
-          "desc": "作为战略视角的能源地缘政治——美国、以色列、伊朗冲突凸显日本面临的挑战笹川和平基金会",
-          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9JdzdKM1phQ3pfV3Vfa1o0WXJaLVlyOHBsR2lmblFiLVpoVjJDSVhRZFVzeWtETEZoV1g0MFlEcHNwaTlWR3owakhGcm14STVUcmpSU2tkT2FFQXJfTjFJN1o4Q1U2V3hNZTdMSg?oc=5",
-          "timestamp": "07:07:27Z",
-          "source": "笹川平和財団",
+          "title": "七国集团峰会在分歧日益加剧的情况下解决地缘政治危机 - news.cgtn.com",
+          "desc": "七国集团峰会将解决分歧日益扩大的地缘政治危机 news.cgtn.com",
+          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNeEM1MzdDQnc2VE9Vc3FvUUJqUDBrMWFtaHBoRHpGT2NhTjcwT2N5aWg5ODdSRjFDWUQ4ZkZFNGFFZ2tUZHpmaTRaUFN4ZHNfRWpJYmN1amcwWVU3eVlobW1iVWV2d1lpYVFra1pGTWlrQ3Z5M3hhdUdpVzNndHV3V0FOSms5cnN5OUNnTWZZUENIM2w4V1J4QnNkM21SSkVjS1Q3Z1NoVGhfVWxYYW1HbnZ6R25qTEhqOTA5UQ?oc=5",
+          "timestamp": "01:41:28Z",
+          "source": "news.cgtn.com",
           "sentiment_score": -0.5
         },
         {
-          "title": "地缘政治现已上架 - NIQ",
-          "desc": "Geopolitics Is Now on the Shelf&nbsp;&nbsp;NIQ",
-          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQNUY2b1E2Y3Q5RG9QWG95WmFpRTRqRjhsNkF0VU1oMlFBVjRLSXJuUHZVVmd6ZFFCRzk2Ul9XdHpaRWxxQnU2aXBmajdxS2UtVFBOOUxxUThxekU3dWlZQzZqR21XS2tQZ2xkX2ZjQnhiZ3djZWVqR29rd3JnNFVBaFRDcUxWVDZYZGZkLVp3?oc=5",
-          "timestamp": "14:28:14Z",
-          "source": "NIQ",
+          "title": "这就是为什么克罗格公司（KR）是地缘政治紧张局势中值得买入的防御性股票 - 雅虎财经",
+          "desc": "这就是为什么克罗格公司 (KR) 是地缘政治紧张局势中值得买入的防御性股票 雅虎财经",
+          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQX0VoSHJ5Y1lNRHFYYWdveFFnQWtvVFhwWjV6ZGItTS0xd3NrajdjeUt4WTV2YW5qNTU3NTNtaEZlSXBLZ096Y0MzSjF5N0dSTG42UHI5QW43MFBsb195VEtDZTlpSG5WYUxMQlk5ZmJwZnBQMlZsaVY0ZHdYazJhckR4eWl5aDR1MFpPcW91YVVTUncwZlE?oc=5",
+          "timestamp": "03:25:00Z",
+          "source": "Yahoo Finance",
           "sentiment_score": 0.0
         },
         {
-          "title": "The diplomacy and realist politics of the World Cup - GIS Reports",
-          "desc": "世界杯的外交和现实主义政治 GIS 报告",
-          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1RMzJqVUZiOU9NdmowVlhUSzZsRjBzSkRPVTRIOTJSZDhvMW1DTXhTaTZqMEdKZmQzWmR1ZWxHSWhXQTA1dzFzQUlqaHVtZ2VDR204TjRvdzVwZzJ3Zm9Da1AtYTY?oc=5",
-          "timestamp": "06:00:00Z",
-          "source": "GIS Reports",
+          "title": "友谊还是地缘政治？ BBC 打破了习近平与普京的关系 - BBC",
+          "desc": "友谊还是地缘政治？ BBC 剖析习近平与普京的关系 BBC",
+          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFA1b1hPU1EwNnFqM3F6clBXN3JkYkRwZmstd1NrSVJVVG02QTJ2ajlfR2ZJUGxjZW1ubDFOcWZaanhIYkhBM0J2aHliZERreWt5TGU1VUJTQQ?oc=5",
+          "timestamp": "07:00:00Z",
+          "source": "BBC",
           "sentiment_score": 0.0
         }
       ]
@@ -250,14 +250,14 @@
   "market_sentiment": [
     {
       "label": "贵金属（黄金/白银）",
-      "value": 0.2,
-      "sentiment": "震荡中性 (评分: 0.2)",
-      "sentiment_type": "neu"
+      "value": 0.3,
+      "sentiment": "看涨偏好明显 (评分: 0.3)",
+      "sentiment_type": "pos"
     },
     {
       "label": "能源（石油/天然气）",
-      "value": 0.1,
-      "sentiment": "高波动震荡 (评分: 0.1)",
+      "value": 0.0,
+      "sentiment": "高波动震荡 (评分: 0.0)",
       "sentiment_type": "neu"
     },
     {
