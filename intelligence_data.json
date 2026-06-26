@@ -1,51 +1,51 @@
 {
   "report_metadata": {
     "version": "2.0",
-    "last_updated": "2026-06-26T06:00:02.947366",
-    "report_date": "2026-06-26",
+    "last_updated": "2026-06-27T06:00:03.079726",
+    "report_date": "2026-06-27",
     "title": "AURORA | 战略情报简报"
   },
   "prices": [
     {
       "name": "黄金 XAU/USD",
-      "price": "4,041.60",
-      "change": "+1.29%",
+      "price": "4,103.00",
+      "change": "+1.80%",
       "up": true
     },
     {
       "name": "白银 XAG/USD",
-      "price": "57.89",
-      "change": "-0.28%",
-      "up": false
+      "price": "59.60",
+      "change": "+2.15%",
+      "up": true
     },
     {
       "name": "WTI 原油",
-      "price": "71.47",
-      "change": "+1.61%",
-      "up": true
+      "price": "70.24",
+      "change": "-2.34%",
+      "up": false
     },
     {
       "name": "布伦特 Brent",
-      "price": "75.00",
-      "change": "+1.71%",
-      "up": true
+      "price": "73.57",
+      "change": "-2.25%",
+      "up": false
     },
     {
       "name": "英伟达 NVDA",
-      "price": "195.74",
+      "price": "192.53",
       "change": "-1.64%",
       "up": false
     },
     {
       "name": "比特币 BTC",
-      "price": "60,113.97",
-      "change": "-1.44%",
-      "up": false
+      "price": "59,826.01",
+      "change": "+0.17%",
+      "up": true
     },
     {
       "name": "美元指数 DXY",
-      "price": "101.42",
-      "change": "-0.19%",
+      "price": "101.37",
+      "change": "-0.06%",
       "up": false
     }
   ],
@@ -66,12 +66,12 @@
           "sentiment_score": 0.5
         },
         {
-          "title": "全球波动之际，中国主要银行暂停个人黄金交易 - 《南华早报》",
-          "desc": "全球波动之际，中国主要银行暂停个人黄金交易",
-          "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQRE5ZVFpfc2RrT1lKbnV0MlFLOUE2OEg1LWxyZTN0LV9DbU5zczRsYWh0QXNmTFIxN0xZYzNtSFN6MGJ0a2hUbnR2bF9rRW9wSXQ3RW5IQVdwRG9rdHpRWUVFZDZhUXhOcEg3bTJrRjlrcVE4dFlmTE5mMmlIcXNOTjcxTG5zcThxd3NWLXBhYlpFRnU5dzdXMUZ3WkxDRFM3aG55VFl3VThjcnpBamFCajVXRDJfeVIwYVFWZFpYNHZQWGhiUTgtSFBsTm10RGRjZWo5cEhfSEJLRDjSAdsBQVVfeXFMT2paeTdBN195a0hlSlNUY0ZGbFVZTHJkQWJnbjRSSG5kNnNLOFhVeGoxNFlRMEh0U2RRTWgxRjM4NFVjTi1pQmFVY0dVSVpCQXdJaVg3SVFVcWVmUkhrLTBmMll2c1BNVXFmTm5IbHNKcFAtdWktTUY5UXVGUUx3WDhacGpXUXZ5VmZHSW1qeU5EUWdOajRydVJJNnNseW0wN2E0ZHAtUnJubWRTLWR0bXlCcWJIbjlTaklFb1I4SXRDS29FQ0Z1X1pETFBuc19ZeGF4ZFlUbnZyTzdB?oc=5",
-          "timestamp": "05:00:23Z",
-          "source": "South China Morning Post",
-          "sentiment_score": 0.0
+          "title": "瑞银将黄金目标定为 5,200 美元/盎司，认为当前的下跌是买入机会 - InvestingLive",
+          "desc": "瑞银 (UBS) 黄金目标价为 5,200 美元/盎司，认为当前的下跌是买入机会 InvestingLive",
+          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOX1RzV1Vob1BPbTZ0UDR0d1g1VFhGM3hSLUk3czV1ZVlfcGxGcVdsaEhBbGJSM2M1LU02cGQ1blpoc2JCazRkaEY4bnVEaXhOUWZ2VS1WOTRSQURlZ3J6azBXbk5RRzhQWVFocEd0YTM3YjNqcFIwMGo2YWFXVGJjWkhWelhYVU8zaWJVRnJyZlJ2Z1NDSHh1V29JTkdTVldvdDVxbVpkRTkxYnY5alFR?oc=5",
+          "timestamp": "02:53:17Z",
+          "source": "investingLive",
+          "sentiment_score": 0.5
         },
         {
           "title": "金价为何下跌？ - 雅虎财经",
@@ -82,19 +82,19 @@
           "sentiment_score": 0.0
         },
         {
-          "title": "黄金下跌，现货价格自 11 月以来首次跌破 4,000 美元/盎司 - Investing.com",
-          "desc": "黄金下跌，现货价格自 11 月以来首次跌破 4,000 美元/盎司 Investing.com",
-          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPVjRVM3A5S2JzdnlTSDhTTHFpdkFheDhoU0dwX0RUMlRwSE1WX1JlUmdHdEVVeDJ4UGU3SGE3aE9zcFRfUTlMenB0cy03QzU1Ukh5dWkyUjRuYjJOQWJZdFhtWHhiNUVFbHZwa3JwSzBDcHB2YmRJOFZEVzYzQnVCWjNKTzM0WGRjRHd3MGg1VDBGSUxqZlBmWFFwemRqQ0p3OVZvaDFNMFE3N1VCeGJxUEQ0Q2dVUXQ0dEh5NlVn?oc=5",
-          "timestamp": "21:34:13Z",
-          "source": "Investing.com",
+          "title": "黄金回调促使预测重置 - ING THINK 经济和金融分析 | ING思考",
+          "desc": "黄金回调促使预测重置 ING THINK 经济和金融分析 | ING思考",
+          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBlZEo2emhyay0tc0lhU0dpNVgxTXRKTmREWlNLU2hqeE1ObHdzVU1HTTBNQzVyZlpYc2lrMmY2bHhNbUR6NnM1anh5dllOODJVUnh3b1JZTmlIX015SnQ1QXlqUEttUW5LZW1qUTllbmk0ODM5Z3Q1VXhVa3A2QQ?oc=5",
+          "timestamp": "11:13:10Z",
+          "source": "ING THINK economic and financial analysis | ING THINK",
           "sentiment_score": 0.0
         },
         {
-          "title": "黄金回调促使预测重置 - ING Think",
-          "desc": "黄金的修正促使预测重置 ING Think",
-          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBlZEo2emhyay0tc0lhU0dpNVgxTXRKTmREWlNLU2hqeE1ObHdzVU1HTTBNQzVyZlpYc2lrMmY2bHhNbUR6NnM1anh5dllOODJVUnh3b1JZTmlIX015SnQ1QXlqUEttUW5LZW1qUTllbmk0ODM5Z3Q1VXhVa3A2QQ?oc=5",
-          "timestamp": "23:55:08Z",
-          "source": "ING Think",
+          "title": "全球波动之际，中国主要银行暂停个人黄金交易 - 《南华早报》",
+          "desc": "全球波动之际，中国主要银行暂停个人黄金交易",
+          "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQRE5ZVFpfc2RrT1lKbnV0MlFLOUE2OEg1LWxyZTN0LV9DbU5zczRsYWh0QXNmTFIxN0xZYzNtSFN6MGJ0a2hUbnR2bF9rRW9wSXQ3RW5IQVdwRG9rdHpRWUVFZDZhUXhOcEg3bTJrRjlrcVE4dFlmTE5mMmlIcXNOTjcxTG5zcThxd3NWLXBhYlpFRnU5dzdXMUZ3WkxDRFM3aG55VFl3VThjcnpBamFCajVXRDJfeVIwYVFWZFpYNHZQWGhiUTgtSFBsTm10RGRjZWo5cEhfSEJLRDjSAdsBQVVfeXFMT2paeTdBN195a0hlSlNUY0ZGbFVZTHJkQWJnbjRSSG5kNnNLOFhVeGoxNFlRMEh0U2RRTWgxRjM4NFVjTi1pQmFVY0dVSVpCQXdJaVg3SVFVcWVmUkhrLTBmMll2c1BNVXFmTm5IbHNKcFAtdWktTUY5UXVGUUx3WDhacGpXUXZ5VmZHSW1qeU5EUWdOajRydVJJNnNseW0wN2E0ZHAtUnJubWRTLWR0bXlCcWJIbjlTaklFb1I4SXRDS29FQ0Z1X1pETFBuc19ZeGF4ZFlUbnZyTzdB?oc=5",
+          "timestamp": "05:00:23Z",
+          "source": "South China Morning Post",
           "sentiment_score": 0.0
         }
       ]
@@ -115,35 +115,35 @@
           "sentiment_score": 0.0
         },
         {
+          "title": "截至 2026 年 6 月 26 日的当前油价 - 财富",
+          "desc": "Current price of oil as of June 26, 2026&nbsp;&nbsp;Fortune",
+          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5FQzFQVGtCaXFQNGRNNGN4SGNob0lWdEViRnV0SGZFX0xUNWNrOUlJUkplT2hLdV9kWnV3bnVTbnNHMWw2cHBham1SRkQtLTBxdFI5dXIxQ0RVZzNJM081UnFR?oc=5",
+          "timestamp": "13:00:00Z",
+          "source": "Fortune",
+          "sentiment_score": 0.0
+        },
+        {
+          "title": "U.S. Crude Oil Inventories Fall, Product Stocks Rise - WSJ",
+          "desc": "美国原油库存下降，产品库存上升 华尔街日报",
+          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOMEVaRHF0aVNwUnUxWnctcUxBdU9kN2FNZEpheVMxdGJ1VXFVR3hYY2RONUVCVEhmOFBpR252LXc4QUdyYzd2S01kZ3BKY3BpZVhJbEVvWjJkaVNGcmhzb25GNjhSSENVUTZObDJ4d2pEcjlJeGlnQmdKeFdEYTZuQUhENW5HWHRFbXVEUjZQcmcweDBJNmtST1BaemppclBD?oc=5",
+          "timestamp": "15:15:00Z",
+          "source": "WSJ",
+          "sentiment_score": 0.0
+        },
+        {
+          "title": "In East Africa, a Controversial Oil Project Is Poised for Production - Yale E360",
+          "desc": "在东非，一个有争议的石油项目即将投产 Yale E360",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9ldlBWOUh4QVNfRnRCa3NnVWtSMlh2d3l5dFhzREt2M0tMREpsWElYa2FuSmJlRV9CX3ZNRG5ibjZvSEdYRi16d0RPcVRxT004NVlTcDRGQjRCZEE?oc=5",
+          "timestamp": "13:47:53Z",
+          "source": "Yale E360",
+          "sentiment_score": 0.0
+        },
+        {
           "title": "6 月份美国商业原油库存减少 - 美国能源信息署 (EIA) (.gov)",
           "desc": "美国能源信息署 (EIA) (.gov) 6 月份美国商业原油库存减少",
           "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5LdWV5N0xXTjUycTh3T3N1QVpya0hkRVVpSVlvcXgwbjJxNUUwcW8zdjVOMTlUeUpGY3VZNWlWaFQ5SkcycDh4STE2RlB5ZDNlRFFyMV9WUk96MWY3NFQ5cXprdw?oc=5",
           "timestamp": "18:14:26Z",
           "source": "U.S. Energy Information Administration (EIA) (.gov)",
-          "sentiment_score": 0.0
-        },
-        {
-          "title": "为什么即使油价下跌，能源仍可能成为投资的好地方——值得购买的 5 只股票 - CNBC",
-          "desc": "为什么即使油价下跌，能源仍可能成为投资的好地方 — CNBC 值得买入的 5 只股票",
-          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQVG1WeXdhZW1oV3FDV3JWcm1ueEhKWEhSWnE3NHItTW1xYTIxbTZhVTNWYzJzZkZMYS1jc3pUU3U5cWlvaG94RXNtQ0FyUldHdUpVVzdzV2VvdG5KSUdSQzE3QUxqdlEzT2pjYVNIN1NrN092RldpTDUzSko3WTdCeFlwRmphQUZaSldQTExPZUdzZzZCNXRVZmxjMUsyQVBRLUFBM05Sb3o5d21lN0hCNTVzS2N5MGl0OERXSER1S0R6V3VaYkNr0gHMAUFVX3lxTE5OU1VaajF5a205cE1zeDloYXp6R240b0x5Z3Z1MXluTDNVMHVsdHpBNnFWWHRSUlNUdDVSYTdILTN3bkE0OVJHVFlEM054V0E1dTh2R3MtdFMzekNmaUJSdU1HQWM2MndrdlhXYlFXR3M5M0hfZWk0LXVnMWMtYVZHekY5QmtrV2tyNDUxaDJTN1NrcGJ1N2ZKd2hGOWZPbUh2a05ETnV0M0xYWWJseGJHTjJPa1ZsU0NlN2oyX21XaVNIdkd6WGdHbC04bg?oc=5",
-          "timestamp": "16:37:12Z",
-          "source": "CNBC",
-          "sentiment_score": 0.5
-        },
-        {
-          "title": "特朗普对天然气价格下降速度慢于原油感到不满。他并不是第一个感到沮丧的总统。 - 雅虎财经",
-          "desc": "特朗普对天然气价格下降速度慢于原油感到不满。他并不是第一个感到沮丧的总统。  雅虎财经",
-          "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxNdWRmeDFsR2Z2V0ZzQm1NalpsRURTZ3ZlQzlBTXpTV1JHS3pITlczUkpZaEFmdXRXR0VnT0lKUDZydVNfbUpvT0tldWpWeG80WWxnUTlscUo5dnJjRENuMC1Nc21xQTNfcEFxVzVRYTdTel9FNDhsdmxGelpUY1BDQmFhUkZBY1BxM0lUNXRWOC12ck1udURRMnVUWVpfZ210NzdSX3QwSkh2X05aQWZGcnZaRUZScTJ4X1VkQmV5bnNMOFRDYUpPU0xWR1JWbmhSbTdZUzJURFlxUUREdlZoT2Q4YjRMa3N6cjk1YlROTnFtV2d2VUo0TVlnT19vRVR3TXc?oc=5",
-          "timestamp": "13:01:30Z",
-          "source": "Yahoo Finance",
-          "sentiment_score": 0.0
-        },
-        {
-          "title": "截至 2026 年 6 月 23 日的当前油价 - 财富",
-          "desc": "截至 2026 年 6 月 23 日的当前油价",
-          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5Ya0VoQ2RWa21zMFhrRUxycVdBcURienJTSDlHc09yUkNOVGp6a3BiS2pibkFVZTNUSnl3QjJ6Q0RNS09ERm11NHkxeS1YejVNdmQ3Uk9qb0FOajd5RFJmUDd3?oc=5",
-          "timestamp": "12:48:00Z",
-          "source": "Fortune",
           "sentiment_score": 0.0
         }
       ]
@@ -152,47 +152,47 @@
       "title": "AI & 前沿科技",
       "game_theory": {
         "bull_drivers": "生成式 AI 及大模型生态商业化落地加速",
-        "bear_drivers": "算力能耗制约 & 估值回调压力"
+        "bear_drivers": "主要国家针对大科技公司的反垄断与AI安全监管趋紧"
       },
       "items": [
         {
-          "title": "中国人工智能模型在 Anthropic 和 OpenAI 上取得进展 - 纽约时报中文网",
-          "desc": "中国人工智能模型在 Anthropic 和 OpenAI 上取得进展《纽约时报》",
-          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOZk9RRzFlT3oyWGV2NXBQcEQyWmtFSllXV3dXd1VKVEF5T0R5OHYxaDgtcTgxdWpaWlB3TVlZbG1vUWxxLV93WC1iVnIyWmtYeE9ET25MbDJtQ0JWV1k3MHVYSTA0OURFYy1EbWVaelBUQlV6OTlCNDNIRzFIdWp0a0RlZG5aUTJQYWR3amhHNmZzbklEMVE?oc=5",
-          "timestamp": "15:34:41Z",
-          "source": "The New York Times",
-          "sentiment_score": 0.0
-        },
-        {
-          "title": "为什么大型人工智能实验室雇佣这么多哲学家 - 《经济学人》",
-          "desc": "为什么大型人工智能实验室雇佣这么多哲学家",
-          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPdE45R0FIYnA4c3oxLXV0LWd6WWpPVmFXM2JxQlJ2dDlaUi1TUHlvc3FxUVUwZDNWcmpZSXlKYjY2ZzI3Yy1XWFhkZFZieWVEdVQ5UWpXSXEyQVI4cEw5WXpjazJlVW1ZaTc2cTllNEVTa01RaUZZWkptb1Z3VVBTWXlQUThjSDJYaDI1TU9WOWptRjN2MUZYT3RpbEtUU0p1NkdJUGt6YkNSZFE?oc=5",
-          "timestamp": "09:44:38Z",
+          "title": "《经济学人》对人工智能的强烈反对才刚刚开始",
+          "desc": "《经济学人》对人工智能的强烈反对才刚刚开始",
+          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNT2xzMEEtYzd1OXIwbDVTWnl1dEhZMTBVYVRGQWhVTV9JbUdGbzdmeWFmaF93ZklUWkE5RzZ0QV9iMWtRcFNPbVg3M2lSNjlEU1BLTzhPb0E1cWtfeXBnbUx4blg0cW9Xd1NBWWlFUGl6YzBWNmNFbXlVMFczdTZJQ3FmTTBkSDBXMXMzLQ?oc=5",
+          "timestamp": "08:33:42Z",
           "source": "The Economist",
           "sentiment_score": 0.0
         },
         {
-          "title": "AI Demand Begins to Justify Massive Cost of Data-Center Buildout - Yahoo Finance",
-          "desc": "人工智能需求开始证明数据中心建设的巨额成本是合理的 雅虎财经",
-          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQcWF3R0dfa3Y0UC1URzlKODg2SFZSX3BYRXdwaE1MLVJRUHUtSUR2enE2VGJjbFM3ZWl0aGt0WkFDWlRBdFdIako2ek1WNUd5Zzd6S2JoOXZLMXVyVFY2UTFlTTBEbUlUZWpReFJmNkVWSWs2RWN6SlBmR3dSRVl6YW13WUFDMXl3SEVZdU1IbUxGM25SSXlySWlWQmU?oc=5",
-          "timestamp": "11:00:00Z",
-          "source": "Yahoo Finance",
+          "title": "利基技术如何成为人工智能的瓶颈- 纽约时报",
+          "desc": "利基技术如何成为人工智能的瓶颈  纽约时报",
+          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQWWR0RnpqZnpUN2NoVktOR05SWTVHZVd1UkRRanFQVk51czB6bWF3VGR6VWRLMEw2UUk2bmJGSUNweC1BZi1tTFVoUmlRaVM3d1h5ZnhiemJkUkFYNGlDTUFQR2ZJMjBrcmZ3b25LWUJEYndlODVEdjMtd2JmY2JObzg3U0pIbjVQR2c?oc=5",
+          "timestamp": "18:55:00Z",
+          "source": "The New York Times",
           "sentiment_score": 0.0
         },
         {
-          "title": "斯坦福大学是他们的黄金门票——人工智能会帮助还是阻碍这一点？ - 英国广播公司",
-          "desc": "斯坦福大学是他们的黄金门票——人工智能会帮助还是阻碍这一点？  英国广播公司",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9QeEdOMV9leUpVVGYtRTg4TExBTHhPeFJlYmZOWENWVVBEd3J3eGNYYlhrZDVSelRCcnoxSG5KMXhyVEMyRmJja00xVlV4RTZrTXFxWG1GQnF1QQ?oc=5",
-          "timestamp": "23:16:37Z",
-          "source": "BBC",
+          "title": "大型科技公司正在人工智能上花费数万亿美元。投资者现在希望证明它会带来回报。 - 哥伦比亚广播公司新闻",
+          "desc": "大型科技公司正在人工智能上花费数万亿美元。投资者现在希望证明它会带来回报。  哥伦比亚广播公司新闻",
+          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNbHV1amRGRlNueW1IOWdlZktXdkVBWmRuN1RsQ19odXlMTHVmTExzYVRQU01PQUFRZWRrb2dUSkVOQlJNcGRqcXFwUFVtZTZiZW1GUVRvUUhVa29KV3JQU2x2S1BRUExtQkFWQWZJY1Rmbkx2UlVoY2d1bmtDRmZfejdwSDJTZkNjbzhfOE9jdGZQUQ?oc=5",
+          "timestamp": "15:13:00Z",
+          "source": "CBS News",
           "sentiment_score": 0.0
         },
         {
-          "title": "“你不可能在不伤害人民的情况下赚到数十亿美元”：科里·多克托罗谈埃隆·马斯克、人工智能泡沫和老板的残酷幻想 - 《卫报》",
-          "desc": "“你不可能在不伤害他人的情况下赚到数十亿美元”：科里·多克托罗 (Cory Doctorow) 谈埃隆·马斯克 (Elon Musk)、人工智能泡沫和老板们的残酷幻想",
-          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPNktKZmRiSFlKRTcxMEkyelZITUNYSzN4eUpyR0NjZkJIRXBIcFVOb0JXRW0xVFItYkJFT0JjazdlXzFaSzN2Q1V3Q0RwNjJBMzJreWhzNDNMMFhFeE16eVNXT1VSYTczYWE3OEFNT1BXOU9Pc2ZrYUpFWWFHczhvd2ljUG1xbGFlV09mcndYLTkwenVYUEdvRHVENTlUaUpfdWR0SUZzd0NPSXh3Tldv?oc=5",
-          "timestamp": "09:00:00Z",
-          "source": "The Guardian",
+          "title": "专有智能：如何利用人工智能取胜 - Bain & Company",
+          "desc": "专有智能：如何利用 AI 取胜 Bain & Company",
+          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBWNG9DRVl5TjNadVhUUTB5ZHZneTg3TC11eEtYbTA2aE1Qdkl5NUNNTGZxelVDN3ZSbEFOMDZXb2xRaUd2eS02Nm42MDNWb205dHJydHhUclJBZm1fRUkxM3pjMGNzcnFCRHpxeWtrWF9nZDF0aGU1ODlCX1dhSDg?oc=5",
+          "timestamp": "02:52:40Z",
+          "source": "Bain & Company",
+          "sentiment_score": 0.0
+        },
+        {
+          "title": "金融监管机构争先恐后地用自己的工具来应对人工智能的崛起 - 路透中文网",
+          "desc": "金融监管机构争先恐后地用自己的工具来应对人工智能的崛起 路透",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPenFteWtWdVg0ZldTaXlPbzI5WlJjOTNrZXB0MDVBcDdRLWxGVVVKd2JNYzZpREhPaW5NblJCYXJSLU5WQWFzLVJlcnRVUWtSWjJ0Q0ZHTzlRdU1sMEJWSHFHd0QwMUhsa3A1X195dU9Nc0xCaE9IQkllc25DcnM5M2tMSDVlMVpiRE9PRVhzaWxTdklGdkVnUF9RRTFCdFNEbWREZnZPUk0yZUVGVU9DaXN3OA?oc=5",
+          "timestamp": "16:53:48Z",
+          "source": "Reuters",
           "sentiment_score": 0.0
         }
       ]
@@ -205,7 +205,31 @@
       },
       "items": [
         {
-          "title": "埃及和伊朗在地缘政治阴影下面临世界杯关键比赛 - 路透中文网",
+          "title": "FP Live：Quinn Slobodian 谈 SpaceX 和埃隆·马斯克的地缘政治 - 外交政策",
+          "desc": "FP Live：Quinn Slobodian 谈 SpaceX 和埃隆·马斯克的地缘政治外交政策",
+          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQeEZQTFhVQi1zQmVpRDFTVnpTMzVIaWhDRHVxbl81ZzhMdWJlRWN6WTVrSDNfT0xuM1VwV1VsUGlQaElILXlmNkNUdTh3cFlXbkJ0VVc1dWJ4dXVZMGVURE14WUY2M3o3NkdONWl5QjNkSzUycDZHVjd1bTY2VEhSNlBjSUhmbmlsWW9icHRlbVU?oc=5",
+          "timestamp": "22:12:11Z",
+          "source": "Foreign Policy",
+          "sentiment_score": 0.0
+        },
+        {
+          "title": "欧盟金融地缘政治计划备忘单 - 英国《金融时报》",
+          "desc": "欧盟金融地缘政治计划备忘单《金融时报》",
+          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOcmtUdklxQ2VhdFdwanQxb0hyT29oNVZpRzFjSzZSNzlyQzVoNjlWSUJlYWdmeDFFMjNFRTUyYlVrOG54T0I0Mkxzc01oa242OWxYMS1hX0dsdXpLaTl1UXFwNnd4S011b1dDVnFrNGR4Qk9QaUN6QmxmTjVHTTZPTUpHcmQ?oc=5",
+          "timestamp": "10:00:09Z",
+          "source": "Financial Times",
+          "sentiment_score": 0.0
+        },
+        {
+          "title": "首席执行官住宅景观 |地缘政治消退，美联储改革：基本面支撑的牛市 - MacroMicro",
+          "desc": "首席执行官住宅景观 |地缘政治消退，美联储改革：基本面支撑的牛市",
+          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxObHVFZndSdEprUzlpVzVZWUNURUg1ZFotVUEzb2xfYXNSZlN5emxadWdkb0J0bTlTSDVMUzEydDJWaExmY2gwRkZhUUd5eG9jRDFPLUo5U05ocFFWM2cweTV1eC1rLVRUaTBVSEY0UjVOUnlJUy1MNHlCTTdkVFBtd3FFWHVFLXdlN3R6dzkteURYSWk5R2taYWdYWmxoUE56NERDS0FJcXNmLTE2cG1j?oc=5",
+          "timestamp": "08:11:09Z",
+          "source": "MacroMicro",
+          "sentiment_score": 0.5
+        },
+        {
+          "title": "Egypt, Iran face crunch World Cup game in shadow of geopolitics - Reuters",
           "desc": "埃及和伊朗在地缘政治阴影下面临世界杯关键比赛 路透",
           "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOVjlLN1huaVZNampyOXJSV2I3dkdtUXVWNVhGMEZuZkMtRmJiZE9HbjRpTVdubDFTbEltNFdfMWxNSGFCbm03QjFwNkV6SlFvMGRNUHd1SGw1RWJpdE9jY2NxRk1zT0UzeURGTGdjOXB1akNDTE5RcWNrb0hfRWdRbUxRdHhuTXUzTmNCTW1JM3h1a0JfRHdQMEpNQWZQZjhmbGU4VHE3NHVUdw?oc=5",
           "timestamp": "17:47:45Z",
@@ -213,36 +237,12 @@
           "sentiment_score": 0.0
         },
         {
-          "title": "为什么对外国公司来说最大的考验是中国的竞争，而不是地缘政治 - 南华早报",
-          "desc": "为什么对外国公司来说最大的考验是中国的竞争，而不是地缘政治",
-          "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOb3VmVmFSMGcyQTFVNXRTTzMwSm5lYVBOWC05bXpFUnZqbklDc1lZWlpHem0wdW9CNkdoU2RLVHlIQTFjN3gycnpBUnpqYlJrUEJvR0d6WGtkZ3FJbk1MVWFmNy1rVVVCVWFpanc3VnViQ1NiNzhuVVFkS0ZnN0lDX1RFdDZpYTlXMlR4TV81MkdJTnVWR1E2R2NKNlp5NFBrTFp1STFKeHNTMnhnLWZzRzltSzNCNkFOcFZGWU0zd2NWX0d3SXQ4SUFjd19yNDNZMFZ1cFRDQXhCYTNGNkNOSUcyRF8xU3BrUjZ0aHJiSFJSbThf0gHKAUFVX3lxTE1MTEVhTkpSRVBTSnlYaDZRMlI2bWl5RTdjeDJKWnhqZ0QtM3J1ZkVWTFZlV0ZBZnRveVp0cTlsV0JIbllCc2p4Z29BMFlnVzFTN3ktQ1VRU1Y4MnQ0N3RZdTQzckxUZFpfRVc4RXZPZS1JX0lHaXlnaXhkc0FBNzBRVkZXemtXQzYyb1dXSU1FOEl2a1hUXzJ4c3NERTFkNU1DSGloZ0N6MHJzc0J1LURNY2dVbEJUTWNaSmRJQmMwMGhHMVgwdzlYeUE?oc=5",
-          "timestamp": "12:30:09Z",
+          "title": "紧张局势持续，中日航班将在夏季旅游高峰减少57% - 南华早报",
+          "desc": "China-Japan flights to decline 57% in summer travel peak as tensions linger&nbsp;&nbsp;South China Morning Post",
+          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPT2FIYndWY01kZVI4eUNPc3dudUoyTzVJR1J0ai0ydS1QWW9XcS1fV1ltU1M5dThFa1ptejUxcFYySlBHTFppazBSRG5qSUVvaXo2TFNCODBITS1RQUV0YVdZY0NyNVhZSGFFX2ZFb0RZdzVLOUJkTjQ0a2l4ZnpMT0pRc1JfeEVqRVZUMXdnalY0OWpwNlJDdFFSZ3lNUnlLNVZtOEhnZF9NdmRIZHdHWml5ZkZCTTBfY0VNYjNSa1dXZnlpTmV5Rmc3VTlJd9IBzgFBVV95cUxNTVVXZW1CX0VvUkJHYUwtZ19MWUg1MVh6eWNGSFNaNTJQV1hYaTZOTDRLS2l2OHBfV2pJMHV0eUpnOE5wbFpEV1M5RUJlWHUyaEt4M1VBVW1IWEl2RllzTTAxRDNJRnIwem5wNS1ydW95bU5xQW5WVXNHMUE3N29mc0NISmFnY0RfSlpaYmhnSWVob2czc0FlTzVCOXd2ZGlLVFhwS2xDYzQzaTBFUThLajExd2JUUHdwRlFKZGRzQ2ctdWE4Z1VVNm1KZFh4dw?oc=5",
+          "timestamp": "06:00:14Z",
           "source": "South China Morning Post",
-          "sentiment_score": 0.0
-        },
-        {
-          "title": "Allianz Sees Arctic Shipping Boom Potential, But Warns Risks, Sanctions and Geopolitics Could Hamper Growth - gCaptain",
-          "desc": "Allianz Sees Arctic Shipping Boom Potential, But Warns Risks, Sanctions and Geopolitics Could Hamper Growth&nbsp;&nbsp;gCaptain",
-          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQdDI5bGhvTWFwaUlyeWFnczJzeHU4M0ZSRzgyT1hBZWRBdURMZXNLbEJET0dqSVJrWFV0SERKd294OGtTU3pBOW90NkFpN1hmUXpDc1F5U1ZzMk0zYnhDZWhibVQ4VjNERi1yWlNEWXB1NGxGZWhqbThsSGdKR3k5V0szVlBod3ZOaGlZUWZaZ0FrQVNLN0ZzQlVkMEZqWVhNUWdRZFZaaUx0dzczYV9OMFFLVmtOdnlQTGVWR1YwU080eVQ2eVE?oc=5",
-          "timestamp": "14:41:24Z",
-          "source": "gCaptain",
-          "sentiment_score": 0.0
-        },
-        {
-          "title": "化肥的地缘政治 - Engelsberg Ideas",
-          "desc": "化肥的地缘政治 恩格斯伯格理念",
-          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9DWXdfUGYyM204M3hWdXBiU2hKS1MwM01Zd0lwNjBKbHhBUFAyeFdCcTdPZDFjelMzWHlRcUgtMHY5YUh3OWFKTzRsWnhLbGgtdk5aWE51cHE0T0hoU29rLV9mZ3FES1g1WnlncUdlSXA5d0ljaFE?oc=5",
-          "timestamp": "11:14:15Z",
-          "source": "Engelsberg Ideas",
-          "sentiment_score": 0.0
-        },
-        {
-          "title": "为什么中国的供应链在地缘政治不确定性中很重要 - 新华社",
-          "desc": "为何中国的供应链在地缘政治不确定性中举足轻重 新华社",
-          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE43SWhpWWd4aVRqeFdYd0N3b1hqUjJHV1FJc1Z1RFhSYm5OU0tuV0Z2UHYyTlV6U0xrRWpqX0pxSWpSZDltMnFZakFQcmlMZ29FMjVqN05fSEYzdkJJeV9FckkwdHp0UW9QT0pBM1pKWkpGV0RrSW9rNFczaw?oc=5",
-          "timestamp": "07:28:20Z",
-          "source": "Xinhua",
-          "sentiment_score": 0.0
+          "sentiment_score": -0.5
         }
       ]
     }
@@ -250,14 +250,14 @@
   "market_sentiment": [
     {
       "label": "贵金属（黄金/白银）",
-      "value": 0.1,
-      "sentiment": "震荡中性 (评分: 0.1)",
+      "value": 0.2,
+      "sentiment": "震荡中性 (评分: 0.2)",
       "sentiment_type": "neu"
     },
     {
       "label": "能源（石油/天然气）",
-      "value": 0.1,
-      "sentiment": "高波动震荡 (评分: 0.1)",
+      "value": 0.0,
+      "sentiment": "高波动震荡 (评分: 0.0)",
       "sentiment_type": "neu"
     },
     {
