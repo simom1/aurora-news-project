@@ -1,8 +1,8 @@
 {
   "report_metadata": {
     "version": "2.0",
-    "last_updated": "2026-07-05T06:00:03.326103",
-    "report_date": "2026-07-05",
+    "last_updated": "2026-07-06T06:00:02.982050",
+    "report_date": "2026-07-06",
     "title": "AURORA | 战略情报简报"
   },
   "prices": [
@@ -38,14 +38,14 @@
     },
     {
       "name": "比特币 BTC",
-      "price": "63,238.00",
-      "change": "+1.11%",
-      "up": true
+      "price": "63,034.92",
+      "change": "-0.08%",
+      "up": false
     },
     {
       "name": "美元指数 DXY",
       "price": "100.86",
-      "change": "-0.00%",
+      "change": "-0.52%",
       "up": false
     }
   ],
@@ -58,19 +58,19 @@
       },
       "items": [
         {
-          "title": "利率上升和美元走强令投资者谨慎，黄金抛售加剧 - 雅虎财经",
-          "desc": "随着利率上升和美元走强，投资者谨慎行事，黄金抛售加剧 雅虎财经",
-          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOejNGb3VubWhEMy1PcmRFdUUwSkZYQkNLckJ6NnJtdDU5aXFzQmJGTFBJVFpJU1FxclhMbFlyVHRRNlhzdzRFcHRsaTVvbEgwUHhpaFk5VDNPaFV1cDVqMnZwRjg0QmhYX0U1eDFycmp3RHVkckZtWURfZTUxUEEtRW92XzRVZ1J1UGpXZTVtY2JuU3lPWlJkX0NyR3ZXcS1IeVVKTVJR?oc=5",
-          "timestamp": "13:31:06Z",
-          "source": "Yahoo Finance",
-          "sentiment_score": 0.0
-        },
-        {
           "title": "摩根大通预计第四季度金价将达到 4,500 美元，称存在下行风险 路透社 - Investing.com",
           "desc": "摩根大通预计第四季度金价将达到 4,500 美元，表示存在下行风险 路透社 Investing.com",
           "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQdmV4WDlwS3ktNHk2YThvY1N6cHRpRVA3eVVEY1RFcGllckh6QnJUMldCSWxUc1A1V092Rm91TkF6UHZ6VWNSMXFUZTFHckhkaXVmWWF1NnpqYW1JenRUMHVCSThQRWJmbHc1aFg0MnNvVldLV2xtODFpTVpnZEc4dG1ZRWJ3QU40OE4wZlBkcEIzckVOX25OaEFXVlR1MGpEd2pVb0NmNXlndGp2S19FQWZOOFZlZFlyaG02R1VIRl9uVVVGZDlHZC1rQUFTSXlpODV5SFpCTnhRQ2Jodk9DRw?oc=5",
-          "timestamp": "23:08:20Z",
+          "timestamp": "21:41:32Z",
           "source": "Investing.com",
+          "sentiment_score": 0.0
+        },
+        {
+          "title": "为什么央行购买如此多的黄金？ 90% 的机构引用这个理由 - 雅虎财经",
+          "desc": "为什么央行购买如此多的黄金？ 90% 的机构引用这个原因 雅虎财经",
+          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPdkdFaGpsSC1XajB4OS1iOERYWENkUm1iTG1fNVdwNTVZeEJRNzJ4bWgyaFRqalc3T2stdlZzaFM5VnJhaHg0dkFyQ0YxcFo3VGhKcWZQa3QwbHVxNHZxUDVfb3RGRUpudzBfbHNnSWd1M3hSaWRZemJSWmoyd0VGVzVGRGhKSEE2V3A0djNDUEZVUFAzMzhsSEEtYkY1bWtI?oc=5",
+          "timestamp": "03:31:00Z",
+          "source": "Yahoo Finance",
           "sentiment_score": 0.0
         },
         {
@@ -82,18 +82,18 @@
           "sentiment_score": -0.5
         },
         {
-          "title": "为什么黄金不再具有保护作用（商品：XAUUSD：CUR） - Seeking Alpha",
-          "desc": "为什么黄金不再受到保护（商品：XAUUSD：CUR）寻求 Alpha",
-          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5rNkFfWnRxZlFGM1RCOFIwWGl6M3ZHV1Q2VHp0YnkxXzMwSkNCWTZJb2tnZjJCZ0F2TmduWUYybWpidnVrRVYzSVI0MFJJM0tKYXp5R01jUTBlTVlyc0FiNTEyY2tTWHZkQjd4aWZLRjlFMUYxNVQ4?oc=5",
-          "timestamp": "17:17:57Z",
+          "title": "美国就业报告疲软削弱加息押注后金价上涨 (GLD:NYSEARCA) - Seeking Alpha",
+          "desc": "美国就业报告疲软削弱加息押注后金价上涨 (GLD:NYSEARCA) See Alpha",
+          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQVHJHV0NDN3hEU2Eza1g3WllTcFNpT1VsOG4wMC1fR0MxV2JuRHVFSTZtR29yVVh3RXJsVV9GMVBmZWRjOHJpWTdhS3cxbS1iR2pmZDJJb3FUTk9CeVJoQkpiMnFMc0JLaUtGUUtZTmRfVlhISnVGcVZxSFVqSkRkaTZNb1JhczFFN1lob1ctUEhBOEJld08xb0JYOUZIcmZn?oc=5",
+          "timestamp": "21:15:42Z",
           "source": "Seeking Alpha",
           "sentiment_score": 0.0
         },
         {
-          "title": "为什么央行购买如此多的黄金？ 90% 的机构引用这个理由 - 雅虎财经",
-          "desc": "为什么央行购买如此多的黄金？ 90% 的机构引用这个原因 雅虎财经",
-          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPdkdFaGpsSC1XajB4OS1iOERYWENkUm1iTG1fNVdwNTVZeEJRNzJ4bWgyaFRqalc3T2stdlZzaFM5VnJhaHg0dkFyQ0YxcFo3VGhKcWZQa3QwbHVxNHZxUDVfb3RGRUpudzBfbHNnSWd1M3hSaWRZemJSWmoyd0VGVzVGRGhKSEE2V3A0djNDUEZVUFAzMzhsSEEtYkY1bWtI?oc=5",
-          "timestamp": "03:31:00Z",
+          "title": "利率上升和美元走强令投资者谨慎，黄金抛售加剧 - 雅虎财经",
+          "desc": "随着利率上升和美元走强，投资者谨慎行事，黄金抛售加剧 雅虎财经",
+          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOejNGb3VubWhEMy1PcmRFdUUwSkZYQkNLckJ6NnJtdDU5aXFzQmJGTFBJVFpJU1FxclhMbFlyVHRRNlhzdzRFcHRsaTVvbEgwUHhpaFk5VDNPaFV1cDVqMnZwRjg0QmhYX0U1eDFycmp3RHVkckZtWURfZTUxUEEtRW92XzRVZ1J1UGpXZTVtY2JuU3lPWlJkX0NyR3ZXcS1IeVVKTVJR?oc=5",
+          "timestamp": "13:31:06Z",
           "source": "Yahoo Finance",
           "sentiment_score": 0.0
         }
@@ -115,20 +115,20 @@
           "sentiment_score": 0.0
         },
         {
-          "title": "美国假期前空头回补买盘推动油价上涨 - 路透中文网",
-          "desc": "美国假期前空头回补买盘推动油价上涨 路透",
-          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPQjJuTlNEejJjWHZfckJtT3BHcWVLbXpJQUZzOVEzaDJCMThGUmJaU1pXRXdKYV9RUG9Nc09WaVRaVHhYUXh5LW43QzNzU3dzNDd5dGVQaFpmQzNhenJRcW1HMVVOQ3pnNVptVHpCSk9mUC1BWl9xTUJyQmttcHdRWF9jdkZiS3dZMkQ2ekY5aWpPX284MnFMOVVBaw?oc=5",
-          "timestamp": "19:28:26Z",
-          "source": "Reuters",
-          "sentiment_score": 0.5
+          "title": "截至 2026 年 7 月 2 日的当前油价 - 财富",
+          "desc": "截至 2026 年 7 月 2 日的当前油价",
+          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1JRXdOQzJ3VXZCVkJ6UTYzYVVDUXhZMXBXT2ZtTmtjaVRxeDJSWmhnZEJBYndnMTFhRXZfTnJnMEVNTU02a3hSdEFyZjhnRmxnVE4zdm1pWUE2WS1uVjYyUWVR?oc=5",
+          "timestamp": "13:40:00Z",
+          "source": "Fortune",
+          "sentiment_score": 0.0
         },
         {
-          "title": "美国原油库存继续下降 - 华尔街日报",
-          "desc": "U.S. Crude Oil Inventories Extend Decline&nbsp;&nbsp;WSJ",
-          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOT0tQZjFRZUwwQmYwOTlFNXhrMHp2Um5GVDY3NXV1QTYtQllOLU9WckZ5dlVCOENfczZvcWlGWmM4T1B6Zmwtc1YwR3RQd04wTXRZQzE4OWhVUFlVV1dFZG5vNDJCaHFMNkM5TEJpT2RKSXFVcXUwQk5oekVtTk40X1hPd2JhclRjZHFqaFFGUm5tTVE?oc=5",
-          "timestamp": "15:14:00Z",
-          "source": "WSJ",
-          "sentiment_score": 0.0
+          "title": "伊朗危机与 1979 年石油危机相比如何？ - 路透社",
+          "desc": "伊朗危机与 1979 年石油危机相比如何？  路透社",
+          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNMG9oa3VPLW5oa2dhSDc5NXA3czBNYlVLR3lrdGprX2FpQ1VYOGxtNngweEJVVm52d0F0RmVuQXhfc0xWcWxjck9oUWN6S0NLRjhoSEkyTVN4R3Rod05JeWRPS1M0LUZtamZ6NlFDUGRmSnBxTTgxYUlZdkRjb2NaNmV3d2tKZkZ0ZEd4MmU3X19EZzhQdVlzTDM2ZDVfSjU1ZmFJZWF2QllXNkU?oc=5",
+          "timestamp": "13:44:00Z",
+          "source": "Reuters",
+          "sentiment_score": -0.5
         },
         {
           "title": "霍尔木兹将石油前景变成猜谜游戏 - 今日原油价格 |石油价格网",
@@ -139,11 +139,11 @@
           "sentiment_score": 0.0
         },
         {
-          "title": "Turkey, Iraq Hold Pipeline Talks Ahead of Crude Oil Deal Expiration - Pipeline and Gas Journal",
-          "desc": "土耳其和伊拉克在原油交易到期前举行管道谈判 管道与天然气杂志",
-          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNcl83NVI0TVJFMzIwbUZHeVN4TVZyYkJHLURjMExPZ0FqdlUwRmlWX1A1ZXFZSFoxc1lTTXlwOW85S1UtWERMR25vblI0TjZvQ3ZIMkNsdjdHazNDcnEwQUJuQmxTOHJsd2lQQXFwdVlmLXFFeGhCSHVLVlpoSE42Q3NsWEV3dmtCbHNGWHlsM1k2NU9wVG4tLW52NW9xLUNRc3Rtem93?oc=5",
-          "timestamp": "16:13:44Z",
-          "source": "Pipeline and Gas Journal",
+          "title": "图表：中国如何重塑全球石油贸易 - Visual Capitalist",
+          "desc": "图表：中国如何重塑全球石油贸易 Visual Capitalist",
+          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBfeVV0Y1d3a0xYVXpUU05BWGhZMGFsRFktOUQxMndNaU9aTkFqV2RLYkM1NFlPY1RNdXpoWG5oRTJBT1BQVjhjWnlQb2I1RjhKa1BQZ0lTYWtyT3RiaGhGakNuQm1PaEtuMXdwWjJOVWcwVmlXNDZJMA?oc=5",
+          "timestamp": "17:07:30Z",
+          "source": "Visual Capitalist",
           "sentiment_score": 0.0
         }
       ]
@@ -156,15 +156,7 @@
       },
       "items": [
         {
-          "title": "想要一份不受人工智能影响的工作吗？新研究表明，在采用这项技术的公司里你可能会更安全 - 洛杉矶时报",
-          "desc": "想要一份不受人工智能影响的工作吗？新研究表明，在采用该技术的公司中，您可能会更安全 《洛杉矶时报》",
-          "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPVTdrN1V5TzhfMVc2ZlNmSlR1VzE1TENqTldLMzFEOEZiN0NRWkw5bkVGSzI4aFdmaW9PWFpXc2hZRWtBWE9PTzd3ZWsybVd4Q2tIZVNfY2lqVW02WnpCZ2dCZnluQ2J1MVkwaWtPM1RvSDJScTZ1Q0s1cG5rVHVoQWpsUWxFWDBVWEpWeERDNV9FdlNwX3lWRDFTWTR6U2tYMGhSSmpBNEpZRlpKRHl3ZDFhekc2SG5FTTFXcjQwNzJobkxVTVZCQ2J4bE8xR1NvUUE?oc=5",
-          "timestamp": "10:00:00Z",
-          "source": "Los Angeles Times",
-          "sentiment_score": 0.0
-        },
-        {
-          "title": "AI security questions loom over NATO summit - Politico",
+          "title": "人工智能安全问题笼罩北约峰会 - Politico",
           "desc": "人工智能安全问题笼罩着北约峰会 Politico",
           "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9HUDRUeTFWZUxRRk96eWdGQVJsZjI5bC14YmFMRldxYlRSVHQyYllzX1VCczhyeGFqYV80M3RYZ0duV0l3dHlsY0dhbkJ0N1lPajk4NWdJZ3VEZm56Z25qa1ZJaUJGWVdTMXdoZkoxNkJPaUZMVmo3UVNrWmNmUQ?oc=5",
           "timestamp": "20:00:00Z",
@@ -172,11 +164,11 @@
           "sentiment_score": 0.0
         },
         {
-          "title": "对于一家小型企业来说，人工智能是快速启动和扩张的关键 - 路透",
-          "desc": "对于一家小型企业来说，人工智能是快速启动和扩张的关键路透社",
-          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOSEhsMnNsNTVEQ29fZ1pGMzB6ZzNyZHgxWmUwaGp5Z0JxeGpUS3hCNUw5NHZ1NTFLVDFJUjd1bFZoQmpfRFFMMEQtZXVadnFmc01yaUpwSFl0Njc4X2Jsc1ZmYWdXcHdMRkJfUi1wLVNzNHQzcGhfNThMV2RLYU5faW1SSUE2ZXExV25uOERMSG5XNG43UHBmbmM4c2hkSVlNT0tNVFNvandxempMejF1MmZYWWF3SGRueVJ2dlllUV8?oc=5",
-          "timestamp": "15:20:44Z",
-          "source": "Reuters",
+          "title": "想要一份不受人工智能影响的工作吗？新研究表明，在采用这项技术的公司里你可能会更安全 - 洛杉矶时报",
+          "desc": "想要一份不受人工智能影响的工作吗？新研究表明，在采用该技术的公司中，您可能会更安全 《洛杉矶时报》",
+          "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPVTdrN1V5TzhfMVc2ZlNmSlR1VzE1TENqTldLMzFEOEZiN0NRWkw5bkVGSzI4aFdmaW9PWFpXc2hZRWtBWE9PTzd3ZWsybVd4Q2tIZVNfY2lqVW02WnpCZ2dCZnluQ2J1MVkwaWtPM1RvSDJScTZ1Q0s1cG5rVHVoQWpsUWxFWDBVWEpWeERDNV9FdlNwX3lWRDFTWTR6U2tYMGhSSmpBNEpZRlpKRHl3ZDFhekc2SG5FTTFXcjQwNzJobkxVTVZCQ2J4bE8xR1NvUUE?oc=5",
+          "timestamp": "10:00:00Z",
+          "source": "Los Angeles Times",
           "sentiment_score": 0.0
         },
         {
@@ -188,11 +180,19 @@
           "sentiment_score": 0.0
         },
         {
-          "title": "独家| SpaceX 向投资者展示埃隆·马斯克新型人工智能设备的原型 - 华尔街日报",
-          "desc": "独家| SpaceX 向投资者展示埃隆·马斯克新型人工智能设备的原型 华尔街日报",
-          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPOWFQd2UyR0hnMVdEcm1LVE5TRUVnYzBfdmJsQlFpaU9qVG5pUUQxY1BQbW05ODk1Qk5JX0ozV3VsN0lsQ2NreGlBYkdwZmRrakZMakZ3Q3BFRkxYWXYzNU5ZSEw5YU1Ba0oxVEJCaEo1UGZCNXBRX0NBb0dBTHViTWRyX2ZOY2ZsMF9PeUlsb0tWVWFvV1hIaEJRaXV4ZG8?oc=5",
-          "timestamp": "18:11:00Z",
-          "source": "WSJ",
+          "title": "对于一家小型企业来说，人工智能是快速启动和扩张的关键 - 路透",
+          "desc": "对于一家小型企业来说，人工智能是快速启动和扩张的关键路透社",
+          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOSEhsMnNsNTVEQ29fZ1pGMzB6ZzNyZHgxWmUwaGp5Z0JxeGpUS3hCNUw5NHZ1NTFLVDFJUjd1bFZoQmpfRFFMMEQtZXVadnFmc01yaUpwSFl0Njc4X2Jsc1ZmYWdXcHdMRkJfUi1wLVNzNHQzcGhfNThMV2RLYU5faW1SSUE2ZXExV25uOERMSG5XNG43UHBmbmM4c2hkSVlNT0tNVFNvandxempMejF1MmZYWWF3SGRueVJ2dlllUV8?oc=5",
+          "timestamp": "15:20:44Z",
+          "source": "Reuters",
+          "sentiment_score": 0.0
+        },
+        {
+          "title": "Artificial intelligence: Yann LeCun works on more flexible AI - BBC",
+          "desc": "人工智能：Yann LeCun 致力于开发更灵活的人工智能 BBC",
+          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBla2lwM0tKT2RIRmtrNldwRkxjWDdtRE1WUjJ3UGpnQ3hkdWF3OHNXY2FNT2t3LVdGZGxaVEZBX3B1aXZ3ejh6RmQxZW9qcHZGSkduSThSYkZWVjBm?oc=5",
+          "timestamp": "23:03:09Z",
+          "source": "BBC",
           "sentiment_score": 0.0
         }
       ]
@@ -205,28 +205,20 @@
       },
       "items": [
         {
-          "title": "航天公司 Vantor 扩大投资组合，追踪“市场地缘政治转变”：首席执行官 - Breaking Defense",
-          "desc": "航天公司 Vantor 扩大投资组合，追踪“市场地缘政治转变”：首席执行官 Breaking Defense",
-          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNMURvSS1zb1A5SVoxc241U2lMMTBrN2ZTa3ltVEhicFAzVi1iNy1WSnRNTnd5SGx6RkJJcmIzRFk2TlZqOUdfR0N4eGNyQXlJSHF4UFBaRTllZ05YUDJiUUJ1cmdPa1BWNkpvT2x1TF9sWUd0STRMUzBWZGd1V0pmT1BTRng4UGRteTJRNGxqQlNXNUJpelhvSklmRHpJNGhRSXVUVUhwUVo2Wm82bEpUYTR1QzZ1OUc1QUN4OExiYzdrcVlyZ3c?oc=5",
-          "timestamp": "19:46:04Z",
-          "source": "Breaking Defense",
+          "title": "以色列、巴勒斯坦和迦南：神话、考古学、历史和地缘政治 - 以色列时报",
+          "desc": "以色列、巴勒斯坦和迦南：神话、考古学、历史和地缘政治 以色列时报",
+          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOd2tIR3llWHdFXzlDenFhdWttU2hwM3ZBN1lTSVY5WUh2RmR3RzJmaTRqS2xoWFIwQ0ZaRU5kY1FIcVU1ZWZNM2swT3BOZHQ1R1g2MGU5a095eDFWcy03eHhDcVV1SV9uV2RYS2E3bE0yVndFWUwzaEw3aV8xUExUSnBXNmJOVTY2bnJidlgydTMyUFVlTFpsbGc3SUdNOG9RdVlV?oc=5",
+          "timestamp": "09:23:00Z",
+          "source": "The Times of Israel",
           "sentiment_score": 0.0
         },
         {
-          "title": "世界杯如火如荼地进行，为何地缘政治批评却平息下来？ - 对话",
-          "desc": "世界杯如火如荼地进行，为何地缘政治批评却平息下来？  对话",
-          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOTC1mSHltb0p6Y1hVMk44YUx4WFk1ZzNLTW80QU1FdDZFYndZVHAwekowLXpSZHd5MS00SVJncV9Pd2wtZE5Ra0RLZjRDbFp6Zld5TFl4NXNkemJpZDh1UWZkT0dfbDktYjk5MXF6a1RPZ0dhZTVJdkg1MURnOWJUVjN6MWlGX1hubzFZbXNhcVRpRFhpM0YxdlF0cnZIN3Azc2JMSHdMSzFwMXhJUHE3MmotQTc?oc=5",
-          "timestamp": "19:38:47Z",
-          "source": "The Conversation",
-          "sentiment_score": 0.0
-        },
-        {
-          "title": "霍尔木兹紧张局势如何重塑印度洋地缘政治 - TRT World",
-          "desc": "霍尔木兹紧张局势如何重塑印度洋地缘政治 TRT World",
-          "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFAtY05GQ0xoSk5KWnlLNUhkdno0N1pVUE40VXp3ZFI4YmNyVTBfXzVBcDZUQk9zWVg3THB6N2lyc1h1WmpPS2prVFRKXzhfRGhnU0NZWmhXcEY?oc=5",
-          "timestamp": "11:50:21Z",
-          "source": "TRT World",
-          "sentiment_score": -0.5
+          "title": "富士康第二季度营收大幅增长，公司对地缘政治发出警告 - 路透中文网",
+          "desc": "富士康第二季度营收大幅增长，公司对地缘政治发出警告 - 路透中文网",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPWmx3T3BFZ1E1WU1nRUZ1S1BJV3lNNnh0Vm5pRFIxYkw4STEzcDRhLTdSd0xrNVhsZEJEZjRCUTVXSmJoVmVJSXNwU1RKTmVxX2RpeVdEWFlyM0QtLWt5bVJydXhuYVMyZ2wzTGVFMWxTck16bEM3THJjWWl1X0FSOFRleklxdjJQMHU4QnN5U1BicnZvdjFYRlNjVEdrZw?oc=5",
+          "timestamp": "11:37:38Z",
+          "source": "Reuters",
+          "sentiment_score": 0.5
         },
         {
           "title": "赞比亚的丰收掩盖了地缘政治和气候威胁下可能出现的粮食不安全 - 新闻 - Mongabay",
@@ -237,11 +229,19 @@
           "sentiment_score": 0.0
         },
         {
-          "title": "关注俄罗斯：立陶宛因“地缘政治局势恶化”而采取行动废除核武器禁令 - 印度时报",
-          "desc": "关注俄罗斯：立陶宛因“地缘政治局势恶化”而采取行动废除核武器禁令 印度时报",
-          "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxQTWY1aEI4TWJNbVctTGd5NjRhN3k1dk1mUTFQdERSQmIycUZubExEeE5udHk5dmdGRjg3UUo5Z3QyQ05PdXYxOHQyN3Y5OEtZc2NQR2RVcXRTMGlZbzBwajBrS2UyN0NOOU5pVDhaX3FhLXV4aHo3bmJiNGRMQTgwVldfZzY0eFpFbWRkTFhjRGgyMTUzYWpudWEzZFpUMjNNTjE5c3pNWkRFbU1IYU9KdUZ4VmRLVjF0WXhSQjlTY2l5dXUwdUJ5Ty04VHp6VkFVMk9vcVRsT2RodVlMXzB6MmhqdnRHQkwtNDUxQ0J1SG1tY3NFX1NraXZ4eUtORzNObHdj0gGIAkFVX3lxTFA0ckZlbW1aQ1hYa08yLUlhSkZnczl5N0FDdXlya0ZqU0gtVGt0c2djR0FFbngzV19LRkNkM1Vvay1iaUN5NDViRVp0V0hEZl9pSlNnOXpJUEhGajJlbXMzTXNJa2k1WlhpU2dnT1Y5SllxQUp1VGg0VTROTmdXUnlfWU5KcnJVZWg4WVJyX2s5SWExeEZOTzY3TEJvNzdvSHExRjJMeGUzSkdYMjlUNXc4REVkMFpYRTBHaEU1Z3NPMEtnQzFqWHpMcWNZLWRmRlptSlp0cGZzYnBJUTE2TjJZQkpkWW1vRE9udEVheEFWXzU2YXRncjk4aWkyQ1dyTGtfTEtkSlBjQw?oc=5",
-          "timestamp": "11:30:00Z",
-          "source": "The Times of India",
+          "title": "富士康第二季度营收大幅增长，公司对地缘政治发出警告 - 雅虎财经",
+          "desc": "富士康第二季度收入大幅增长，公司对地缘政治发出警告 雅虎财经",
+          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPTWx6MlBVZzU2SzBTVXdxOVAxN204dTR2YlhkUmlBRkV0cHNWcUx4VlpKUDBQZ3Qzck5pRzJIQTQ0VVhZV242R01VTHJCLVVQR1gtbGFjeEJaYXBXZ2J5cXhqcUxwUU5Zd2hCcXUzRnZzRWRUalFBMXk4YkxYaG1Gdy14Qjl0bEVPekttX19ZZGNRR1dLRDNiZnRFTWk2MnJzTXc?oc=5",
+          "timestamp": "07:42:32Z",
+          "source": "Yahoo Finance",
+          "sentiment_score": 0.5
+        },
+        {
+          "title": "无人机军备竞赛：南高加索地区无人机战争一体化 - 地缘政治监视器",
+          "desc": "无人机军备竞赛：在南高加索地区整合无人机战争 地缘政治监测",
+          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNZzJrQllwZzZfd3hpakl4UWRsMEQwWVpzLXVyZ2RySm9MR0RNQm5GbFIwZXVuam9YeThIOW14bFZIZS1mWW01WUxUOVhWbWVURmpzX01kZkNLYnhWR2RWMGlMcVFWREpwYnF0bjNiREFlWXRscFhELTI1TFRTclluQmRzREJMbzRHQ1g5dnJpelpJSE03eU9CckZKTHJ5YVVPSWtnTE5R?oc=5",
+          "timestamp": "11:52:43Z",
+          "source": "Geopolitical Monitor",
           "sentiment_score": 0.0
         }
       ]
@@ -256,8 +256,8 @@
     },
     {
       "label": "能源（石油/天然气）",
-      "value": 0.1,
-      "sentiment": "高波动震荡 (评分: 0.1)",
+      "value": -0.1,
+      "sentiment": "高波动震荡 (评分: -0.1)",
       "sentiment_type": "neu"
     },
     {
@@ -268,8 +268,8 @@
     },
     {
       "label": "地缘政治与宏观雷达",
-      "value": -0.1,
-      "sentiment": "局势相对平缓 (评分: -0.1)",
+      "value": 0.2,
+      "sentiment": "局势相对平缓 (评分: 0.2)",
       "sentiment_type": "neu"
     }
   ],
