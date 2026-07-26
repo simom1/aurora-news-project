@@ -1,21 +1,21 @@
 {
   "report_metadata": {
     "version": "2.0",
-    "last_updated": "2026-07-26T06:00:03.305811",
-    "report_date": "2026-07-26",
+    "last_updated": "2026-07-27T06:00:02.999085",
+    "report_date": "2026-07-27",
     "title": "AURORA | 战略情报简报"
   },
   "prices": [
     {
       "name": "黄金 XAU/USD",
-      "price": "4,067.60",
-      "change": "+0.52%",
+      "price": "4,070.80",
+      "change": "+0.60%",
       "up": true
     },
     {
       "name": "白银 XAG/USD",
-      "price": "58.66",
-      "change": "+1.48%",
+      "price": "58.91",
+      "change": "+1.92%",
       "up": true
     },
     {
@@ -38,8 +38,8 @@
     },
     {
       "name": "比特币 BTC",
-      "price": "64,288.01",
-      "change": "+0.30%",
+      "price": "64,891.79",
+      "change": "+0.90%",
       "up": true
     },
     {
@@ -58,22 +58,6 @@
       },
       "items": [
         {
-          "title": "2026 年大宗商品价格预测市场：石油、黄金等 - SailGP",
-          "desc": "2026 年大宗商品价格预测市场：石油、黄金等 SailGP",
-          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9TMjI0OXlXVzdfVmlJamx3dzlPdGZiOXpVWGpzRHI0RlZHTV95RkN3U2pRTVB6a0FtOXQwSU1BeXgtQzRHbFNuYUlzczU2QnlseFhBQTJhYktvYUNIRnc?oc=5",
-          "timestamp": "02:10:08Z",
-          "source": "SailGP",
-          "sentiment_score": 0.0
-        },
-        {
-          "title": "金价下跌的背后？美国债券收益率飙升，ETF 流入量下降 - Benzinga",
-          "desc": "金价下跌的背后？美国债券收益率飙升，ETF 流入量下降",
-          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPU1VQRXVmMV9GQ3FJTGNXZHFrSWI0ZFM3T3dKRDFadS1fakk3alZQVG11aHBFM1F6N05Oc051OXAxTzJQbUdvS2NBdXdjb1NyTzF6S21OcnBvaXp3ZTF0cXg5ZkRyRGdPRmVTZlFmaDBDdjBFRGZva1pQb3E0UllUdnZwbkYxLWRoUkY5dFhsbUplRmE0LWwtWjhvRC1WZ01weEwxbTZWSTNVSkVsY1JCZk5aeEQyLXhpYjBEa3BYX0JUdkg0TW1PVA?oc=5",
-          "timestamp": "18:42:47Z",
-          "source": "Benzinga",
-          "sentiment_score": 0.5
-        },
-        {
           "title": "黄金价格下跌。逢低买入是有道理的。 - 华尔街日报",
           "desc": "黄金价格下跌。逢低买入是有道理的。  华尔街日报",
           "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQSktvMDJOSUNuZ2NBbUt3V24yYzVhS3pKWlZIZC1TS1NUb0tNai1RUVpSRF9SWUZGQ3F2Rk5EUXQtaWtIQnBMWXNud05BYzBjSklIZ0N0R0dpbFpJc0libkV5NURfY0NwOWVaa2E2SG1HdzJ6NVJ6OHliVWp6bklKOVJlYWRtdlpDY1RVcEQ1dmtzcC1wZmM2UXZ1a0RGUWV0YVNpOWl2RTFXWEE?oc=5",
@@ -82,20 +66,36 @@
           "sentiment_score": 0.5
         },
         {
+          "title": "国际金价暴跌后中国黄金进口激增 - 雅虎财经",
+          "desc": "国际价格暴跌后中国黄金进口激增 雅虎财经",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNdllDUTBiVjFVWEVoUk5ib3RtbXJxRVpURGR3UDV5eU5NM2ptNDR1dEVQTUFRWVZkcVF6Z08zZVVJZlZoZ0I5WnlMUGYzX1VoQk5WQzh0RzBLY2pjSzRITmRLOGtULU85Z2ZySEpEcFJDOGhidERkODlzZGd6LW9rOGoyY0dMUXR3V0VfNEVCMnNvSGY1WXdKTFVaZzFpdEtTS25ydWtQYWg4V3FI?oc=5",
+          "timestamp": "02:04:00Z",
+          "source": "Yahoo Finance",
+          "sentiment_score": -0.5
+        },
+        {
           "title": "金价警告：中国7月24日“震撼”与否？ - 基特科",
           "desc": "金价警告：中国7月24日“震撼”与否？  基特科",
           "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQbS1RcHVxUGFvVmY1SXFoMUtfeWxKNnQxczZQRl9pQVloUHVJMXZqNjk5X3kxMUI5LVhBc1JXdUJBeHVNS1FQRHNzRDJrVDJadXdQSlY3VzNxR3NZQkh2MG40bC1rMW1MZS14ZkZVbmJoQXdvSlJrcVhDUklxQnBndGVYNnpubUdqeXB4TjFSc2s?oc=5",
-          "timestamp": "15:50:00Z",
+          "timestamp": "22:50:00Z",
           "source": "KITCO",
           "sentiment_score": 0.0
         },
         {
-          "title": "能源成本飙升导致加息押注金价持续下跌 - 雅虎财经",
-          "desc": "Gold Holds Decline as Surging Energy Costs Raise Rate-Hike Bets&nbsp;&nbsp;Yahoo Finance",
-          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNd1VKRklXZTdHZTlYbFZfeFNzejdFQU9oT05YWWlxZFBkNGwtcTZfRzNWbFhZRk42Z2Y2bkhUaFFjbGYyYmdwOUlZZ3Q2VldPY3FpVGY2ZUpuR1F6S0g4X1p6Uy1tNlhkWDRPYjZPMFRMWGlQUmFMYm4wUF9DdjF1TndkRmJTVEN1UU1od2pSWmdscWdiMW5LQ3Y2NjN5MEtoeGpuSl93?oc=5",
-          "timestamp": "23:54:52Z",
-          "source": "Yahoo Finance",
-          "sentiment_score": 0.5
+          "title": "这位专业人士表示，现在是购买商品的时候了。为什么铜可以脱颖而出。 - 巴伦周刊",
+          "desc": "这位专业人士表示，现在是购买商品的时候了。为什么铜可以脱颖而出。  巴伦周刊",
+          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1pUVpWY1NVc3ZaeDJwamVkeXY5UENDT3dvZko4ZThyTWJWUkFDcWxBRzBxMENYMzlROXd0dElFNUlPU0NqTzE0djFfaTFvckJadVZJNVVvR3NDRUUzMndidzhhcDBuTVFnLVRERklZUDdZSnRTLUVIbkVHUFRyZw?oc=5",
+          "timestamp": "07:00:00Z",
+          "source": "Barron's",
+          "sentiment_score": 0.0
+        },
+        {
+          "title": "技术性买盘抵消通胀压力，金价结束两周跌势 - Investing.com",
+          "desc": "由于技术性买盘抵消了通胀压力，黄金结束了两周的跌势 Investing.com",
+          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOamhSdE5ONVc3TGNENnVRM2RXV1Y0YlZqdTJ1aUdlaHphSW1QUS0yS3ZRRzlFdTZEMWVzRmE5cmpwbmN4Smt4SFg5aU9ZSE5SWVkxcnNQWkRWcFFtLUNydzhlUWdkYTBnZ1dTN0hQenJrcUxyWUU2VVc4WVlDaEE2VnE3Y2JMWkRjdFRhSEdaUFhXSEdMYU5RTzg2WW5vNTBrMjJOR084emZ4VWNrM2xjc0pWa3FuVkEteGsxWXAyQQ?oc=5",
+          "timestamp": "02:11:19Z",
+          "source": "Investing.com",
+          "sentiment_score": 0.0
         }
       ]
     },
@@ -107,14 +107,6 @@
       },
       "items": [
         {
-          "title": "石油资源丰富的沙特阿拉伯并不缺乏能源。这就是它想要发展核能的原因。 - 纽约时报",
-          "desc": "石油资源丰富的沙特阿拉伯并不缺乏能源。这就是它想要发展核能的原因。  纽约时报",
-          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPYWtxdFk3Uk9DYm82MWNtN0xwMWJRV08wMmRYTGxtY2VJa3EyNkRTWmdvLV83UmlVMUFNSHhnZS00cTc1dnRuelFqaENGcXZRSmQtYlJtNHZlM01QdFZVNXBJSGhqYUZIY0JPTjlKbUs0cDdWbkpraVloVnpUaU5WYVZEcw?oc=5",
-          "timestamp": "09:59:35Z",
-          "source": "The New York Times",
-          "sentiment_score": 0.0
-        },
-        {
           "title": "全球能源紧缩进入“更危险”阶段 - 晨星公司",
           "desc": "全球能源紧缩进入“更危险”阶段 晨星",
           "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQNlJjTTkxYWZsUnNGbi1LX0NPY2tHWnZsVWZ0LXVIbk5iRlJ2UmdkNHhWYW1VYXBjLThNaXd6ak0zelI4NVV6ZnlpSG5nZ3RqVWtQeFhhcFZ3cmJWN0dSb1RpYmt1QmdQVkJycW4zV0d3Z1BuVDZCT0tIYm9mVFE1dVZkZFJPYWppd3lVY3F2cw?oc=5",
@@ -123,19 +115,11 @@
           "sentiment_score": 0.0
         },
         {
-          "title": "商业原油库存增加 200 万桶 - 美国能源信息署 (EIA) (.gov)",
-          "desc": "商业原油库存增加 200 万桶美国能源信息署 (EIA) (.gov)",
-          "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBsd0NTVFhmRHlycjdsTm9nb05jLXRSaG9mWjV4V1VlNnhHYjlmeTl0UkhjVjA5alBDODZqc1NLSzQzOUNVY2tTMXYxRUZ1ZFNja0lJbVJuV3FhVjBqRGNsbGNuUQ?oc=5",
-          "timestamp": "18:57:44Z",
-          "source": "U.S. Energy Information Administration (EIA) (.gov)",
-          "sentiment_score": 0.0
-        },
-        {
-          "title": "能源与公用事业综述：市场讨论 - 华尔街日报",
-          "desc": "能源与公用事业综述：市场谈话《华尔街日报》",
-          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9pTnd0S1dkc3pyQmtBZlFoeHE5ZkxoREJiSHZXejlneHFmRk90THhqcE5VME9Ec1VBV0hESEdmU2NQVlo5MHZRdzBnbXl5M0hGY2pNYkFvcXRndzVrd0RLbEExOGlndm0xMzFRVzAtSHVNRXZFNVczVWdwc1AzNzA?oc=5",
-          "timestamp": "21:03:00Z",
-          "source": "WSJ",
+          "title": "油价为何不涨？能源需求的惊人下降让战略家们感到困惑。 - 雅虎财经",
+          "desc": "油价为何不涨？能源需求的惊人下降让战略家们感到困惑。  雅虎财经",
+          "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNMlBuQ3V0N2NhQVRvejZzQlI4X3A4VVVlX2RLckdNLVdXT2FpTlFFTUhobFk0M2NMLWhMeWU3cjR2MmJkNUc1cHJpVS1VN1pTaVg2Z1RUNnRISHAzNk9RNkowbzR4U2h6dl9rLUpmYnctTlVKMlRPZnR3WHdMazh2MjQ2YnhyeVp5MV9icTJ0eFVIN1djX1RvazVFUVBmdWRVM3ZfMHVSSHlPcG8yb3VTaHVteC0zSi1NOWE0S2tpRVFLQ0JMMlVHMTFJNUJSaklrbHd6c1JIaEJHRkE?oc=5",
+          "timestamp": "10:00:00Z",
+          "source": "Yahoo Finance",
           "sentiment_score": 0.0
         },
         {
@@ -145,6 +129,22 @@
           "timestamp": "16:15:00Z",
           "source": "Crude Oil Prices Today | OilPrice.com",
           "sentiment_score": 0.5
+        },
+        {
+          "title": "油价逼近 100 美元，但能源冲击可能比看上去更大 - Business Insider",
+          "desc": "油价逼近 100 美元，但能源冲击可能比看上去更大",
+          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNanpueWtZWWYtaWw2Y2s3a0JiSWN0MTh1NUQ2Mm9icmVMWlhGYXRCUWhOYkNfUUNlUlVEclRrWnlvcFA4TVlxMGotOU1MNEh6VTBoV0tCMmVUd2xTNVJyb1VvclVJT3NiUnJoNEc1ajYtb0RrTnIyVEJWX3lJalhacE5sUlJJTkVHNWpMZFJ6SDIxN2lfM1drWTQ0cw?oc=5",
+          "timestamp": "05:34:00Z",
+          "source": "Business Insider",
+          "sentiment_score": 0.0
+        },
+        {
+          "title": "US energy shares gain as Houthi tanker attacks push Brent crude to $100 - Reuters",
+          "desc": "US energy shares gain as Houthi tanker attacks push Brent crude to $100&nbsp;&nbsp;Reuters",
+          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOZlRHcUR2VXh4anpDQXJzTGNBWm9WejRCbGI5bFQ5clg4R3BjQlF0a3FET3lDdGpMblZUajFaMmtWVjNLWDMwTWdYQ2xBbU1RaDdYeTB2QnZOZjRuc25ZZ2NuLXdUZ2hLZnp5SXZzSkRUNzB1MnpMNGZhWUFnOTk3Z1NDaF8zVXVsM0M1UDl6Wk0ySTJCUmxlNFl2eWdpRXd6d0dnaXQxTWhXc2xRdURr?oc=5",
+          "timestamp": "14:25:04Z",
+          "source": "Reuters",
+          "sentiment_score": 0.0
         }
       ]
     },
@@ -164,19 +164,19 @@
           "sentiment_score": 0.0
         },
         {
-          "title": "人工智能就业启示录可能不会很快到来——《卫报》",
-          "desc": "人工智能就业启示录可能不会很快到来",
-          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOTlRPeHY4ZnZBa010WDFSS1p4YUxWNzdVRWo3X0g0Vk5LUEdFcjBsbnBMWTAzdG9jS0FUMTFKNkNsSnJnMTlNR1BoVkhYQy1EZmN2ZV8yWVJKbTFVTWJwZ2F2TjFLcU1OSlc4WEt6dW14QU1LUkFZVnlVUEpmVE93bGlkNEhqajRR?oc=5",
-          "timestamp": "13:01:00Z",
-          "source": "The Guardian",
-          "sentiment_score": 0.0
-        },
-        {
           "title": "硅谷在对中国人工智能关闭边界问题上存在分歧- 纽约时报",
           "desc": "硅谷在对中国人工智能关闭边界问题上存在分歧  纽约时报",
           "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPMGg1N0lvWXlpTm43VlhleE5IZmNpNDhTTWFZbzBnV1lUY1FCa212cl93ZkVtU00waTNFMnhib0RnaFl1MVBvZEpVbVVwUmlod1FMTV9Qazh4NjVVNThXTnZXN3U0RFBXU1Rwd3JLcjNPSjYxN0gzbzR0bkdUMmg4NElGRVVHZzdDSE5N?oc=5",
-          "timestamp": "13:00:08Z",
+          "timestamp": "20:07:34Z",
           "source": "The New York Times",
+          "sentiment_score": 0.0
+        },
+        {
+          "title": "更便宜、开放和智能：中国人工智能模型在美国取得进展 - ABC News - 突发新闻、最新新闻和视频",
+          "desc": "更便宜、开放和智能：中国人工智能模型进军美国，取得进展 ABC News - 突发新闻、最新新闻和视频",
+          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOVGc3Sm1YZkRWb0dORUQ1VjZEa2xpTEtTV3ktWGFqMk4wbGRPTXhlU201WGJwWFpNNlFzNUpxaHhjNEZvQVpucVVucW9LRGoyRVZmaGhDcUVBT01rdjdqTlc5R3hlSENvRWNyM2NqWk9EREpTeFFZUXl4OHM1dVpIOHlXT010SHBMZGgzYXRWUDVRQTNZZUVHd2VTRldIdjVJRjNHNWJhQUXSAa4BQVVfeXFMT2NEUEczS3piMXhKWjYzLVJlY1o1RFZVa2dNY2pRR2gzQTZxTFhjUW9VcUt5NGhmb2NsR1VCOWMtOEtydnZicnF1WlpyR09TR3RDN0hIVmM0OHRqcGx0QXp5aXZncDdlU2dRVGZkb2RjZF9CanluVVllZXlJSUNjUXpuenoyNHZ1LU53b0pnZUtFU1hERlZfb3hiZjc0blFnZWxmemxFTHJjNzNNWHpn?oc=5",
+          "timestamp": "04:56:54Z",
+          "source": "ABC News - Breaking News, Latest News and Videos",
           "sentiment_score": 0.0
         },
         {
@@ -188,12 +188,12 @@
           "sentiment_score": 0.0
         },
         {
-          "title": "人工智能模型突破人类控制，为技术研究人员带来了一个告诉你的时刻 - 美联社新闻",
-          "desc": "AI 模型突破人类控制，为技术研究人员带来了一个告诉你的时刻 美联社新闻 美国立法者在 OpenAI 模型失控后推动人工智能“终止开关” BBC 不，OpenAI 的模型在闯入 Hugging Face 时并没有失控。这就是真正发生的事情。  生活科学",
-          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOOFd2MTdsODdaamt3MHZQVXJaN1R3czJxQmxuNXBWTUwyN3FaMkxUMEhZVVZJTkhSeFM4SGcybnB5c2tEeHloM1hBbk9wMFRhRWcyNEZab045QTNUbkxraG1xSFJFTTY3a1gwYTJ6aVpQMXZXeE9kY0xZc0pmTm1wcXp2ZzRnTEJqZHNQNjllTjd5TWJqYXk2R1dqdTk?oc=5",
-          "timestamp": "20:30:00Z",
-          "source": "AP News",
-          "sentiment_score": 0.5
+          "title": "人工智能就业启示录可能不会很快到来——《卫报》",
+          "desc": "人工智能就业启示录可能不会很快到来",
+          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOTlRPeHY4ZnZBa010WDFSS1p4YUxWNzdVRWo3X0g0Vk5LUEdFcjBsbnBMWTAzdG9jS0FUMTFKNkNsSnJnMTlNR1BoVkhYQy1EZmN2ZV8yWVJKbTFVTWJwZ2F2TjFLcU1OSlc4WEt6dW14QU1LUkFZVnlVUEpmVE93bGlkNEhqajRR?oc=5",
+          "timestamp": "13:01:00Z",
+          "source": "The Guardian",
+          "sentiment_score": 0.0
         }
       ]
     },
@@ -213,6 +213,14 @@
           "sentiment_score": 0.0
         },
         {
+          "title": "黄金的下一个考验：美联储裁决、原油和地缘政治紧张局势成为焦点 - 印度时报",
+          "desc": "黄金的下一个考验：美联储裁决、原油和地缘政治紧张局势成为焦点 印度时报",
+          "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNX05qa0h4ODc0SXR5aG91WnVoZm0tRUVCVFZ1YUJBa0RVbkNMd2VQNU8yYURKeHdZU1lqY0pMZ1NCaHhaaTlZbzdsU0ktREtJZmxSUWttdGpfZXBaOVBtdWR1MUhaaHBfMmlKU3dvc2tzWS1ISlJmZWVJWTJNYWFBNFpBWVB3d0liTHBId2otMkZwMDVWLUpzaXRDc3Axa1hlZ2psZVQ2Unc1LVpxSTRRMmdPY3NSR01BN0tYMmNTbnM0NHUwYk8tZVVzNl9FQ09qdVJkVzh1eDJVYkw5b0MtdUJzam0tc3cwVnVTTnJTVdIB9AFBVV95cUxPSWtPOFFqaGIxeHRhcG55SHR3TWJCUXVmdFc1OS1jV2ZvZnp2R0h6ZFZGTFdaT1RWUU5BQmFUckNCdXBqc21TM0tXak5wXzE5VXJDa2FyWVNlSXl3NUZYcHNLU3JtalVfaUtsdFhSOFM3ZEdiUHgyTzhBOWUwb196MlJmMUVKSTlxZlNDVXh0YmVza1pJOW90eS0tNG14SXNlNXJPWTM0WGtTQmYzNWRwOHBOdWQ1WC1jbS0tM1pJLTZDRUtZNlZzZ2Vsc3dBaUFIeFZNeUdtOWVMZm9Vc1o3WjVvWU5NVE5odi1uTFQyUlZMU0xB?oc=5",
+          "timestamp": "16:27:00Z",
+          "source": "The Times of India",
+          "sentiment_score": -0.5
+        },
+        {
           "title": "地缘政治和科技困境让交易者在周末前紧张不安 - Bloomberg.com",
           "desc": "地缘政治和科技困境让交易者在周末前处于紧张状态 Bloomberg.com",
           "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQUXBxeWtYakljekdGQXpRQVpwcFRKNVQ3YVlhX2Q5STJPWFloMWpIVC1ROTQyUjliUnlpbkhHOGpuV3huRTAzOHd3SUV0RU9WM2VETnFBSU5wb2ZySkRtYk91aFR6ejdHMUNDRzViOExsYU94UDlvZU9kZnRZMzNORmtrQXZUaF9lR1lEUW96aEMycnhWVEJDZU5rMlFIclAzelcta1JiSWNLa2xqeDFEWUZvMFA?oc=5",
@@ -229,18 +237,10 @@
           "sentiment_score": 0.0
         },
         {
-          "title": "胡塞武装并未参与伊朗战争 - 地缘政治未来",
-          "desc": "胡塞武装并未参与伊朗战争的地缘政治未来",
-          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9PbW5EMWFhdVY5b3RnaW4tMWNUR2hJSjQxWnNyZF9uLXNMS25OeE5VdVRmTjdUTlFBdVpWNTRPRDJ4MzhUSERlck1LU2ltdWNYdmVkUGZocUV3VUhiVnRUamVlVEJUVUM4bUZpc09ldzNRNjVlaGYtaW16WQ?oc=5",
-          "timestamp": "10:00:52Z",
-          "source": "Geopolitical Futures",
-          "sentiment_score": 0.0
-        },
-        {
           "title": "InvestmentLive Americas FX 7 月 24 日新闻总结：地缘政治仍然是交易者关注的焦点。 - 投资直播",
           "desc": "InvestmentLive Americas FX 7 月 24 日新闻总结：地缘政治仍然是交易者关注的焦点。  投资现场",
           "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPeXVrUEFTZ3gxaVhnUF9HV1dBMzNGWHNOR2RvTWduWjNydkktX1JTMHk4eFFtd0pkbmNpRVVsTFc2bFJqUWtsSDRpMUlfRmJFUUJ1NU1BZWJGb2VQQW1velRtWjJwNU1ReGF3U3R3cWt0aWNHYXRyck5BUl8talA3SGIydUs1Tk5ySHpRYTlXRjF3Q2R4ajI4Ui1VUWdEclY3a19rbTIwdDdTWWNidWRVaGdkM3htdw?oc=5",
-          "timestamp": "21:43:35Z",
+          "timestamp": "21:48:00Z",
           "source": "investingLive",
           "sentiment_score": 0.0
         }
@@ -250,9 +250,9 @@
   "market_sentiment": [
     {
       "label": "贵金属（黄金/白银）",
-      "value": 0.3,
-      "sentiment": "看涨偏好明显 (评分: 0.3)",
-      "sentiment_type": "pos"
+      "value": 0.0,
+      "sentiment": "震荡中性 (评分: 0.0)",
+      "sentiment_type": "neu"
     },
     {
       "label": "能源（石油/天然气）",
@@ -262,14 +262,14 @@
     },
     {
       "label": "AI & 前沿科技",
-      "value": 0.1,
-      "sentiment": "分化盘整 (评分: 0.1)",
+      "value": 0.0,
+      "sentiment": "分化盘整 (评分: 0.0)",
       "sentiment_type": "neu"
     },
     {
       "label": "地缘政治与宏观雷达",
-      "value": 0.0,
-      "sentiment": "局势相对平缓 (评分: 0.0)",
+      "value": -0.1,
+      "sentiment": "局势相对平缓 (评分: -0.1)",
       "sentiment_type": "neu"
     }
   ],
