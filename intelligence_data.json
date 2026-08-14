@@ -1,51 +1,51 @@
 {
   "report_metadata": {
     "version": "2.0",
-    "last_updated": "2026-08-14T06:00:03.646051",
-    "report_date": "2026-08-14",
+    "last_updated": "2026-08-15T06:00:03.211494",
+    "report_date": "2026-08-15",
     "title": "AURORA | 战略情报简报"
   },
   "prices": [
     {
       "name": "黄金 XAU/USD",
-      "price": "4,407.10",
-      "change": "-0.04%",
-      "up": false
+      "price": "4,432.00",
+      "change": "+1.57%",
+      "up": true
     },
     {
       "name": "白银 XAG/USD",
-      "price": "64.58",
-      "change": "-1.48%",
+      "price": "64.82",
+      "change": "-0.07%",
       "up": false
     },
     {
       "name": "WTI 原油",
-      "price": "81.21",
-      "change": "-2.47%",
-      "up": false
+      "price": "82.40",
+      "change": "+1.42%",
+      "up": true
     },
     {
       "name": "布伦特 Brent",
-      "price": "86.96",
-      "change": "-2.27%",
-      "up": false
+      "price": "88.59",
+      "change": "+1.75%",
+      "up": true
     },
     {
       "name": "英伟达 NVDA",
-      "price": "225.30",
-      "change": "+0.54%",
-      "up": true
+      "price": "225.16",
+      "change": "-0.06%",
+      "up": false
     },
     {
       "name": "比特币 BTC",
-      "price": "63,409.18",
-      "change": "+0.01%",
-      "up": true
+      "price": "62,860.90",
+      "change": "-0.85%",
+      "up": false
     },
     {
       "name": "美元指数 DXY",
-      "price": "99.97",
-      "change": "-0.04%",
+      "price": "99.64",
+      "change": "-0.32%",
       "up": false
     }
   ],
@@ -74,20 +74,20 @@
           "sentiment_score": 0.0
         },
         {
+          "title": "黄金买家在本周最后一段时间内失去动力 - InvestingLive",
+          "desc": "黄金买家在本周最后一段时间失去了动力",
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNRW40anZkYnlQR3BuUU0xZ2pLLWxETUZqOUtVQzNYTm81WE1lYUFsZk8tcVNuMERHa3lKWnBhbWdmU1loWUZVZFJzVWRtMVYzdjlsYThCT3FrUWQtTTRBUHZfdnNJSlRDVmt1blhhRmQ5ZmQ2SUVZWFdRek1NMUpYRy1yRVRIZHFvOUxHLWp3Ymg3SmV0Vnhhag?oc=5",
+          "timestamp": "04:38:43Z",
+          "source": "investingLive",
+          "sentiment_score": 0.0
+        },
+        {
           "title": "忘记直接购买黄金：惠顿贵金属可能是更好的选择。 - 雅虎财经",
           "desc": "忘记直接购买黄金：惠顿贵金属可能是更好的选择。  雅虎财经",
           "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQUXJFaFVlV1JrU3NUN0VJTFo0UGdxNlBjd2hYTmFHMnMzd1pLS1dDR3JrbGlTSThRODNFNGVkZ3ZvNFJ5QUp0STh2Z0JrSzVDMmUxSHZyaWFzS1dLeThPNXFqYlZDeTFHVDQ2RGJ3QWo4WkF2enZtdDBLUVk4cFg3ZDFvenVxX3BPOHY4VTN6SjRBRGpIZ0JPdHg2YWQxTGRybWNlQ2l5QVA?oc=5",
           "timestamp": "12:40:00Z",
           "source": "Yahoo Finance",
           "sentiment_score": 0.0
-        },
-        {
-          "title": "瑞银认为实际利率下降将重振黄金需求，黄金买入机会下降 - 投资直播",
-          "desc": "瑞银认为实际利率下降将重振黄金需求，因买入机会而下降",
-          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOY056XzUtOTRiU0JhSzB0X1BBbW5GX1hBeGRVZTltRG5kbzU3Nkt6R0FkbGxadlBRaEJCR2s5cFhNeVY4UjVlOXV3MU42OG5hSGVPbVQtRldOWWozWFYyTUNLRTVaX0k2RjIxZ1VjR2lXd29BdmVyUkxvNE92WXFMcnVMSzQ1dG5Wei1SakFWT2lhYXBFWkJqem1PVjJHV3dHZHBrdWd1ckgtSjRKUEJ1OW5KSFM?oc=5",
-          "timestamp": "22:18:06Z",
-          "source": "investingLive",
-          "sentiment_score": 0.5
         },
         {
           "title": "黄金从基本面中受益，但关键的技术考验还在后面 - Benzinga",
@@ -107,43 +107,43 @@
       },
       "items": [
         {
-          "title": "美国能源信息署称，中东部分石油生产将持续关闭至明年 - 路透中文网",
-          "desc": "美国能源信息署称，明年中东部分石油生产将继续关闭 路透",
-          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQVWlNYzVsY3A5RnNPQ19HWUd6dmJKUlBVMjlLS3pPQ2FZa21mbGs4U2dPQm8zdzlCSDlhbW0tem96QXk5Vl9XM012OTFsV3l2eGR2bkNTREJYNDMtcUgzY2VBZkRMSkZHN2lmRzNQX3lqUU0xTGtzbUpMLVd1emRicW10N29ZQkxqZExLQ2R0RVdwWU0wSlk0UGdQQXlJWmYzdVRoVEJIb3I3cllGSDRQbjczMFZROXRZX3A1TGNVRm1VQQ?oc=5",
-          "timestamp": "18:28:24Z",
+          "title": "由于需求前景疲弱和美国原油产量增加，油价下跌 2% - 路透中文网",
+          "desc": "由于需求前景疲弱和美国原油大量增加，油价下跌 2% 路透",
+          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNRHRqOVFPR196RlJ0WTVZajZ6NHRpdmhmZ0EtSDMwTDVZVk5mX2JnVm9LVnFDQ2M4c08ybExVeldFQk9BdG9HVldTbnJFRDVjdTc3MF8wZmc4ck41bWd6Wng2SFowYjZrNW1UVzJuMDR4cnBUT0c2TXUteFR0cTFiVVY5bm5Da09NSDI4akNIcFY4NHRBRzkzNXNuZ1luQjNGUHFFdnVhT1RCNGlKMWx4MkgzdzhLdw?oc=5",
+          "timestamp": "14:03:59Z",
           "source": "Reuters",
           "sentiment_score": 0.0
         },
         {
-          "title": "中国如何拯救全球石油市场",
-          "desc": "中国如何拯救全球石油市场",
-          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQV2Jia21QMjgzRnppSmZTdlpBbWswS1V6b3pwZGI5ZjU3TWlmVU5nY2V5NmIxdkpPaXFqOTBWcTA2dXVLRFZQcURpWC1QS191cUJlT0h2WGxfZ09SWlZDNG1mbWZHWkc1MW5WTDZPODN4bkxLWmpfQThtVE5va2l5WkRXa0FVcEFXSzIw?oc=5",
-          "timestamp": "21:43:59Z",
-          "source": "The Dispatch",
-          "sentiment_score": 0.0
-        },
-        {
-          "title": "截至 2026 年 8 月 13 日的当前油价 - 财富",
-          "desc": "截至 2026 年 8 月 13 日的当前油价",
-          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1XQjJSeDhuRWpVdkIzTDd3ZDI4QWgwTFh5LS1VbFkyRzRUaEhxWnhrYndBOUU1ekZUV3lpbjZuUjVqTWJKckc4bmlkaF9SVGFnOHppemtKT25yYkVmNlVYdzB3?oc=5",
-          "timestamp": "10:15:00Z",
+          "title": "截至 2026 年 8 月 14 日的当前油价 - 财富",
+          "desc": "截至 2026 年 8 月 14 日的当前油价",
+          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE45YlpnSmZMb3V6ekNxUnZBQmpoRFY5cFdVcnFHejlyOFZQbnNGcEVuUHVGczQwZVBsb3hfbnR5MEFkMGNpQTd2c3hKUDFkNk10alFBRTUzVHJNYVczTjNyS2tn?oc=5",
+          "timestamp": "15:06:36Z",
           "source": "Fortune",
           "sentiment_score": 0.0
         },
         {
-          "title": "今年剩下的时间里，顶级能源赛事...包括“幕后”权力赛事 - cnbc.com",
-          "desc": "今年剩下的时间里，顶级能源赛事...包括“幕后”权力赛事 cnbc.com",
+          "title": "今年剩下的时间里，顶级能源赛事...包括“幕后”权力赛事 - CNBC",
+          "desc": "今年剩下的时间里，顶级能源赛事...包括“幕后”权力赛事 CNBC",
           "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNcXllSTY2ZnNuS003R3ZVdVVNVTluU3FOVUJUU1BfSEJ3Qm53b0gtWlVJQTI1S1BjdjdXcGZIald1WjRBS2pWbWpxZnFIQ29KazNRWE8xcDVSTjBmY3BkTnlET2VVeE9zT05iMzhJbGpyUW5aZl81cWthTC1UMmMyUVlab3h1SzliTjAzVm40bWlCOGEzV2R1bkFMSWpzZVJmWDg1cHl4Z2x0Qk9uRUJNWXRnZ1J4Ml9XeWfSAb8BQVVfeXFMTU9NSUg1TmR4cFFhYUNsem92d2ptWlFCdXBWNFhGYlFnTTZ4bTNldzhPYjE1aXgyck1vZllfbmpENHhiTFN2NU43NkpHRVNiSHpEaUNyQ0JBc2I3YlBMU1hDSXgtX2VuWU1KcjFSRVZXQ2ZLQndVS1FuVXlXS2FReEdQU2IwQlkzVXdFMUE5SnU4UWJQVnJEWDM0WC1qX0JXeGFCMVo5Q0tvMHJHNlpIY0llSzd2NXhvZ2FPTnhndUk?oc=5",
           "timestamp": "17:04:46Z",
-          "source": "cnbc.com",
+          "source": "CNBC",
           "sentiment_score": 0.0
         },
         {
-          "title": "全球能源监管机构警告石油库存“迅速耗尽”——事实确实如此 - theguardian.com",
-          "desc": "全球能源监管机构警告石油库存“迅速耗尽”——事实确实如此 theguardian.com",
-          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPdV82Z0o3aWtTVEMweUI1SXZqSlYzRXlFZFRaeG1NR3VHcWtWZm02ZDdmRG8wMkR2NzZTdzg5bEEtcG1VZFRtTlJ3THEtX0x3amh1c2dETFpSQ2d4cGxIRDlIOVpoVFh6R3RDS050b1BYaVJlelVpWEJNaERPYnJXSkdxVS1hZi1aY3Y3a2hqdnN1bzNkcGhVSjREZlA3RGFCRmZDQjJDWXlQZXo0N0lKNnp4LXllekFDTXd1SW1OTmdZSXhzUXc?oc=5",
-          "timestamp": "06:59:00Z",
-          "source": "theguardian.com",
+          "title": "美国原油库存意外增加 - 华尔街日报",
+          "desc": "美国原油库存意外增加 华尔街日报",
+          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPTTMtRTg5NHJOd0IzUnlTLTBYMzF4bEJYMjF3Z3RxeU10VDNZUVBnd29NVGJLLWV2ZlNJaGhNcG5CejZPQXV6X2g5ZFU4VzcyTmVvcmhtZ3JJY3BaOXN4U2Q1VDFrMmd2bUZwVTNSLUF2c3psWGRiUFpkY09WVVdOSDJERFZPS0hydXlRSVlnVHpCYldYd1JmSzhhRQ?oc=5",
+          "timestamp": "15:07:00Z",
+          "source": "WSJ",
+          "sentiment_score": 0.0
+        },
+        {
+          "title": "成品油价格面临比原油更大的压力，消费者将为此付出代价 - Marketplace.org",
+          "desc": "成品油价格面临比原油更大的压力，消费者将为此付出代价 marketplace.org",
+          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPanVtUWswUldNeDJvcWFNcjBvcXFnQzItM0lJTC1ZVjZBMlhsVXFrSW1YOHZTMWFQeDI5MWxtMnlaRXlmRTRSM1cwcmxYdGg3aUlqQlRIbFBkSFNLMHNzQmlVMko2NUJPMzFCRnVrNjRXYy00QXlCZ1VyRFBIa0ZiRGVuZGM0QXcwZF9ndEFsT0VQVllWU1I0T1VmZnVFb3c?oc=5",
+          "timestamp": "21:00:00Z",
+          "source": "marketplace.org",
           "sentiment_score": 0.0
         }
       ]
@@ -156,19 +156,19 @@
       },
       "items": [
         {
+          "title": "从苹果到福特：中国科技如何变得越来越难以让跨国公司忽视 - CNBC",
+          "desc": "从苹果到福特：中国科技如何让跨国公司越来越难以忽视 CNBC",
+          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQUkJWX1oyZklMNlRwbTRFZDZ3TDhTX09IQ0tQa0Rzb0I2WUQ0YmhsUHkzUnlvTmZxLUl4RlI0YVZ1SzlpNHN6Wml1Y0I4aHM3VWItdjlYbHJQVXBVOHpiTnJwcnc4d3Ywd0lLTlhiNk95Z1h2ZDNib3RwdHlJdllrR1N2Wlp1aERENXhka1VCc9IBlAFBVV95cUxOQWFYWWxTQWR1Ml9rNXU2cDYwdi1ScVhxVjZmYW9Pb3M3ckVjYkN6b215a0FKX003ZWV6d3FydWNOamhoVGJVZkFOR3VjZndxWWc2Vm43NVI0ZnY3OXJSSWZhNFVPN3E3WFE3dXJJQlNuOWk5SVpIcnJldUh0UTdRa3VBd29abk5LWXQ4V0theTd2Nnpn?oc=5",
+          "timestamp": "00:09:00Z",
+          "source": "CNBC",
+          "sentiment_score": 0.0
+        },
+        {
           "title": "一些科技公司的首席执行官正在利用人工智能来克隆自己。接下来会发生什么？ - 英国广播公司",
           "desc": "一些科技公司的首席执行官正在利用人工智能来克隆自己。接下来会发生什么？  英国广播公司",
           "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOcTlSaWNMLU1QczZQOWdIdm1sZWItQk1LQnpMbzByeTNVWWZOdzdUUFpSNVRSR0VabmhBYVFXckF0ZW1qZExrVFN3RDZ5d3dUNzhRUHFpNkJiSkRaa05ERElsZmZmbm15elQ4NWJVLW5zNm5WVjVLMVZ2TXNDZHVTYi1zSQ?oc=5",
           "timestamp": "10:00:00Z",
           "source": "BBC",
-          "sentiment_score": 0.0
-        },
-        {
-          "title": "扎克伯格宣言勾勒出 Meta 改变世界人工智能技术的雄心壮志",
-          "desc": "扎克伯格宣言概述了 Meta 改变世界的人工智能技术的雄心 apnews.com",
-          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNSng0SGtoSVVRMlNMU19RakFvVGtGbk82WWdBY25STHV4OG84ZGljaWgzUUZRa1ROb2g2eERJV2pOTUlsRjNtbzFEU290QTBVcUV6UVpEQ0g1UEt2S1RFRDNhRGRLcnlTUFVTcWtXVU45WXF1cVNPMWgxQ3J3WWRqVFEweU5ZRkRQZXA5SmNUWkVCSEN1ZVdvaEI5M3B5aG1WeVctcW9YWmtIZ2c?oc=5",
-          "timestamp": "22:47:00Z",
-          "source": "apnews.com",
           "sentiment_score": 0.0
         },
         {
@@ -180,19 +180,19 @@
           "sentiment_score": 0.0
         },
         {
-          "title": "人工智能繁荣还是泡沫？时机就是一切 - CNN",
-          "desc": "人工智能繁荣还是泡沫？时机就是一切 CNN",
-          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5DUzlzbWNYMzFfZkRPMFVrZWI1djM3MGpTdVl4TzZhNWZzSUo3TlVxdWMtU0xQUWhTemZKVVVMbGJZM3hld21tcFF5MkVWMXpubHNYeW5UMGN1Wk9sZG9VMmRULS1hSm81U050Zg?oc=5",
-          "timestamp": "09:00:29Z",
-          "source": "CNN",
-          "sentiment_score": 0.0
-        },
-        {
           "title": "我测试了一个流行的人工智能斜坡探测器。感觉充满力量。 - 纽约时报",
           "desc": "我测试了一个流行的人工智能斜坡探测器。感觉充满力量。  纽约时报",
           "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQOWUxT0ludUhqbUV0Y3J5SnVVSzJOanRIVXBPeDByeU82TlZFOGNhc2F1QThfYXlua2Zkd2ZEZV9vR1hhTkxpWHpBSVo1cU5mX2dmV3N6SGhqdXpmd2c0aktEV2U1cHVLWEhSZFl6eFRlYk44YS1VdUtpbTAwWDdwcW9nZjExejkySFRidFlWcFNIUQ?oc=5",
-          "timestamp": "09:04:41Z",
+          "timestamp": "14:08:00Z",
           "source": "The New York Times",
+          "sentiment_score": 0.0
+        },
+        {
+          "title": "众议院议员访问梵蒂冈讨论人工智能并会见教皇 - Politico",
+          "desc": "House lawmakers visit Vatican to discuss AI — and meet the pope&nbsp;&nbsp;Politico",
+          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOWDZNbzRMSjE3MkxqRlBaeGc5cnloVmphWXp0aWVBZWlrNV9VbnZ5YS1WMm96SVJBVG9RVVlfNHpJMlZ0QTctRUk0QWNCZXVmRDR6MkRfRVFOUHFZWV9TU0YycUxZaXdRZUtmenpzZkZpdzFkbnN0TE1fWGM2NFdUbFZB?oc=5",
+          "timestamp": "23:51:00Z",
+          "source": "Politico",
           "sentiment_score": 0.0
         }
       ]
@@ -201,48 +201,48 @@
       "title": "地缘政治与宏观雷达",
       "game_theory": {
         "bull_drivers": "多极化国际秩序加速建立，避险流动资金重组",
-        "bear_drivers": "贸易保护主义风险上升导致全球供应链受阻"
+        "bear_drivers": "地缘制裁与高额关税摩擦频发抑制全球贸易扩张"
       },
       "items": [
         {
-          "title": "厄立特里亚：非洲之角地缘政治赌博的关键参与者 - dw.com",
-          "desc": "厄立特里亚：号角地缘政治赌博的关键参与者 dw.com",
-          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPMWd1djNvenFtZ1J2VXdoYV9lOXdRMV9oMzg2Rk9vWE5kaEI1WUhaanNCa0oyRFlkN3NXZjZtNWZXQ19lQVpJQ08xcE9udjlKazJMWnB0QV9ENmtjT0owZTN3SXB4R3hFcnFvY0Y0MXhkbS12amdJblJnVVR4cE5pZkxacktwQUZqYTg1eGFBbnFSUXJJVG9qamg2N1VoN1hFaXpPZNIBpAFBVV95cUxOV2VWQ1ltLTZiYW5aUnRid01OdThHU0hzYmdacEctWjZ0QmQ1em9Zd0tlMVp1S2hyTFpmMEVYNWFOb0JYVnZUaVk4SHdmbDd2NGV0UnJXVmlUamZZalJVMW9CdDJyeTNtLXd2d1YwbkRNdjZKaUl4d0hBeXlIU0hKekdvbFFXMVRzVXBtdkFxTXpmaDFaUGJnMV91emxrMmFVbmZteA?oc=5",
-          "timestamp": "03:41:05Z",
+          "title": "厄立特里亚，全球航运大动脉上的崛起力量 - dw.com",
+          "desc": "厄立特里亚，全球航运大动脉上的崛起大国 dw.com",
+          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQZkNqU1VjVXJJRVZzS01lTWdyTWlUZE5ZeHczQV9XQzNKMkpZZWNuSDhTNUZqc2VMekFndVpmVmVFak9BbUdIT2d6dDBXTzNFZkU2NXBYZGVhYWJGQmxTRHRyOEtuLWcwLXo0MWd3U29Id1pNWGk0TjdmN1NZMmZQYV9ieFR2STZVVWVMcVNldUk3bklIREZ5YzZoZDlGRTRzbjc0M08tbVhlbFphRkhKakthZUw0Z9IBtgFBVV95cUxObGRjZkFlTTV3NjVNWXFKLUFfQUdVNFFxMWdhbWwzaXFOOGFGdGlZWlhrelFHbU11NGplcWthMllueGZrTG1DamE2MXlxQWVHcm9BVDJPaGFXLXpUWFA0Y0VzZEs0VDYxOXExb21rckUzOFlHQnRsVWpRWmdvdkE5ZWt5WEx1MWx5cFJNNjBobmRzc3UzNWQ4OVJyRUdjVUp1cVFPRG1rNEtQN1VoelJVem1naWpwdw?oc=5",
+          "timestamp": "02:35:00Z",
           "source": "dw.com",
           "sentiment_score": 0.0
         },
         {
-          "title": "Eurovision bars countries at war or in ‘sensitive geopolitical situations’ from hosting - politico.eu",
-          "desc": "Eurovision bars countries at war or in ‘sensitive geopolitical situations’ from hosting&nbsp;&nbsp;politico.eu",
+          "title": "阳明海运：地缘政治、关税将影响下半年航运前景 - 商业杂志",
+          "desc": "地缘政治、关税将影响下半年航运前景：阳明商业杂志",
+          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQUFBmckgzdnVjZjlpb0dQdUtVQW5OWkZldWdsOFRQZ0E1NXR3dmRNa2NhVUJvd0NTNjN5akZCVWFfQURLbUQ4M1R1WUJBT2FSbnhQcW9uNm9RVGpYTFJDUHBIN2R0dU00dkM4SnJPQXllRGUwc0RaUkIyUTc0WjdXbjVkdkh5UHRNU3ozY2tqVk1JN2NNNDF4M3RIV0Jrd2plOUh3SQ?oc=5",
+          "timestamp": "19:22:00Z",
+          "source": "Journal of Commerce",
+          "sentiment_score": 0.0
+        },
+        {
+          "title": "欧洲电视网禁止处于战争或“敏感地缘政治局势”的国家举办比赛 - politico.eu",
+          "desc": "欧洲电视网禁止处于战争或“敏感地缘政治局势”的国家主办 politico.eu",
           "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQVWwxWnFhVEFlWTJWNlZSdHRiT0JZWTNsQV9XNE8wY0FEUWtsRjRhOHFQTHpQY0lTaC13RDNKVnZJbEtBYmhtNGk3alZfa0cwV0wzYTJSMDRLcWRXSzR3RkdnOUxEd3FYRGN0TXlOOGJRMlQ0QXFfWXlSMFFTd1NjY09ZOThRZFhJa3VMdmY0RW9zYnJDWUo4bU5GX2c?oc=5",
           "timestamp": "18:23:00Z",
           "source": "politico.eu",
           "sentiment_score": 0.0
         },
         {
-          "title": "利率火花：地缘政治中棘手的相对价值 - ING Think",
-          "desc": "利率火花：地缘政治中棘手的相对价值 ING Think",
-          "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE43NjJkVC0tcHNpU282eWhOS3hWYlprTDlYQkpjb011QndSQjhMcTFTSnQybXNSNDRfVXU0SkRSamVsaWVCbUwwZC0zVUl4WWlaR2F2NXNoTG5mUDRGZjlBVUg0Nzg4MDJYRXR2N1dEV3U5bjJyVmZzdXBR?oc=5",
-          "timestamp": "06:39:02Z",
-          "source": "ING Think",
+          "title": "北欧的巨额盈利无视地缘政治 - Bloomberg.com",
+          "desc": "北欧的巨额盈利无视地缘政治 - Bloomberg.com",
+          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNSEhaSW5kNlMxd2phRGhPWUhYS1A5NGhFdlNQZEg1d2VPZDM1VXFiQkRyd1pQdV9KM3pGbGxvVXowNzJjajhWTFV3ZV9XWU9PTElYWEdJbkVBTEtPMUMzbWYzaV9BMFAyN1M5T3hKQVAwNDJSZXRRbnhjTG4wcjV5S2RKbGtPU25SS3NPWkNaOC0xWExmbFVTSWZkQ2RuZ0gxdW5yQ2VldEpyN2VqREpQMmljbE9peE83MVQyWUl5QzNHUGNMUTVkVERYNA?oc=5",
+          "timestamp": "10:00:02Z",
+          "source": "Bloomberg.com",
           "sentiment_score": 0.0
         },
         {
-          "title": "随着战略风险加剧，地缘政治学会任命两位顾问委员会领导人 - 晨星公司",
-          "desc": "随着战略风险加剧，地缘政治学会任命两位顾问委员会领导人 晨星",
-          "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNenYxR1hzcmpVVWpzTUUzSGZMS3NMWEdiNG5Sb3BTVmVGNk84RFZ4VGw1elFDeEJYWmxqakJpWUFOVURKOHZBdVFEcUE1VGpmeGZ3VWFfQk1PUWNGZHMxRUc0TUJxRktDcHJ2WFRwaElSOTJDRlFKM3BpR3BrYk05WGtVajVDZzJBNllmQ1daU2ZqSVA2NTN3YkZ5cUU1X1Q4b0lXTThVdHMzQ3FBakM3WjduMEVmXzJxb1NZLU11NkY2N1pZV3plVDdhTDNEb0xDUUFpUXpyRHlvVGhPMUhLQTU1MzJpT1U?oc=5",
-          "timestamp": "20:57:05Z",
-          "source": "Morningstar",
-          "sentiment_score": 0.0
-        },
-        {
-          "title": "休达危机的重要性超越移民 - 地缘政治的未来",
-          "desc": "休达危机的重要性超越移民的地缘政治未来",
-          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOOXVMOVRXd2dMY2kydFFkbG1ONUI5WXRQUmkzbUdESnVOVzB2Zlk0MlpiZlM0RmMxdkh2aDNSQW1SeXl4SFNXd2xNOS1ZSlB3RTJTbEw4ZXFtaDVJSEtHRi1qZmd4UkpYZTB1NDJnN0lieTRqVnp4UENIVnZxZzFVTkN5LVp0cFQxdFJFeGg1VQ?oc=5",
-          "timestamp": "10:00:34Z",
+          "title": "特别版：“伊斯兰北约”如何改变全球地缘政治 - 地缘政治的未来",
+          "desc": "特别版：“伊斯兰北约”如何改变全球地缘政治 地缘政治的未来",
+          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPZmxod2RlVkZUN193QllZSFlQa2ZQemFkNFV1VUw1QzhKUHJtT3l2WWprNHZzbWRrYXpNOGY0b0dJalRmRW9HUXNoN0NXWG1hbWxETjZTMU5Ram5Jck5qT0F5T01MSmVwWWdxUUtDTDVqb3k4azJiYXFXYnNfUWhHdVRSRlEwQVlLQmRlcjA2NXhQVnpPejZHRDlmNA?oc=5",
+          "timestamp": "15:11:55Z",
           "source": "Geopolitical Futures",
-          "sentiment_score": -0.5
+          "sentiment_score": 0.0
         }
       ]
     }
@@ -250,8 +250,8 @@
   "market_sentiment": [
     {
       "label": "贵金属（黄金/白银）",
-      "value": 0.1,
-      "sentiment": "震荡中性 (评分: 0.1)",
+      "value": 0.0,
+      "sentiment": "震荡中性 (评分: 0.0)",
       "sentiment_type": "neu"
     },
     {
@@ -268,8 +268,8 @@
     },
     {
       "label": "地缘政治与宏观雷达",
-      "value": -0.1,
-      "sentiment": "局势相对平缓 (评分: -0.1)",
+      "value": 0.0,
+      "sentiment": "局势相对平缓 (评分: 0.0)",
       "sentiment_type": "neu"
     }
   ],
