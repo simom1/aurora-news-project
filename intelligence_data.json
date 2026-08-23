@@ -1,21 +1,21 @@
 {
   "report_metadata": {
     "version": "2.0",
-    "last_updated": "2026-08-23T06:00:04.170150",
-    "report_date": "2026-08-23",
+    "last_updated": "2026-08-24T06:00:04.586178",
+    "report_date": "2026-08-24",
     "title": "AURORA | 战略情报简报"
   },
   "prices": [
     {
       "name": "黄金 XAU/USD",
-      "price": "4,624.10",
-      "change": "+2.39%",
+      "price": "4,680.60",
+      "change": "+3.64%",
       "up": true
     },
     {
       "name": "白银 XAG/USD",
-      "price": "69.47",
-      "change": "+2.12%",
+      "price": "69.53",
+      "change": "+2.21%",
       "up": true
     },
     {
@@ -38,9 +38,9 @@
     },
     {
       "name": "比特币 BTC",
-      "price": "76,873.67",
-      "change": "-1.87%",
-      "up": false
+      "price": "77,879.13",
+      "change": "+1.03%",
+      "up": true
     },
     {
       "name": "美元指数 DXY",
@@ -58,14 +58,6 @@
       },
       "items": [
         {
-          "title": "Gold performs like nothing else in the commodity complex – WGC’s De Pessemier - KITCO",
-          "desc": "Gold performs like nothing else in the commodity complex – WGC’s De Pessemier&nbsp;&nbsp;KITCO",
-          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPUGhkLXphaUR2dWVIcTFnWG1mYmRESGJiVmJEUFN1d1lTdkJNSE42V0Z3VTgyQ0xneS1uZlFNSWw4bHNXcWZnWGJGQmxVRjNINnNLVjl1VThuYnBjSU5CcHpQaUV6UW5XcmJheVdMcUwtbjF3anF3ZldrSzdzVVZwVjQ0VHA5SUZ6SXctRFQtZzE0WFJyRzlKVG8xMDg2STl3Z1lNNHBpajNRc1RY?oc=5",
-          "timestamp": "18:01:00Z",
-          "source": "KITCO",
-          "sentiment_score": 0.0
-        },
-        {
           "title": "Gold: The most effective commodity investment − 2026 edition - World Gold Council",
           "desc": "Gold: The most effective commodity investment − 2026 edition&nbsp;&nbsp;World Gold Council",
           "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNRUdDWWxtMlpzTUU3Ylg1MnkxYlByVGpTdGZON1ZOTjVrUkxZZW9HaklRbkFwa1licnFvaDl1WXJFWmFVVE9OT1hEZkU1Y1hFeEdISHk1WnlOdGZ2YmdRWVBHX3pnN3NjaTdzcjVQRHZsUTRTNzJIY083WmMtTXNRbnRDbWJmclJ5SUtHam16UFdIcndpS2c?oc=5",
@@ -74,11 +66,11 @@
           "sentiment_score": 0.0
         },
         {
-          "title": "Canada Commodities: Oil And Gold Prices Continue to Climb on Middle East Turmoil, Weaker US Dollar - Moomoo",
-          "desc": "Canada Commodities: Oil And Gold Prices Continue to Climb on Middle East Turmoil, Weaker US Dollar&nbsp;&nbsp;Moomoo",
-          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNYTJjVFZJUEt1c0JyeGtoV1RmSkFxck85TEJKN2FkUWJhc1dfbFY5aVJyWFlja1hfUU9mTVlzbVA1R2xGVXNGRWJzOGhnbjlvUGFlcGFjeUM3YXJZRGctSjZPb1Z3N3c0Y1RtNEVyYzJ0dWtVVWJVSzNkVHJEczQ4NjhfbElqM3hLQXltM2xoY19aZlJYQ0N6S1JJZTh6Wk5mUVpr?oc=5",
-          "timestamp": "13:54:28Z",
-          "source": "Moomoo",
+          "title": "Gold performs like nothing else in the commodity complex – WGC’s De Pessemier - KITCO",
+          "desc": "Gold performs like nothing else in the commodity complex – WGC’s De Pessemier&nbsp;&nbsp;KITCO",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPUGhkLXphaUR2dWVIcTFnWG1mYmRESGJiVmJEUFN1d1lTdkJNSE42V0Z3VTgyQ0xneS1uZlFNSWw4bHNXcWZnWGJGQmxVRjNINnNLVjl1VThuYnBjSU5CcHpQaUV6UW5XcmJheVdMcUwtbjF3anF3ZldrSzdzVVZwVjQ0VHA5SUZ6SXctRFQtZzE0WFJyRzlKVG8xMDg2STl3Z1lNNHBpajNRc1RY?oc=5",
+          "timestamp": "18:01:00Z",
+          "source": "KITCO",
           "sentiment_score": 0.0
         },
         {
@@ -90,11 +82,19 @@
           "sentiment_score": 0.0
         },
         {
-          "title": "Gold price up, other commodity rates unchanged in Kabul - Pajhwok Afghan News",
-          "desc": "Gold price up, other commodity rates unchanged in Kabul&nbsp;&nbsp;Pajhwok Afghan News",
-          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOaG1lSElKaFVfaHRmaTA1TE1RTUJyUDdOUUp5MzZHaVZuZ1o5TGplTEFnQk8tRXN3Tktubm5NZHg3azV3dXdYN2g0bnBxVDRGTHdMcDliUlE5aDJEdDFIQjd1U1lmdGpjZ0xhNHkxNVVtVm5ybHZvbzZIMTNtb05nQWxfQk1JNjZPVG1hdExDRQ?oc=5",
-          "timestamp": "16:05:35Z",
-          "source": "Pajhwok Afghan News",
+          "title": "Canada Commodities: Oil And Gold Prices Continue to Climb on Middle East Turmoil, Weaker US Dollar - Moomoo",
+          "desc": "Canada Commodities: Oil And Gold Prices Continue to Climb on Middle East Turmoil, Weaker US Dollar&nbsp;&nbsp;Moomoo",
+          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNYTJjVFZJUEt1c0JyeGtoV1RmSkFxck85TEJKN2FkUWJhc1dfbFY5aVJyWFlja1hfUU9mTVlzbVA1R2xGVXNGRWJzOGhnbjlvUGFlcGFjeUM3YXJZRGctSjZPb1Z3N3c0Y1RtNEVyYzJ0dWtVVWJVSzNkVHJEczQ4NjhfbElqM3hLQXltM2xoY19aZlJYQ0N6S1JJZTh6Wk5mUVpr?oc=5",
+          "timestamp": "13:54:28Z",
+          "source": "Moomoo",
+          "sentiment_score": 0.0
+        },
+        {
+          "title": "Is gold back? - ING THINK economic and financial analysis | ING THINK",
+          "desc": "Is gold back?&nbsp;&nbsp;ING THINK economic and financial analysis | ING THINK",
+          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1tSDF1WDkydC1DNjRENkFoMlVXUDdYNzJHLV9xSUVLbmpDZlJNUUNST1RwWDdwS0IyNTdKcjRkT2ppYnhLMU0weWlvTGZ5ckI5NkpFZlJJZw?oc=5",
+          "timestamp": "16:04:09Z",
+          "source": "ING THINK economic and financial analysis | ING THINK",
           "sentiment_score": 0.0
         }
       ]
@@ -107,11 +107,11 @@
       },
       "items": [
         {
-          "title": "The Iran war energy crisis is just getting started - Reuters",
-          "desc": "The Iran war energy crisis is just getting started&nbsp;&nbsp;Reuters",
-          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOXzN3VmVtUVpMWHBXcnNDdUJXbkNFMFRxRjkxSzJjWEtZMWpnV2V1WWNfWFBNWlNENWhJVFBsUjhrcEtEa1ViaXhwcDRCR3BqeHFTX0JCektpb0dPYjIwTm55eXVGdm5yaDBQSUtjbWxEWllxUWJGVXBTVkVybi12U3pnT1hnQ0g0cW9UbE1jdjFGT3BUVWdKcHJNX1EzMHEybXNOcS1waEZyVk1qaVNFaFpyZHpjQQ?oc=5",
-          "timestamp": "08:26:19Z",
-          "source": "Reuters",
+          "title": "India’s reliance on Russian oil hits all-time high - Financial Times",
+          "desc": "India’s reliance on Russian oil hits all-time high&nbsp;&nbsp;Financial Times",
+          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNdEYyLWMxVS1GSlg2YTFtazRRUlhOS0dtYnRGY1BRYjFnX1k3SFVLb0NqX0R3bFhLYlpEUm44S2VjWUNCRDZQYXhERDl4dzcxcC1OR2I5azN1QVN5MW1vbFR2X1loYnAzRFBCX0lCRFpIWFFQZi1iRWpjaUVSSlk4bmdpODY?oc=5",
+          "timestamp": "04:05:10Z",
+          "source": "Financial Times",
           "sentiment_score": 0.0
         },
         {
@@ -120,6 +120,14 @@
           "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5uWGliTTgwN3hqMGh5Q3VPMFhNeGhrWkhOZ3k2YmlvOUZqbEJsd1I0RERiUVZSdVktUzhiWHZkZkxmMDk3a21tb2NQaTVnYndsMTJTb2lwTW5sTkhDN3lQcG93?oc=5",
           "timestamp": "12:30:00Z",
           "source": "Fortune",
+          "sentiment_score": 0.0
+        },
+        {
+          "title": "China's New Five-Year Plan Preps the Nation for Peak Oil - Crude Oil Prices Today | OilPrice.com",
+          "desc": "China's New Five-Year Plan Preps the Nation for Peak Oil&nbsp;&nbsp;Crude Oil Prices Today | OilPrice.com",
+          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNV2tJNUZ5WkV4UEtNOGJRMjlUdWVpbHpfRE90c0ZJb1ppV3BjZC16dGJfOEtwVDJ1bGN6OWJvLThnNXM0SHpFRUxwQWRhVHpVc2M0dkpvUWtRYkswb3J1VzhLUnpiT3ZQTm9RcDJfakoyMVBacDlSaG00UmRrc3R1NkE2R19SV1RnMEotelJzQXd2NWdHbXRmc0hIQTNsQkHSAaQBQVVfeXFMUDVVeWdPYWs1X3VyQUk3U1lSQ0NVQzhVc21rd3F1Wm13QUlOMlFtRUFoZnVXOVdCeXhpV0pLS1FQMVdKbUtsUVlXTFhKYTdCUm1uTy1VRXJ3MFJVS3ZrSUlqcmdMcTZWTE14MDJZRUFfczM0N2RuYUZRVzVTTjF1U1k3VGdhdUxyc1ljTW10SFFIUEo4UGlReGdwODV0WEJ4Vl9COTA?oc=5",
+          "timestamp": "22:00:00Z",
+          "source": "Crude Oil Prices Today | OilPrice.com",
           "sentiment_score": 0.0
         },
         {
@@ -137,14 +145,6 @@
           "timestamp": "21:34:00Z",
           "source": "WSJ",
           "sentiment_score": 0.0
-        },
-        {
-          "title": "China's New Five-Year Plan Preps the Nation for Peak Oil - Crude Oil Prices Today | OilPrice.com",
-          "desc": "China's New Five-Year Plan Preps the Nation for Peak Oil&nbsp;&nbsp;Crude Oil Prices Today | OilPrice.com",
-          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNV2tJNUZ5WkV4UEtNOGJRMjlUdWVpbHpfRE90c0ZJb1ppV3BjZC16dGJfOEtwVDJ1bGN6OWJvLThnNXM0SHpFRUxwQWRhVHpVc2M0dkpvUWtRYkswb3J1VzhLUnpiT3ZQTm9RcDJfakoyMVBacDlSaG00UmRrc3R1NkE2R19SV1RnMEotelJzQXd2NWdHbXRmc0hIQTNsQkHSAaQBQVVfeXFMUDVVeWdPYWs1X3VyQUk3U1lSQ0NVQzhVc21rd3F1Wm13QUlOMlFtRUFoZnVXOVdCeXhpV0pLS1FQMVdKbUtsUVlXTFhKYTdCUm1uTy1VRXJ3MFJVS3ZrSUlqcmdMcTZWTE14MDJZRUFfczM0N2RuYUZRVzVTTjF1U1k3VGdhdUxyc1ljTW10SFFIUEo4UGlReGdwODV0WEJ4Vl9COTA?oc=5",
-          "timestamp": "22:00:00Z",
-          "source": "Crude Oil Prices Today | OilPrice.com",
-          "sentiment_score": 0.0
         }
       ]
     },
@@ -156,11 +156,11 @@
       },
       "items": [
         {
-          "title": "The Teens Taking On Data Centers - The New York Times",
-          "desc": "The Teens Taking On Data Centers&nbsp;&nbsp;The New York Times",
-          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBTRkNTTnZPS2FXSGNDQms0VE15dmVBeTloSG9tSkxYNXVLUWI2X2kwQzQ3akQ1clMtMFZPS2c3aFk2SnFMZWl0ckhNbGxrVk4wTkdtV2V1NmlBeHZFaE5oY0ZJRnlna3dKa2VMN0JsRkhxYlZoREE?oc=5",
-          "timestamp": "09:00:55Z",
-          "source": "The New York Times",
+          "title": "Nvidia Is Spending $6 Billion to Build a Powerful U.S. Alternative to Chinese AI - WSJ",
+          "desc": "Nvidia Is Spending $6 Billion to Build a Powerful U.S. Alternative to Chinese AI&nbsp;&nbsp;WSJ",
+          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPWHdVbW56NVZvU3ZwQTRIcmdRUVVZWjBVc1J4TFhhVUs2VE5RY21CNEpSdHA2NUJLa0daUVhYcGJwaGh6bERReE5fcFdFdHJ5bWpXa1dPTkFweDVVS3AycGxMa3VqS2JDS0VTZDNIb2RYLVVYcmdxT2xQUUpRSXNFbHhTTVozVjVyUkVYRmItTzc5SlIwS2M0NVZseUtUWFZDX3V6azMxTHJhdHJwYm5XU28yUmlzUQ?oc=5",
+          "timestamp": "00:00:00Z",
+          "source": "WSJ",
           "sentiment_score": 0.0
         },
         {
@@ -172,19 +172,19 @@
           "sentiment_score": 0.0
         },
         {
-          "title": "Woman covertly filmed by Meta AI smart glasses raises privacy and consent concerns: \"I had no say\" - CBS News",
-          "desc": "Woman covertly filmed by Meta AI smart glasses raises privacy and consent concerns: \"I had no say\"&nbsp;&nbsp;CBS News",
-          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE42emlnYXJZb3ZYNVQ5dHhsVUxPTElVeFI5aHRScEdUS1FKZTRQUUNsNVFFUWZBSEUzRkhwMG52bEk2amgzZHZBX3R6eEg2UlphSXZ1aFlkYnNZaVZMNldCTkcxYlhrRlZJS2hQZDhqMHhRQk5lMXB3YkFtNmoxb1k?oc=5",
-          "timestamp": "17:49:00Z",
-          "source": "CBS News",
+          "title": "Mystery AI Model Ox Alpha Draws Developers With Free Access - Bloomberg.com",
+          "desc": "Mystery AI Model Ox Alpha Draws Developers With Free Access&nbsp;&nbsp;Bloomberg.com",
+          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQc29aQ2VnX2hNVmtsOENoUWVtRW8wcm82MUt4Uld4SWlzZzM2R1lsTnhWbk9qbUtzcXhfMGV4dlFWT3BlWEVjdF9yNzlLS1JBSTRrMEgtaXhBaFFGVG9rX0NrTk9ZLXF6bUVRTWl5ejlHTWx1b2FlTEVoWkNUR2VvVGNMd1p5T3JnalpKU003LVFHbk1YX3ZPNWM1SWNzQy1mb0xsRHJCTXp0QU1qLWpn?oc=5",
+          "timestamp": "05:55:00Z",
+          "source": "Bloomberg.com",
           "sentiment_score": 0.0
         },
         {
-          "title": "Brazil launches AI supercomputer push while balancing US and Chinese tech - Al Jazeera",
-          "desc": "Brazil launches AI supercomputer push while balancing US and Chinese tech&nbsp;&nbsp;Al Jazeera",
-          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPZ0lBTVBaTzhZZW1TMFJGMXh6NGVCNEloS0RPZlU2U0NqUHZQeDgyTW93eklwUHlRSjMybDlhTThVUjN2ZGIxMG52VEx2NmJ0d0xwWnBySXYtSnZzTXBMQ1VGVm1OcU5DUTAzbjN6UUE4Yzg0bkdxSkZzTDFpOF84SWFEbVFMejV0SmhXVVlKeU14WGd1dER2VDl1aXpDQUxNUy04SDlIWXlmNzBOeWtWLVdmS2Y1ZHBB0gG-AUFVX3lxTE56NFYzZ245MURqQUNGUDFXVm54alMteWFxMVhsVzdFaWYtNk1xYXRfRkxwUHQxQWpKNjFxdjNQUkdubHY1NVhIY0JQUzN6RGFTTVF5VEZiTXNEdDczU1A1amdMWmhYWWxhdEtTOEJTX1FOai1WUlktWDlEZzJLSjM0d1hSNjFsZzB0UnJzS1JabWdnTk9CNjlRRlZMdDN6VnpNOHJLM2JWY3RUR2psUkFkZnlxVWc5d3NQazJ2TFE?oc=5",
-          "timestamp": "01:50:26Z",
-          "source": "Al Jazeera",
+          "title": "Elon Musk Says China Is ‘By Far’ Strongest AI Competitor, Echoing 2011 Warning as SPCX Faces New Rocket Rival - Yahoo Finance",
+          "desc": "Elon Musk Says China Is ‘By Far’ Strongest AI Competitor, Echoing 2011 Warning as SPCX Faces New Rocket Rival&nbsp;&nbsp;Yahoo Finance",
+          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOUkdCeGdDaHJscWhNQ2JLV3ozcVBicTZwaUdiYy1hdlRBc25Gby1zcTlKUWJEVjI5Sm1qeXN4M1BRUHdmWHczTWtLM05BM3FucEVYQ1VVMk1fV1cyTl9wNDBLSTllY0kyRXYxRHJ2N0wtWWNlRlg3eVVHbWpZRUpYNW1FQTJiNFFsSzJGU1FLa1NZZw?oc=5",
+          "timestamp": "18:01:08Z",
+          "source": "Yahoo Finance",
           "sentiment_score": 0.0
         },
         {
@@ -213,11 +213,11 @@
           "sentiment_score": 0.0
         },
         {
-          "title": "Governance, Growth, and Geopolitics: Insights from China’s Two Sessions - Beyond the Horizon ISSG",
-          "desc": "Governance, Growth, and Geopolitics: Insights from China’s Two Sessions&nbsp;&nbsp;Beyond the Horizon ISSG",
-          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNUGtBYkVFTXVSZU9ZMFNicVRTNEhBeE44SXlucW1tTm5lX3dmMFRTNFVXV2l4S1RxWkVYLVFmUmJ0bWlpemdLLXI0UG81emVnZ2NabF9qbkhfU1NUYU9kTXZ2U3pJSGpaS096dEdORXVqMjB6NHBwcnZDRmJDaXBlTVhpdkNkVmlOdlBySkhqUm5PNmpWT3c0?oc=5",
-          "timestamp": "21:59:23Z",
-          "source": "Beyond the Horizon ISSG",
+          "title": "Japan and Geopolitics: China and the Russian Federation - Modern Tokyo Times",
+          "desc": "Japan and Geopolitics: China and the Russian Federation&nbsp;&nbsp;Modern Tokyo Times",
+          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPbFVUYmxLRGtpNWNTcmNfWlpJWF9DVUczQ3U4el8yWHBMeGtPb08yRmFMak80MmdtVnBOUHlxRk40N2RLUUlFMzhZYzJuUFpZYVgzbkR4djYwSW5kbXprMkp2Z3VIb2t6cUMtRGEtd2RSMlI3S2t0VDdqdFhOZVpwUmhSMTFyYkNxdW9XRA?oc=5",
+          "timestamp": "13:17:00Z",
+          "source": "Modern Tokyo Times",
           "sentiment_score": 0.0
         },
         {
@@ -232,16 +232,16 @@
           "title": "UCL: Broader geopolitics strengthen case for digital euro - CNBC",
           "desc": "UCL: Broader geopolitics strengthen case for digital euro&nbsp;&nbsp;CNBC",
           "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNN2syQTI1Z2o1QWdqNXJZYmVsQWl1ck9JdFI2Tkk3TTZsOUxBaERBTWtWbTdZdnR0dnFLVTJLZXRsSG1zaHNFYzlMT2NRd01zR3VjWnUtNzQwcl9Dbnk5SGxiWHRuTWtfbkdXVDh6Zzc3S1lQemNrRzhSRnhOcktreDJPeUJodkJIRWY2UzZnY0tkSTZjYTBHdFBvU3JsanVY?oc=5",
-          "timestamp": "08:47:32Z",
+          "timestamp": "08:47:00Z",
           "source": "CNBC",
           "sentiment_score": 0.0
         },
         {
-          "title": "How Geopolitics Has Rewired Brazil's Business Risks - FTI Consulting",
-          "desc": "How Geopolitics Has Rewired Brazil's Business Risks&nbsp;&nbsp;FTI Consulting",
-          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPTTBzNTlHazhicG05V3U5bmpoY01ldUpoMk10S1dQNXhuYUJaMlpkTGNGc2pQbDRIWmEyTzFhdUpNNEcxRmFWYndSZ3g2b25HMTFLVGpqcGFOOUlkWjR1NEp1QVh2TzdLdzdBaTZieFZLWHNwMWZFYXJ5LTRDM2JlY1hFWU92NG01RHJvbVFHS2tPZ1hNWXpRUExvUVBPTWM1M1JPS2xkNTQ0Yms?oc=5",
-          "timestamp": "01:19:13Z",
-          "source": "FTI Consulting",
+          "title": "Geopolitical risk needs to move away from the ‘after-dinner speaker’: Eurasia Group and Rio Tinto’s Dominic Barton - Fortune",
+          "desc": "Geopolitical risk needs to move away from the ‘after-dinner speaker’: Eurasia Group and Rio Tinto’s Dominic Barton&nbsp;&nbsp;Fortune",
+          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQYkZJcWF4V3oxMEVaWDE3OEJJTS1hQ1ladjNmODFWU2pYVldHc056QzNDQmo0V3ZIU1R0b1dGOHNacnBKTjJVQkFVQ1N0ZEdjM0N5T0RYdG5yM2xRVDVvR0FNdlhrb0dmQWhIUE45bEtWR0x4c2pCQ1g0bWdscFI2b0JYczRUdGtCdkJzb2kwTFhtVzNzTzZwZnpLYlpXVlV3bjhrLVNQeTdUWGs?oc=5",
+          "timestamp": "21:00:00Z",
+          "source": "Fortune",
           "sentiment_score": 0.0
         }
       ]
