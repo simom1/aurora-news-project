@@ -1,52 +1,52 @@
 {
   "report_metadata": {
     "version": "2.0",
-    "last_updated": "2026-08-26T06:00:04.591240",
-    "report_date": "2026-08-26",
+    "last_updated": "2026-08-27T06:00:04.625953",
+    "report_date": "2026-08-27",
     "title": "AURORA | 战略情报简报"
   },
   "prices": [
     {
       "name": "黄金 XAU/USD",
-      "price": "4,715.90",
-      "change": "+1.62%",
+      "price": "4,647.80",
+      "change": "+0.21%",
       "up": true
     },
     {
       "name": "白银 XAG/USD",
-      "price": "68.63",
-      "change": "+0.13%",
-      "up": true
+      "price": "68.08",
+      "change": "-0.80%",
+      "up": false
     },
     {
       "name": "WTI 原油",
-      "price": "81.11",
-      "change": "-4.59%",
+      "price": "81.91",
+      "change": "-0.55%",
       "up": false
     },
     {
       "name": "布伦特 Brent",
-      "price": "85.86",
-      "change": "-6.85%",
+      "price": "86.56",
+      "change": "-2.28%",
       "up": false
     },
     {
       "name": "英伟达 NVDA",
-      "price": "213.05",
-      "change": "+2.19%",
-      "up": true
+      "price": "209.66",
+      "change": "-1.59%",
+      "up": false
     },
     {
       "name": "比特币 BTC",
-      "price": "78,552.21",
-      "change": "-0.52%",
-      "up": false
+      "price": "78,718.61",
+      "change": "+0.20%",
+      "up": true
     },
     {
       "name": "美元指数 DXY",
-      "price": "98.91",
-      "change": "-0.09%",
-      "up": false
+      "price": "99.14",
+      "change": "+0.22%",
+      "up": true
     }
   ],
   "intelligence_sectors": {
@@ -58,11 +58,11 @@
       },
       "items": [
         {
-          "title": "Commodity Price Prediction Markets in 2026: Oil, Gold & More - SailGP",
-          "desc": "Commodity Price Prediction Markets in 2026: Oil, Gold & More&nbsp;&nbsp;SailGP",
-          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9TMjI0OXlXVzdfVmlJamx3dzlPdGZiOXpVWGpzRHI0RlZHTV95RkN3U2pRTVB6a0FtOXQwSU1BeXgtQzRHbFNuYUlzczU2QnlseFhBQTJhYktvYUNIRnc?oc=5",
-          "timestamp": "18:18:43Z",
-          "source": "SailGP",
+          "title": "Hochschild Strikes Gold, Literally - Yahoo Finance",
+          "desc": "Hochschild Strikes Gold, Literally&nbsp;&nbsp;Yahoo Finance",
+          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQRUtnaDM2V09pMUZTODRINXp2aFFCaG0wUkxwRFduanplTGJBLUVHc0N1QWdabTdXb2dCREVEVnEzOUZ3Nk1LMkNucS0wRFh2N095WEloaExXQzVFUFExaFR2WG16UDlKZEktb1FBemxSMEdsX1FNNkRsVUpuQkZDYV9xMkp0SnJLSmFPR2t6U3E1SnV4NndscG1OU2JIQW8zcnFkMG5B?oc=5",
+          "timestamp": "14:15:36Z",
+          "source": "Yahoo Finance",
           "sentiment_score": 0.0
         },
         {
@@ -74,14 +74,6 @@
           "sentiment_score": 0.0
         },
         {
-          "title": "Gold Hits Three-Month High as Bitcoin Tests $80,000 - Yahoo Finance",
-          "desc": "Gold Hits Three-Month High as Bitcoin Tests $80,000&nbsp;&nbsp;Yahoo Finance",
-          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPQlltT3BWMWlLT1RKQ2JQTHBBM0pIZVhjem9DOU5DVWNpSXZkZE1OQV9McWdJQ0JhTUxhMFNxX3ZLUGs4dWkyUzJ4aUUyODhZam1JRHJIbTlnUmVBalE0bVBjTnpjNTY5Z01OX1RSZjdGdFp2bFFfbHQ5MEZzSUdiQmgtb21IQTFkM0Z3UnRBeEptN0N3dDY2Q0tYaDg?oc=5",
-          "timestamp": "17:24:54Z",
-          "source": "Yahoo Finance",
-          "sentiment_score": 0.0
-        },
-        {
           "title": "Gold: The most effective commodity investment − 2026 edition - World Gold Council",
           "desc": "Gold: The most effective commodity investment − 2026 edition&nbsp;&nbsp;World Gold Council",
           "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNRUdDWWxtMlpzTUU3Ylg1MnkxYlByVGpTdGZON1ZOTjVrUkxZZW9HaklRbkFwa1licnFvaDl1WXJFWmFVVE9OT1hEZkU1Y1hFeEdISHk1WnlOdGZ2YmdRWVBHX3pnN3NjaTdzcjVQRHZsUTRTNzJIY083WmMtTXNRbnRDbWJmclJ5SUtHam16UFdIcndpS2c?oc=5",
@@ -90,11 +82,19 @@
           "sentiment_score": 0.0
         },
         {
-          "title": "Commodity Wrap - Natgas, Cocoa, Gold, Oil (25.08.2026) - XTB",
-          "desc": "Commodity Wrap - Natgas, Cocoa, Gold, Oil (25.08.2026)&nbsp;&nbsp;XTB",
-          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQMjVISklabHNQenBmUFltZXkyNWNjTVROeS16NVlzQ01NX1hxSmd1clRHVjJIT2l1NjdvZHRlYXNxT3VuZ0JmZE1SWE1FTmpncmlidkRWLUtWMThQVmZZT0gzMEtxVEx3SUdBUDQ3aWJvdzRyaDMySzJLWUJkYW1SMmUzaVcycmZQcExwLUpWQVhaRUF4ZXZNa1lLY3U3S09SejdBeUlHTVI?oc=5",
-          "timestamp": "08:48:11Z",
-          "source": "XTB",
+          "title": "Commodity Price Prediction Markets in 2026: Oil, Gold & More - SailGP",
+          "desc": "Commodity Price Prediction Markets in 2026: Oil, Gold & More&nbsp;&nbsp;SailGP",
+          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9TMjI0OXlXVzdfVmlJamx3dzlPdGZiOXpVWGpzRHI0RlZHTV95RkN3U2pRTVB6a0FtOXQwSU1BeXgtQzRHbFNuYUlzczU2QnlseFhBQTJhYktvYUNIRnc?oc=5",
+          "timestamp": "18:18:43Z",
+          "source": "SailGP",
+          "sentiment_score": 0.0
+        },
+        {
+          "title": "Is gold back? - ING THINK economic and financial analysis | ING THINK",
+          "desc": "Is gold back?&nbsp;&nbsp;ING THINK economic and financial analysis | ING THINK",
+          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1tSDF1WDkydC1DNjRENkFoMlVXUDdYNzJHLV9xSUVLbmpDZlJNUUNST1RwWDdwS0IyNTdKcjRkT2ppYnhLMU0weWlvTGZ5ckI5NkpFZlJJZw?oc=5",
+          "timestamp": "16:04:09Z",
+          "source": "ING THINK economic and financial analysis | ING THINK",
           "sentiment_score": 0.0
         }
       ]
@@ -107,43 +107,43 @@
       },
       "items": [
         {
+          "title": "Oil prices dip as optimism over Iran trumps new fears of a Russian escalation in Ukraine - NBC News",
+          "desc": "Oil prices dip as optimism over Iran trumps new fears of a Russian escalation in Ukraine&nbsp;&nbsp;NBC News",
+          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNS3NPa3NJalRQcVRiUjVQa1NhN295bGVBWDZUWV9faktoMXhQLXpFVnQ0WnVrTDMtMTI1cC1nampaZkZVVHdNRzluNTBodVIyeGVqTjBEeUFtS25Ldk5MaHk3dzVDZXVpRXNrYVpUX3FYNXJIbk1LMDhZdjBqbS1CUVE5ZmIydW0wbXZGM01JQTBJeWZCUlE?oc=5",
+          "timestamp": "17:27:41Z",
+          "source": "NBC News",
+          "sentiment_score": 0.0
+        },
+        {
           "title": "Less than 300 million barrels left: the engineering limits threatening the American Strategic Petroleum Reserve - Fortune",
           "desc": "Less than 300 million barrels left: the engineering limits threatening the American Strategic Petroleum Reserve&nbsp;&nbsp;Fortune",
           "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOeEpCNUV5VTk4bVdEcGxUUERPQ2QyVlJFUG1QVXZhNWZ0Ty1lZmRWU3d0Ml9KMHBxS1doVV9ycW9NRFphcXVyc2MyRXZuVVZkV0RkUjdJbnNXSW9DUEtVT1hQTzlRZlluM3JjTGJHdXl4eTNaOXh4REVEVnlDdGxva2FrVXd6SFo1?oc=5",
-          "timestamp": "07:36:41Z",
+          "timestamp": "11:00:00Z",
           "source": "Fortune",
           "sentiment_score": 0.0
         },
         {
-          "title": "Japan plans no crude oil release from national reserve in September, October - Reuters",
-          "desc": "Japan plans no crude oil release from national reserve in September, October&nbsp;&nbsp;Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPMXNmTnlUNEYwMDlmQndWQ0FPalZxbzd4dWJ6aHBZMy1ndFF0ODh5eTluVkJnb3F1OHdhTXMwV3JpUmxWMEVvcURrMW5Xa1E0UWYtM3FzY0lvSmFxMGhaSlZJWEdBcDFmeWJwYmwtWGtZclE1OXNJNmJfaHRnUk9YdmRIcDNJSXZ1bVZ1dEU5Vk1LeFNWUUc0SWlkSFBlNXhvT3lyZnpSdDdlUGpXMGNlRS0yWXM2SDZtSlhF?oc=5",
-          "timestamp": "03:39:00Z",
+          "title": "U.S. Crude Oil Inventories See Modest Weekly Build - WSJ",
+          "desc": "U.S. Crude Oil Inventories See Modest Weekly Build&nbsp;&nbsp;WSJ",
+          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPVUVfYWl4eUI3Ni1JYktwc2xCMHZLQldHaEZ6WHJRLVYzSzRjRjFxZkt0eEFpRFRnc0xlUF94eDZ1clh5ZV9pUExNOENOMXotSVljNE1teDBwZFJFQzUyeGJzRkljLV9xNzh0Ti1hZHVQbFVDYVJIOHlLY2dVSXFmZGtFV3pKM0tlWXdkQUhCUHQyUk1nMlY0eGtXS1VVQ3c?oc=5",
+          "timestamp": "15:50:00Z",
+          "source": "WSJ",
+          "sentiment_score": 0.0
+        },
+        {
+          "title": "Aramco offers more oil outside Hormuz with some cargoes heading to China - Reuters",
+          "desc": "Aramco offers more oil outside Hormuz with some cargoes heading to China&nbsp;&nbsp;Reuters",
+          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNN28yZHRvaDZjTnZZZUxaLVNTSTdyb0JUTVJfZmN2TUhWa2d5Tk9id0hDNm11YjlZZFFKV1RrV3FSUjNUeWlmaHhCbGFraDlnVm5EVVIxdUJYWHlqS1BpNTRXaDV4WjJSVkg1OTZhalpnMldOdmNaTFkyTE9LczQ0NUhlalM1dDlPMVVBbGtnZ1FlNFRacm40Y3Z0MjhXSy1HRXk1UmVwZkl2WmhhaVdGWVdHb1M5eU43eHFZZzR3?oc=5",
+          "timestamp": "13:17:05Z",
           "source": "Reuters",
           "sentiment_score": 0.0
         },
         {
-          "title": "Norway Warns Oil and Gas Output Could Collapse After 2030 - Crude Oil Prices Today | OilPrice.com",
-          "desc": "Norway Warns Oil and Gas Output Could Collapse After 2030&nbsp;&nbsp;Crude Oil Prices Today | OilPrice.com",
-          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPZ29FazV1djBjUjNlb04wV0o2MGRhaXpzN0tIRlVNbUYzT0ViOTd5ZUZfMDQ0NDZEc3RpWlNxeTE1eWhtenZ2Zi1yQmlJa3BIb1ZkTkR0WlZya1RVNmpDaFhRc3JhZExOWHpTMEFOeFZ6RFpWcmtHY3ZGZmE2SUZOQ1BudUREVnltWnZrR0FKSlF4Z3ByMWp3cERidkFLejRJOXfSAacBQVVfeXFMTldHQ0JqRkV2bFh4U1pGVXBoWXVtbGxGb3FQZS10bkJWR2hGNHlXZW5ITHdLQ1gxQzVGdjVUWjNqa2kxeDFET3VyY2xrc3drcmdmT0xrUHdJY2xBZmllOU1vaWQ5Q0pXVktBY3lHNzY1VEpRYmpvZF9xQzdkYWE2dTJkdnN3bVFDVk55VXNZeEtFdFRRc2RDdUtvbFNkc0I1bkZPNVJrUFE?oc=5",
-          "timestamp": "19:00:00Z",
-          "source": "Crude Oil Prices Today | OilPrice.com",
-          "sentiment_score": 0.0
-        },
-        {
-          "title": "Dangote refinery drives increase in petroleum shipments from Nigeria - U.S. Energy Information Administration (EIA) (.gov)",
-          "desc": "Dangote refinery drives increase in petroleum shipments from Nigeria&nbsp;&nbsp;U.S. Energy Information Administration (EIA) (.gov)",
-          "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBIVl80YkhaV1dJZ3E4LUFvYzlUaTQ4bE1hd2loSm5SWk1pWWloNXYtcTdpd2owMHQzTF9GckRwQ2ZidG1UUWJrY3F2T3RZblNtbWRTNmNwRk10dEI5aGg2dUJXRQ?oc=5",
-          "timestamp": "13:01:15Z",
+          "title": "Eight petroleum liquids pipeline projects have been completed since the start of 2025 - U.S. Energy Information Administration (EIA) (.gov)",
+          "desc": "Eight petroleum liquids pipeline projects have been completed since the start of 2025&nbsp;&nbsp;U.S. Energy Information Administration (EIA) (.gov)",
+          "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE80TndBaXBCZmI5b21ZVWJNYUtQT3VnOE0tajhiM2NEU3liM2dFbnV3d1NsSDE1WHhmaEROanZaUDE5Q05QZi1nV2NrVG1qcm5ZOVkwb183cUJFMHpYRUFJRU9OSQ?oc=5",
+          "timestamp": "14:48:46Z",
           "source": "U.S. Energy Information Administration (EIA) (.gov)",
-          "sentiment_score": 0.0
-        },
-        {
-          "title": "India’s reliance on Russian oil hits all-time high - Financial Times",
-          "desc": "India’s reliance on Russian oil hits all-time high&nbsp;&nbsp;Financial Times",
-          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNdEYyLWMxVS1GSlg2YTFtazRRUlhOS0dtYnRGY1BRYjFnX1k3SFVLb0NqX0R3bFhLYlpEUm44S2VjWUNCRDZQYXhERDl4dzcxcC1OR2I5azN1QVN5MW1vbFR2X1loYnAzRFBCX0lCRFpIWFFQZi1iRWpjaUVSSlk4bmdpODY?oc=5",
-          "timestamp": "04:05:10Z",
-          "source": "Financial Times",
           "sentiment_score": 0.0
         }
       ]
@@ -156,43 +156,43 @@
       },
       "items": [
         {
-          "title": "By Opening a Model, a Chinese A.I. Lab May Test the World’s Cybersecurity - The New York Times",
-          "desc": "By Opening a Model, a Chinese A.I. Lab May Test the World’s Cybersecurity&nbsp;&nbsp;The New York Times",
-          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQUjdBMzBkZWNObjNqUzhDbXN5VTZtTkpOeXNyd2RmN1BaNHQ5S2ZCLXBhNGswZzBodUlFNTJVWW13VVFsdnE2bGxFQ3BUQW1ZTS1mYTlDU3RxbkJBbkhDRk9hbmhZSFNCaGM2eE9ULVRQTlR4QlBMRUI1S2J3cElDVWdiOU8?oc=5",
-          "timestamp": "09:02:38Z",
+          "title": "Bill Gates Is Warning That A.I. Is More Dangerous Than Big Tech Will Admit - The New York Times",
+          "desc": "Bill Gates Is Warning That A.I. Is More Dangerous Than Big Tech Will Admit&nbsp;&nbsp;The New York TimesBill Gates says we’ve passed AI’s danger th...",
+          "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBpdU40bG1VdWJuMWJGR3NrTTloZzVNV1V2VlBBNTQ1LW40UkxqQUV0cWV5a1NOX2hSLVhWVkladllLaUR6RWZsSXQwZ2hEckhJUUx0c1h3elFrWHN1MXhXMnVxQm9GV1RNaXAwbThoU3JKSTBoeHNVdjNB?oc=5",
+          "timestamp": "11:06:51Z",
           "source": "The New York Times",
           "sentiment_score": 0.0
         },
         {
-          "title": "UK, Ukraine sign AI defence partnership linked to battlefield technology - Reuters",
-          "desc": "UK, Ukraine sign AI defence partnership linked to battlefield technology&nbsp;&nbsp;Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQMk1vd2pFVnJwQWNUbVJRS1A0WDRCXzBuVVBMN0hlTFJtNDhSZDVnSkdaMmZTSXRhSWlOTjNvYTBSVU9KM1NSdE9OWTFIVXJKWEdEU0ZfaTBMbGV6WHlkWkdEWGdMNEE3WVFoNnRQdVZNamRlc3cxakRMbkxXd3JSYnFYMXlDVUJXZC1nOW9ONTVseXlCRGNxUExhOUhCb2E3aVpPWmRjYmpoUnFmNG5WMGRJV0lGelBQRjk3emF2MTdaSmF3eTE3UXZ3QQ?oc=5",
-          "timestamp": "17:10:33Z",
-          "source": "Reuters",
+          "title": "The turbulent AI era is here. The choices we make now are critical. - gatesnotes.com",
+          "desc": "The turbulent AI era is here. The choices we make now are critical.&nbsp;&nbsp;gatesnotes.com",
+          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5vNHRZblJwZHNZZEZfZ285LUdncWl0YUk0UHVfTDM1b05YSU9rVHRhYUpkQ1VwV1RJaXZ4SzZwV2dBd2ZYeEZtbUpGNkpDdng5WjRTa28yOVdIM3drTERSVVVoeWI0WnpWT3dQbGVQcVhvdEZIZE1oaTB4cHdRb0E?oc=5",
+          "timestamp": "21:32:38Z",
+          "source": "gatesnotes.com",
           "sentiment_score": 0.0
         },
         {
-          "title": "University Of Chicago Bans AI, Other Technology, In More Courses - Forbes",
-          "desc": "University Of Chicago Bans AI, Other Technology, In More Courses&nbsp;&nbsp;Forbes",
-          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOc0s2Ti0xRUxseTB4dy1fUTcwNFNOcjd1TmU2VnRTVG91SllyeGZOY2RuMTl0T005OUNGbWF2MWxjdVh1dmJLNVYyMlItN0t2bzJVY21YQlRGZm1NVVlkaHJUUU9WcXktTl9pSEZreHd4Nl9oWmVHZnVheXozSi1BVmZZeG9GR0VEa3lrVTRIM1RDSFdfUmQ5Y1dCREJFUXBSYTFnUXAtV202UUtXSE12c2tPVFRxTVNsZlhLSmFFaU4?oc=5",
-          "timestamp": "14:19:38Z",
-          "source": "Forbes",
+          "title": "Florida eyes AI rules for state colleges - WUSF",
+          "desc": "Florida eyes AI rules for state colleges&nbsp;&nbsp;WUSF",
+          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPM1lhaHlwRTlnNGVCNzVhdjRaODFDNUg0OExZV0x2dHlYUnZXUE5EUzlJS0ZxTTRVOHR5akJXbmRLeTFzd0JMWjRDZ2tpLVpTVzJkUUNGSDhPVnZsUmZSQlJVdHNaSjJXRGhUQ051SkhUSDVYT181Nng1R01SOTRoc0dTT0RVanFBUXc?oc=5",
+          "timestamp": "20:01:00Z",
+          "source": "WUSF",
           "sentiment_score": 0.0
         },
         {
-          "title": "How much of a problem is AI’s water use? - Knowable Magazine",
-          "desc": "How much of a problem is AI’s water use?&nbsp;&nbsp;Knowable Magazine",
-          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQdTlySWM5SmlMQ25lX1BCVzl5aW0zb1RuUk9LdjVsa3gwaW5tODBHVDduZ1B0RFR4SHh5czF6SExRdy0wZlV6aERjeUN1bGJPNUwwcGRKUmhWZFREbWNQVG9UbW8tdlJRMGZ4N1JTY252Q3NSam9zWHFTQnZGOWU0WEVyOU9KemlkZ1VELXdaOXZCYU5PdnVuRFMtMXVkalk?oc=5",
-          "timestamp": "21:42:55Z",
-          "source": "Knowable Magazine",
+          "title": "The Varied Perceptions and Experiences of Internal Versus External Auditors in Adopting Artificial Intelligence - The CPA Journal",
+          "desc": "The Varied Perceptions and Experiences of Internal Versus External Auditors in Adopting Artificial Intelligence&nbsp;&nbsp;The CPA Journal",
+          "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNck1PaE1SREUwenpVNmNLVFA1UHBjYk0zSTlwVklieHlzd296V09pa0liSkxIVlZxSExJb2duMFNLYjZJWFNZbFhMTWNiSmN6aHhHM2VOUjFMUll0c3hfdTdhOHg5RWl0eGRGLWFkbWk0Q0lwNTRoVloxdUtObnhIR2l6aVV3VWJUaDgtRzdZM3NEQzdDcUJ2NlFZd0xIT0FUbUhsbXpoSklTOVNQQlNoNWh0eVM0Z1BTQkhDemJKZmZQb1JOTXpMMUlIUXRXdE84UnRHMnQtVHBlTXFQM3IyUVRSY00?oc=5",
+          "timestamp": "14:01:26Z",
+          "source": "The CPA Journal",
           "sentiment_score": 0.0
         },
         {
-          "title": "How to encourage smarter AI use in the classroom - MIT Technology Review",
-          "desc": "How to encourage smarter AI use in the classroom&nbsp;&nbsp;MIT Technology Review",
-          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQajAzMmpjdXVhMXBVeGdVLVFzU3ZMX2N0Z1VsNHNaelhZT0VGY0U3MzRJQUM3QnJVX2RVc0tyaHZIYXgwNXFLcEpSR3MzY2tGVWNyUjZacHJsTGI0eU1uNzlFc3RaSW1lWms0S19aczE0c3VpVTNYZXdvcno1VEZfZWdnOTRnVWgw0gGOAUFVX3lxTFBTRThrTXpZM2ZIWDd0MEtWX0dKZGJxZXR2SVBrT0pHVWt4Wnk3b05HTW9VQURuV3FuYkdtRXV5c1hXdzA1MGxyRWZZTnI5eDBGZW5EMTJ0eG1vNGZ6bzRySEVoZDh3TzdtSU9ocEFYWXdRZzVLZ3NXNHRyWERldjdMc1NqUUozVVR2cnJIRmc?oc=5",
-          "timestamp": "14:20:19Z",
-          "source": "MIT Technology Review",
+          "title": "How Cigna’s AI chief is investing in the technology to cut costs and address some of health care’s biggest problems - Fortune",
+          "desc": "How Cigna’s AI chief is investing in the technology to cut costs and address some of health care’s biggest problems&nbsp;&nbsp;Fortune",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5tQzRwZ3ZNYkJ3YWdEem04VTVVQ3dTNGJvMWVLazhiZUNEWVNhUEx3cDJrWlZQcmRfb1lCQjAzNFhrT2JsSDd3WHZqbF9fVUxISWRCZlM0azNub3VOWHJGS0d3YUFEWkRMOERPOVVn?oc=5",
+          "timestamp": "16:12:00Z",
+          "source": "Fortune",
           "sentiment_score": 0.0
         }
       ]
@@ -221,19 +221,19 @@
           "sentiment_score": 0.0
         },
         {
+          "title": "Companies must build for the unknown as geopolitical risks grow - Nikkei Asia",
+          "desc": "Companies must build for the unknown as geopolitical risks grow&nbsp;&nbsp;Nikkei Asia",
+          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPQ29wX1Z5TWM2d1dQNzdjb2FRTzF4YzFRQ3V2RnM2YnJOci1rck9oajRzT2FOb0d2LTBMOTBCZldEa0ZzbzlnZ3Iya0UtUmpKcklmNS04QnF3MzBYdEhLaE9qNG9FMVhZcFhXdUY4T2FNaURfTWlyY1loTVZFa3N4dVUyWTdvRGZ2dHdXampRa0ZCMHUzVkdwNlN2WQ?oc=5",
+          "timestamp": "08:05:00Z",
+          "source": "Nikkei Asia",
+          "sentiment_score": 0.0
+        },
+        {
           "title": "Egypt and Yemen in Ethiopia’s Security Architecture - horn review",
           "desc": "Egypt and Yemen in Ethiopia’s Security Architecture&nbsp;&nbsp;horn review",
           "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQRDRmYjAta1JPTF9JWW9ma0R2Rm5KRVRSSGVWLUE2dExUbFZuczlJWkpFWGJLTUhZS3pQSFFMVVV2R0hoTlRHZk0zY2N1SnllNWJrSEJtTF9IeUZRVzltTHllZkRpMUQzQ2RSY1NkbFVQbVRLdTNSM2FwMWpPRVQxOXJxazh2SXZpUGxxQ1Bn?oc=5",
           "timestamp": "07:40:50Z",
           "source": "horn review",
-          "sentiment_score": 0.0
-        },
-        {
-          "title": "The geopolitics of the 'Kurdish Opening' - thecradle.co",
-          "desc": "The geopolitics of the 'Kurdish Opening'&nbsp;&nbsp;thecradle.co",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1OdlJOZDVRUnVxNFlfNGNnTUZrMlVBeGd4ZENOSTF6QmdpR3VsWTd3RGJCNjFzYnJ5THN3Wndoa19lOTBLUkowRFZqMEM3NlU?oc=5",
-          "timestamp": "16:17:07Z",
-          "source": "thecradle.co",
           "sentiment_score": 0.0
         },
         {
