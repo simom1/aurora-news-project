@@ -1,33 +1,33 @@
 {
   "report_metadata": {
     "version": "2.0",
-    "last_updated": "2026-08-29T06:00:04.420272",
-    "report_date": "2026-08-29",
+    "last_updated": "2026-08-30T06:00:04.064003",
+    "report_date": "2026-08-30",
     "title": "AURORA | 战略情报简报"
   },
   "prices": [
     {
       "name": "黄金 XAU/USD",
-      "price": "4,504.10",
-      "change": "-2.29%",
+      "price": "4,478.10",
+      "change": "-2.85%",
       "up": false
     },
     {
       "name": "白银 XAG/USD",
-      "price": "67.09",
-      "change": "-3.37%",
+      "price": "67.00",
+      "change": "-3.51%",
       "up": false
     },
     {
       "name": "WTI 原油",
-      "price": "83.44",
-      "change": "-0.11%",
+      "price": "83.40",
+      "change": "-0.16%",
       "up": false
     },
     {
       "name": "布伦特 Brent",
-      "price": "88.29",
-      "change": "-1.57%",
+      "price": "89.31",
+      "change": "-0.43%",
       "up": false
     },
     {
@@ -38,14 +38,14 @@
     },
     {
       "name": "比特币 BTC",
-      "price": "77,365.49",
-      "change": "-3.60%",
+      "price": "78,164.23",
+      "change": "-2.61%",
       "up": false
     },
     {
       "name": "美元指数 DXY",
-      "price": "99.68",
-      "change": "+0.52%",
+      "price": "99.70",
+      "change": "+0.54%",
       "up": true
     }
   ],
@@ -58,19 +58,19 @@
       },
       "items": [
         {
-          "title": "Gold Is Forecast to Climb as Central Banks Buy the Precious Metal - Goldman Sachs",
-          "desc": "Gold Is Forecast to Climb as Central Banks Buy the Precious Metal&nbsp;&nbsp;Goldman Sachs",
-          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQR3Rkbk5XV2w2ZFFsUGY2WVRfTlJjYWJKVnI4TUJFRktBV1dOejd2UktQaXd3RUVUMWhYVTFDWFk2d2VxbXhERWpKM2EtRnp4X2Q2MHRoV0dnRzFiLUxOSVQ5LXoyRllBZ1VRMjViSzlqTHF5UTh1WVRPUldOMmxRbnBYU3VHOVNPUGFOd0pBUldMZDM2SXlTYWxqYkNBVDA2TmVqb3AtdW9aM1dJM2hndGhn?oc=5",
-          "timestamp": "18:40:34Z",
-          "source": "Goldman Sachs",
+          "title": "PDI Gold Stock Leads These Fast Growing Insider Backed Commodity Picks - Yahoo Finance",
+          "desc": "PDI Gold Stock Leads These Fast Growing Insider Backed Commodity Picks&nbsp;&nbsp;Yahoo Finance",
+          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNa3lUWkVlRjBCVEQtZ29nTEl3X3pyaW5fNm44a0g2Sm4ybE10a0FTYkliWXlvMEgxN1QtOXVWRUxPdnNrNmZjV2w3MkZiZFRuX0J5U1h2V2g0V3F1cUJ2VDRrRVI4cE5weW9obkVJMkFwRzAzdmFCQ3c5dWtUWlVoa3IzQ0dMTG4takdjc2k4N2tsX1dhY0htQTlwWQ?oc=5",
+          "timestamp": "02:17:00Z",
+          "source": "Yahoo Finance",
           "sentiment_score": 0.0
         },
         {
-          "title": "Gold Price Forecast: Ahead of Warsh's Jackson Hole Speech, Is Gold's Next Target $4,500 or $4,700? - TradingKey",
-          "desc": "Gold Price Forecast: Ahead of Warsh's Jackson Hole Speech, Is Gold's Next Target $4,500 or $4,700?&nbsp;&nbsp;TradingKey",
-          "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQRURiVXVyNjRQSTR3c2FfWFd4MVhDWTBhcXdwNFM1VWVjeWVib25tX0RueTY1X0t3Sy1RR3JQMjh6bTM3UW1NeUY5YWNiVGZxUUM4aHdWWTd6aGR2WUFBaXFoaExRbHZlTThnTDlaY2lrQmJXcV9OSUJQRXExcVl4Y3lYQVo4MGYtY3R5QnhuX3FuUC1ySVBLNkFkMlZLeS03M0lqSE5GSDlEMVFXdm93blBKZFdZQnlHT252Wk1nbEVJcTUteEx5VkJ5WTdvTmFfNlFZM1lOeDltenU3aEprdmZVZWd3RjhaR0E?oc=5",
-          "timestamp": "07:12:48Z",
-          "source": "TradingKey",
+          "title": "Factors affecting gold prices - stonex.com",
+          "desc": "Factors affecting gold prices&nbsp;&nbsp;stonex.com",
+          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOdEJackRxTDcwRlNoR29ZR19nZXlJZVZMS1JKS2FiSWU3alZ4dFFuUGhpZUhGalYxenJ2SW9OY2MtSVhfMTBrVkt0dk5INk5TWDBGSFc5S0phMWlTT1loWmRnUEZObG1kOXpQWG9Bamk3RUo3TGhXZEhvSmJkVmlIOUlISGQ?oc=5",
+          "timestamp": "13:06:44Z",
+          "source": "stonex.com",
           "sentiment_score": 0.0
         },
         {
@@ -82,19 +82,19 @@
           "sentiment_score": 0.0
         },
         {
-          "title": "Gold stays locked in ahead of Warsh's Jackson Hole speech - investingLive",
-          "desc": "Gold stays locked in ahead of Warsh's Jackson Hole speech&nbsp;&nbsp;investingLive",
-          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPT2YxTVdScDNfWElQSERNS0ZFYlBXeW50bUtISWI4YnMyeUh6cXJKcTd0RmtCTWRyMG9kMGlpYWFQU194bE02SzUxOC1OMkZveXpCVjNyOWRuOGZqN1Y4ZjhvdFdzQjdlTDFES09wNmlYWlg4RW5nOUdXMF9tZUItSmZIUnNKdlVpU2pOUkd5Z1lJbmozbDYxci1xQzc?oc=5",
-          "timestamp": "10:29:28Z",
-          "source": "investingLive",
+          "title": "Gold Is Forecast to Climb as Central Banks Buy the Precious Metal - Goldman Sachs",
+          "desc": "Gold Is Forecast to Climb as Central Banks Buy the Precious Metal&nbsp;&nbsp;Goldman Sachs",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQR3Rkbk5XV2w2ZFFsUGY2WVRfTlJjYWJKVnI4TUJFRktBV1dOejd2UktQaXd3RUVUMWhYVTFDWFk2d2VxbXhERWpKM2EtRnp4X2Q2MHRoV0dnRzFiLUxOSVQ5LXoyRllBZ1VRMjViSzlqTHF5UTh1WVRPUldOMmxRbnBYU3VHOVNPUGFOd0pBUldMZDM2SXlTYWxqYkNBVDA2TmVqb3AtdW9aM1dJM2hndGhn?oc=5",
+          "timestamp": "19:01:19Z",
+          "source": "Goldman Sachs",
           "sentiment_score": 0.0
         },
         {
-          "title": "Gold Mining Stocks Are Up 43% in August — Their Strongest Month on Record - BeInCrypto",
-          "desc": "Gold Mining Stocks Are Up 43% in August — Their Strongest Month on Record&nbsp;&nbsp;BeInCrypto",
-          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBITU1jajM2SkRjcl9ERTR1aEk3aWlCZmw0amhUekZrSGVxVy1hSnBVU1ExY05DZmZxZ1lxUWR4SjA2OTF4NndDU1BTSFNnUW9YNUowdWlZcEVJSkxFLWpyaEU1NVVNMXl3eWVEOQ?oc=5",
-          "timestamp": "10:49:00Z",
-          "source": "BeInCrypto",
+          "title": "Gold Price Forecast: Ahead of Warsh's Jackson Hole Speech, Is Gold's Next Target $4,500 or $4,700? - TradingKey",
+          "desc": "Gold Price Forecast: Ahead of Warsh's Jackson Hole Speech, Is Gold's Next Target $4,500 or $4,700?&nbsp;&nbsp;TradingKey",
+          "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQRURiVXVyNjRQSTR3c2FfWFd4MVhDWTBhcXdwNFM1VWVjeWVib25tX0RueTY1X0t3Sy1RR3JQMjh6bTM3UW1NeUY5YWNiVGZxUUM4aHdWWTd6aGR2WUFBaXFoaExRbHZlTThnTDlaY2lrQmJXcV9OSUJQRXExcVl4Y3lYQVo4MGYtY3R5QnhuX3FuUC1ySVBLNkFkMlZLeS03M0lqSE5GSDlEMVFXdm93blBKZFdZQnlHT252Wk1nbEVJcTUteEx5VkJ5WTdvTmFfNlFZM1lOeDltenU3aEprdmZVZWd3RjhaR0E?oc=5",
+          "timestamp": "07:12:48Z",
+          "source": "TradingKey",
           "sentiment_score": 0.0
         }
       ]
@@ -115,22 +115,6 @@
           "sentiment_score": 0.0
         },
         {
-          "title": "Less than 300 million barrels left: the engineering limits threatening the American Strategic Petroleum Reserve - Fortune",
-          "desc": "Less than 300 million barrels left: the engineering limits threatening the American Strategic Petroleum Reserve&nbsp;&nbsp;Fortune",
-          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOeEpCNUV5VTk4bVdEcGxUUERPQ2QyVlJFUG1QVXZhNWZ0Ty1lZmRWU3d0Ml9KMHBxS1doVV9ycW9NRFphcXVyc2MyRXZuVVZkV0RkUjdJbnNXSW9DUEtVT1hQTzlRZlluM3JjTGJHdXl4eTNaOXh4REVEVnlDdGxva2FrVXd6SFo1?oc=5",
-          "timestamp": "11:00:00Z",
-          "source": "Fortune",
-          "sentiment_score": 0.0
-        },
-        {
-          "title": "Inside India newsletter: U.S., Russia vie for a bigger slice of the world’s third-largest energy market - CNBC",
-          "desc": "Inside India newsletter: U.S., Russia vie for a bigger slice of the world’s third-largest energy market&nbsp;&nbsp;CNBC",
-          "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFB1azhYYUV1S2M3dTRYZ0FzWldPVXJjdzRBME40QktGTUVITzhQRmttNW9uM2tJRlhfR25leU90WENSelc5M1dOb290d3cxMEtXdW9OZ3YwQzZUbjJSaFNtSVZoMlVsUy1VUHVFdXp6c3Bnb0puTEgzOE9B0gF_QVVfeXFMUE12NnhWNVllbHA3VVJPQTZPdFJSRTktelR2Vzh5V0kzdm5RQklGRVQzQzEzQ0ZUcG1PLWZFUENORnVSdHlKbXp3ZnVmMEdVcTFYa2JwM1F5TXRrWkViY3hTaVNDUFc0WG5SdGNzWnNTa0xLLTNTbVg3N2dHS1VJNA?oc=5",
-          "timestamp": "00:03:00Z",
-          "source": "CNBC",
-          "sentiment_score": 0.0
-        },
-        {
           "title": "Goldman Says Hormuz Oil Flows at Two-Thirds of Pre-War Levels - Yahoo Finance",
           "desc": "Goldman Says Hormuz Oil Flows at Two-Thirds of Pre-War Levels&nbsp;&nbsp;Yahoo Finance",
           "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNT3FyaUFGUkdLN3VkLXlWc05ic0QyMU9MeG9iNXpzSjBtZ1FuWXBxcnRiRzd0R3F0WnlRRTV6bU5NaVFreXZidjdZOHRuLVR6UzlVVHY5OTlwWWdtWjZNcHFOMk5PdFYtTkc2TDRuUFpGSzA1aEFkYk1lcUU3NHJYRDVnRnh4Vm1WMk9uWDc2VQ?oc=5",
@@ -139,11 +123,27 @@
           "sentiment_score": 0.0
         },
         {
+          "title": "Current price of oil as of Aug. 28, 2026 - Fortune",
+          "desc": "Current price of oil as of Aug. 28, 2026&nbsp;&nbsp;Fortune",
+          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE4xNGVGWjNpNlM2U2kzdDVuV1pCdUhncTJzYzl4YXhHUzY3cHItbXNTYUExWGxEdVZiM0NqMVRwUldVcENFcjVLeXlra2FOMUVqSk51WGJ3VDJWeWkwa3NRM1Zn?oc=5",
+          "timestamp": "11:00:00Z",
+          "source": "Fortune",
+          "sentiment_score": 0.0
+        },
+        {
           "title": "Oil prices dip as cautious optimism over Iran trumps new fears of Russian escalation in Ukraine - NBC News",
           "desc": "Oil prices dip as cautious optimism over Iran trumps new fears of Russian escalation in Ukraine&nbsp;&nbsp;NBC News",
           "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNS3NPa3NJalRQcVRiUjVQa1NhN295bGVBWDZUWV9faktoMXhQLXpFVnQ0WnVrTDMtMTI1cC1nampaZkZVVHdNRzluNTBodVIyeGVqTjBEeUFtS25Ldk5MaHk3dzVDZXVpRXNrYVpUX3FYNXJIbk1LMDhZdjBqbS1CUVE5ZmIydW0wbXZGM01JQTBJeWZCUlE?oc=5",
           "timestamp": "17:27:41Z",
           "source": "NBC News",
+          "sentiment_score": 0.0
+        },
+        {
+          "title": "Oil-Rich Azerbaijan Bets Big on a Clean Energy Boom - Crude Oil Prices Today | OilPrice.com",
+          "desc": "Oil-Rich Azerbaijan Bets Big on a Clean Energy Boom&nbsp;&nbsp;Crude Oil Prices Today | OilPrice.com",
+          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOTTUzNHlUZW1ubnlDWExaV0Z0aHVnWnlDdWx0SFRmSFhSWk1iODg4YVp1RzUwX3lVT3VqZHV0M0dNOUhYMEpDOXhYODFJTVczdk5oTjF1TFBkVHFvajJ2RjVEbTNwNUZlc2xoVFp4aDJVT0pxTTZ2TVJMdHNCY3RZeUltZ2Rsd1JhUVZmWUlpSHdoU1FIcDloQ2ZhSEJIQjl20gGmAUFVX3lxTE9PV1hyOXl5LVFKNDlyczBBVW0ya3hVbGNJT2RMa183dHhMS25hUnVPUEc5M2g3QS1JaGhJdkg2VmFMRXFQMjBJZXJIWU83a1lwWnVxMG9udXpfc0NhSWRsc21NOXhNWkh0cmZKY3dua3YtV1d6bnMySll4T1dNb25IZDJFbTBiVkRwal8xZ05SbUhTWEk5M2F5dUpxc0JlLXlJYnFaNEE?oc=5",
+          "timestamp": "15:00:00Z",
+          "source": "Crude Oil Prices Today | OilPrice.com",
           "sentiment_score": 0.0
         }
       ]
@@ -156,43 +156,43 @@
       },
       "items": [
         {
-          "title": "Bill Gates Is Warning That A.I. Is More Dangerous Than Big Tech Will Admit - The New York Times",
-          "desc": "Bill Gates Is Warning That A.I. Is More Dangerous Than Big Tech Will Admit&nbsp;&nbsp;The New York Times",
-          "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBpdU40bG1VdWJuMWJGR3NrTTloZzVNV1V2VlBBNTQ1LW40UkxqQUV0cWV5a1NOX2hSLVhWVkladllLaUR6RWZsSXQwZ2hEckhJUUx0c1h3elFrWHN1MXhXMnVxQm9GV1RNaXAwbThoU3JKSTBoeHNVdjNB?oc=5",
-          "timestamp": "07:01:07Z",
-          "source": "The New York Times",
+          "title": "Magnetic memory could make edge AI faster while reducing energy use - Tech Xplore",
+          "desc": "Magnetic memory could make edge AI faster while reducing energy use&nbsp;&nbsp;Tech Xplore",
+          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE41dE5wemxCaDJZV2RKXzNfWUlwWlg3SHBkVDlSVnBBc1Jxb0FpeWczZkYyQll1ak96dU1hcjdkV21OVDRvRktDR0Uyd0d4TU9hVHZzcGRRU2dqdXg1MHduUXgyVlRSWlJtbmZLaG9xRlNGMmV6c0cwcC02aw?oc=5",
+          "timestamp": "18:00:04Z",
+          "source": "Tech Xplore",
           "sentiment_score": 0.0
         },
         {
-          "title": "Bill Gates diagnoses problems with AI, but an expert questions his prescription - ABC News - Breaking News, Latest News and Videos",
-          "desc": "Bill Gates diagnoses problems with AI, but an expert questions his prescription&nbsp;&nbsp;ABC News - Breaking News, Latest News and Videos",
-          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPdDhyc1pzZWlvSTdNclRSTW9GNVZGTmJIX0FVVGZiaXJIUDcya2FndFlKaVlYLUhLUm9tcTh3NzJrU0twdE5OQUZZdGFfOGR3ZE54SEMtQjByNTZ2R2g3VUtRQ2hCOXl5ajNJeHppeFpaZTl3SFNRdTVhelZTQ3FrdW9CYjQ3a1FGZFRhSEV2X0QzSUgxYjdhZmtxUUFfWm80Sm84QTdLeV9RSTBkZ3RZ0gG0AUFVX3lxTE0tSFhrbWdWZ2JyREROWmk4amVpeXRWVDVwSklwSHNNc0NGa1NVWjg0bTZ2T3U3RFZsLTYxYktlQU9CdTFtVUVvVFpMNmZhNENxUkRCemdmczllVEVXdlR6S0VfUGl1N09lTnJBWjJEWkptd2VHZDZ4LUJaRTNtZmkzZW9Pc0pVUlFpZTdRZDFQUy1CSkxwZzZ0d3ZJQWs4MDJSbDVFNGR4OHNwWE9CLWJTdEI2SQ?oc=5",
-          "timestamp": "23:45:38Z",
-          "source": "ABC News - Breaking News, Latest News and Videos",
+          "title": "The Fed confronts a powerful new economic force - The Washington Post",
+          "desc": "The Fed confronts a powerful new economic force&nbsp;&nbsp;The Washington Post",
+          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPcTd5UUJ2NXhhSmlMMXQ4c2tPdk5TNW5nTURrdWVCaDV6SlJpWWt2LUNSeDJpT1Q3OEtjdU1xV2ZOZnRRemtZRElucXNDdXQ5bVVQNFNkOUZwOTBEMC1hS1NSTFotQW9XaTFpY0k5QUtETkZndUpscDQwbm1qR2lYMFJyOU1oVzdfUFVuV05NaFBqczdIbHlWVUd6dndaeFg4OGFKampkWDBzSTJsejEzVkJYY2NzaXM?oc=5",
+          "timestamp": "16:00:00Z",
+          "source": "The Washington Post",
           "sentiment_score": 0.0
         },
         {
-          "title": "Bill Gates warns AI could lead to mass unemployment, cyberattacks - Politico",
-          "desc": "Bill Gates warns AI could lead to mass unemployment, cyberattacks&nbsp;&nbsp;Politico",
-          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9wYm5vZ1JCeVVwQUpRMGJ1NjZhR3hVZ01FWGFuelVJOV80UG91QnFJaTRRSTd4amFlTnBWS1NNdDM4RE42NzZuUlpoMTYxUk9sYkdLTTIxTGNsSzNxeHF1VkdBR1pqc2pCQmNmNDZfNA?oc=5",
-          "timestamp": "14:12:00Z",
-          "source": "Politico",
+          "title": "Sharp rise in incidents of AI escaping users’ control, research finds - The Guardian",
+          "desc": "Sharp rise in incidents of AI escaping users’ control, research finds&nbsp;&nbsp;The Guardian",
+          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNRlZjd2VXMXVsVlBhRkw3R0ctSzFZeFFyVl9PdDY1X3dmc3o3bHpRZG9QNVF1alk5a2hlOE9OX1BnaFVVdU9IdE5xUzVYeVFwVFlPNTlrYW50bmYwbGY1NlJSREFaRWFPaFZWaF9MamNqUTdyc2R4cDV1eVdHazUyZFJUTHhidExWZTJiYXJVczIwMEYyemR3eE1OOXV0ZHlaQ192a19yQmZRd1lSa202MHFHejZ1TkhFUXc?oc=5",
+          "timestamp": "06:01:00Z",
+          "source": "The Guardian",
           "sentiment_score": 0.0
         },
         {
-          "title": "Google, Microsoft and OpenAI among 100 firms calling for better cyber defences - BBC",
-          "desc": "Google, Microsoft and OpenAI among 100 firms calling for better cyber defences&nbsp;&nbsp;BBC",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9IN0ZXakIzTWdydWNsdVhrd3o5SWl1WU1WeW85WHFydS1qZkh6eTVkSzdUc1RoV0JlLUw5UkVVTUxaRWk4anNaTE5EeTNBSkVvRDlvc3N4Q1lsZw?oc=5",
-          "timestamp": "19:44:27Z",
-          "source": "BBC",
+          "title": "AI is changing religion and religions are trying to change AI - The Economist",
+          "desc": "AI is changing religion and religions are trying to change AI&nbsp;&nbsp;The Economist",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPcC1NRzIxOHVUSldTRF9wT1NRUHFQT2Riam1GYkNCWDU3b3pTekpBeU5iZDB3VWY4OGdfc3VwMTJCbHJsMG01dDJYVlZBeWs0cDhUcmtkOXYtZ3NtZXpDQzBlNG1ady1CNW9naUtmeDRvbDFkLVVpQmhkdU05ZFNUNkl2UUNCdmZDNldaUG9taDY2WTNSWTBSZ3dfY0JUelA0ZlZwUmQxbXN1S0Zpb2lQM3p3?oc=5",
+          "timestamp": "14:02:18Z",
+          "source": "The Economist",
           "sentiment_score": 0.0
         },
         {
-          "title": "The turbulent AI era is here. The choices we make now are critical. - gatesnotes.com",
-          "desc": "The turbulent AI era is here. The choices we make now are critical.&nbsp;&nbsp;gatesnotes.com",
-          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5vNHRZblJwZHNZZEZfZ285LUdncWl0YUk0UHVfTDM1b05YSU9rVHRhYUpkQ1VwV1RJaXZ4SzZwV2dBd2ZYeEZtbUpGNkpDdng5WjRTa28yOVdIM3drTERSVVVoeWI0WnpWT3dQbGVQcVhvdEZIZE1oaTB4cHdRb0E?oc=5",
-          "timestamp": "21:26:15Z",
-          "source": "gatesnotes.com",
+          "title": "Old soup factory takes on new high-tech life as quantum computing firm gets $195M federal boost - CBC",
+          "desc": "Old soup factory takes on new high-tech life as quantum computing firm gets $195M federal boost&nbsp;&nbsp;CBC",
+          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNQVlFVXJ5NnhHbU14WEFTeFBhY0hYUmNQTkp6bmtReDdnLWxWV3NjVGhBeVp3RS05TXRqZ1JPNGlKY1VzMHI3MFdueTl4TEtNbWliT1pfM2ZLRFBMX2t4VGUxTnRrbkg0WjlPRFZRYUlUUnc0U3hGVjc2ZXpISlNWY3BXdFNMVHg5WmtR?oc=5",
+          "timestamp": "16:30:53Z",
+          "source": "CBC",
           "sentiment_score": 0.0
         }
       ]
@@ -205,19 +205,35 @@
       },
       "items": [
         {
-          "title": "Jared Kushner Is the Face of American Oligarchy - Foreign Policy",
-          "desc": "Jared Kushner Is the Face of American Oligarchy&nbsp;&nbsp;Foreign Policy",
-          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNT1FhNlBQQk14MnlwNnhvbWZkOUpDeXdVTGZIZ0xPNHd0SGhaMWJIdDd4Y0E3SHRnVHM3T191eENFX21Cc2dVenl1MXpXcXRLUG81WE5ucWRFOHJnLXpQRUwyX05VOElXNlRzNGk0dFExbWVrbUZoUzJFU3hsODFxaFdWZG93UXlWNDU0eFRaX2FZb2p3WnNQdlFzZlhMUy1xb0NwSFZqcV9XTE5P?oc=5",
-          "timestamp": "18:35:42Z",
+          "title": "How China’s Xi Jinping Turned Oil From a Weakness Into a Geopolitical Weapon - WSJ",
+          "desc": "How China’s Xi Jinping Turned Oil From a Weakness Into a Geopolitical Weapon&nbsp;&nbsp;WSJ",
+          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1YZmRZdEtickdiNVlKZk56RlBmbTFsTFNGa0lsb2liTUthT1NNTzZmbUpaZHlTNHd5Z0ZDY2JPNVpMRHgxcE9VSWNkMDFGSmJzY3JGeWtBMHp6ZDdWZER3cnViX0ctaFB6?oc=5",
+          "timestamp": "03:00:00Z",
+          "source": "WSJ",
+          "sentiment_score": 0.0
+        },
+        {
+          "title": "Can Beijing’s gateway plan for Tibet survive geopolitics and natural disasters? - South China Morning Post",
+          "desc": "Can Beijing’s gateway plan for Tibet survive geopolitics and natural disasters?&nbsp;&nbsp;South China Morning Post",
+          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNUWp1b0E4WWloYTByaTRUbm9ZV0FOWDMzZFNCQkZwYTNvU1haR2VjYUNQb1BQMlhwN0FGOXJqZ01KWHh0d3Z3YnNPaWpESUUzQlpTcm9SaFZOeGVGV3Q2V0NKR3Z3WDI2dVV1anYzaVFUR0xmMVZET3BWRHBpOVVCUHhseTF4ak9mdWcxM0JWMDVmeTNuSnRwR0w4ZERLcHFkel9UeVRkZlQ5Rkg2TVZrczJVZUJxUUhkb1p2RkxWNmNLUFZRUUYyWDRR0gHKAUFVX3lxTE9INUFWSXR2bTlqUk42SF9mQ1d1bzNFamRDQjFlenRqYnA2VEtQY0ppX3Y5X3lDd3Y2ZXhDQ0xOTkRhbFZaVGlhUUJmOGlhYm9SUEpwTnEyVlV5bmtZdnRIcW9xMmJGQzhaNjBWbDN6TVhhZXFHZERYR3hSSTEtQzJRV2g3a3pFa2cwZEU1dVVMZ1BxQUJkbHlldFZtcVVheWduYThDWDJlTFdZMWJ3UUN0VW1uems2eFNacXNKZ3JDZDdPVGh1VS1VMHc?oc=5",
+          "timestamp": "22:00:09Z",
+          "source": "South China Morning Post",
+          "sentiment_score": 0.0
+        },
+        {
+          "title": "The Geopolitics Behind Rising U.S. Bond Yields - Foreign Policy",
+          "desc": "The Geopolitics Behind Rising U.S. Bond Yields&nbsp;&nbsp;Foreign Policy",
+          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5zT3dRbWJTcDdTcW15UlJsaXRydWlZRDRCcWdZeFNzZk9USFdPZV8yX19vNXlIRHFBd0pXM0xSUmZycW9WWGFhV1RvRVg2UDlfUEdzaWxNM3RFMEM1NHU1NWFIM0N1YTllYXIyb1JtbDZHZw?oc=5",
+          "timestamp": "10:02:13Z",
           "source": "Foreign Policy",
           "sentiment_score": 0.0
         },
         {
-          "title": "Course in Geopolitical Intelligence Analysis 17 October 2026 - SpecialEurasia",
-          "desc": "Course in Geopolitical Intelligence Analysis 17 October 2026&nbsp;&nbsp;SpecialEurasia",
-          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1SRnJJNDUwX01OQW42cTN6LUlmNGJkdGZRaDhtQVlZaTBMS1N6dGsxQ0VWSDhDQ3FBbldqTzZJZllQbzl1Zk5zcnlOVU1sTWgzWUpyNUl0MHNicUFFWThNbG1xUDZMLVJ5Y1pScHdCTVdEWUo2VUxpbXdGcGNuZw?oc=5",
-          "timestamp": "08:23:25Z",
-          "source": "SpecialEurasia",
+          "title": "The Panama Canal’s Real Challenge Is Water, Not Geopolitics - Bloomberg.com",
+          "desc": "The Panama Canal’s Real Challenge Is Water, Not Geopolitics&nbsp;&nbsp;Bloomberg.com",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPUzRBUmRySWZobjlLWmZOTW8wQlZJZ21yM25VcUltT0Y1eUFSelFray14bDByQ3U0RDgyb2lPTzFwQUZrbi12dUpDS3kzYlJzR3JvUDZ3TDhhNV9fclppWWg2Wnh5bHBpTjZ1NkhEaWs1eWl2RG9pbHB2R3JHdTk3TVdBaG9Kd1ZvTVBzVDNpSEJTVW84blZaWWt2eERDUnA5Q25zU1JwUlpJUmts?oc=5",
+          "timestamp": "10:30:03Z",
+          "source": "Bloomberg.com",
           "sentiment_score": 0.0
         },
         {
@@ -226,22 +242,6 @@
           "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNal84T09hM1JnYVVOM0QzXzZ5WUhTRk9BTUFpQUluUUt0RVBWNGZjTnNTS2Nfenp4TTI2YWV1NnYzTjU3Tkd6YjUxUUhlWk5IcDhqd0hfdUh0OV8zQ0FOaG94dGZXRlQzNHl5VnA2RF9DSUc0ZnIyNC0yMTJTLVp0bm1LWml6aFJjUTRRLWtqcVNNcW5GeGU5UF8xMG9pS0FJekE0Z01n?oc=5",
           "timestamp": "16:08:02Z",
           "source": "FreightWaves",
-          "sentiment_score": 0.0
-        },
-        {
-          "title": "Arctic Shipping: What Does it Mean for Trade, Environment, and Geopolitics - The Maritime Executive",
-          "desc": "Arctic Shipping: What Does it Mean for Trade, Environment, and Geopolitics&nbsp;&nbsp;The Maritime Executive",
-          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOR0RIRDJqejlSRkV5bVYweDJBRWt6Y2IyYnpWT0J3RFlZb2dfUGw1QnZYZTVjZFNnUVZuZmpnSFloYzlETUJHT2ZOWV9scXQ1VlJGQ3A4MnJKNmVCSmlJVTB0VUlaLU9JY2htWDYyRTlJUTR6a3NzVW52c1g3eXNSQzY0UGUteEFraUZBWTEtR0x0ZG9za2IyeGhTaFNiem1MT29WTVNvcVRLbldiU3ZkYVk4UQ?oc=5",
-          "timestamp": "19:01:10Z",
-          "source": "The Maritime Executive",
-          "sentiment_score": 0.0
-        },
-        {
-          "title": "Clinical Insights and the Geopolitics Surrounding the Ongoing Ebola Outbreak - Contagion Live",
-          "desc": "Clinical Insights and the Geopolitics Surrounding the Ongoing Ebola Outbreak&nbsp;&nbsp;Contagion Live",
-          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQN3NWWmsyYXRLWmhzbi1kOHJqQmVjN1YzUmJYcTVvTG54NWlLS0Foak5CWXQ2UnliUm5zY25nRklhUHd4YmZYdlJOdHhfMDhNamFPZk9LbEhVQTFrR3VjeWxOVTY4eFhYajZaWkhjamowODY5dnFMcUNNZ3ZSWmRRaHlHSGNrbFREZF9WU1RZN3E0elNiQ0RaZnV3ZWVZcGRWUWI3M2Fzb3RRVFNxeFNQTw?oc=5",
-          "timestamp": "14:58:12Z",
-          "source": "Contagion Live",
           "sentiment_score": 0.0
         }
       ]
