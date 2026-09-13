@@ -1,21 +1,21 @@
 {
   "report_metadata": {
     "version": "2.0",
-    "last_updated": "2026-09-13T06:00:04.030112",
-    "report_date": "2026-09-13",
+    "last_updated": "2026-09-14T06:00:04.203684",
+    "report_date": "2026-09-14",
     "title": "AURORA | 战略情报简报"
   },
   "prices": [
     {
       "name": "黄金 XAU/USD",
-      "price": "4,366.20",
-      "change": "+0.04%",
+      "price": "4,408.90",
+      "change": "+1.02%",
       "up": true
     },
     {
       "name": "白银 XAG/USD",
-      "price": "64.55",
-      "change": "+0.42%",
+      "price": "65.19",
+      "change": "+1.41%",
       "up": true
     },
     {
@@ -38,9 +38,9 @@
     },
     {
       "name": "比特币 BTC",
-      "price": "77,240.79",
-      "change": "+0.09%",
-      "up": true
+      "price": "77,264.94",
+      "change": "-0.01%",
+      "up": false
     },
     {
       "name": "美元指数 DXY",
@@ -66,6 +66,22 @@
           "sentiment_score": 0.0
         },
         {
+          "title": "What August's Gold Rally Means for Gold Mining Equities - vaneck.com",
+          "desc": "What August's Gold Rally Means for Gold Mining Equities&nbsp;&nbsp;vaneck.com",
+          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNa1BGa3dLLWplSkxRUkVLWkMzXy1LczJjOWJIVVhKMmFHVXVFcWtXQWwybkN6MEdybjh4eVRoa3FtcXdJWkRYZzNYT2s1Ri1YQmpBdUlFVEJTdXgzaThqSmNRTHdPaGxsWENSZzhCWjB1ZTE4M2VHYmItN2Z0VUgteTFMOFozRnUyZU84eFRBeS0wak03WS16UzlqM1RIdWp4MnFvd1NIa19TLVlBNFR6UVY3SlVSd1dfa2c?oc=5",
+          "timestamp": "21:34:40Z",
+          "source": "vaneck.com",
+          "sentiment_score": 0.0
+        },
+        {
+          "title": "If these key gold price levels fail, expect accelerated near-term selling – TD Securities - KITCO",
+          "desc": "If these key gold price levels fail, expect accelerated near-term selling – TD Securities&nbsp;&nbsp;KITCO",
+          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPNnUyTTVKdE9mYnN1N0xlSjBOazJ6QXd3cGo1ZWU3bmQtaHptMkxFaXAzTXlCVHd3UFdKRmF4MVBObGNtWFd1MWxENTNGbV9aV19namZYMlItcllpc2NtMWk4Wld5ZUhyd0wxaFJseW9GOEtQc2psREkzdHBvblVyRjJGSWxqX0dycC12VWRzVWZuMUt0eWZOeWhqQlM3ZmlWdmFSMG85VnEwWmpqWTF2d3hrenZrZHVuSmtzZHFn?oc=5",
+          "timestamp": "15:41:00Z",
+          "source": "KITCO",
+          "sentiment_score": 0.0
+        },
+        {
           "title": "Will Gold Price Fall Below $4,000 Amid Renewed Economic Risks? - Yahoo Finance",
           "desc": "Will Gold Price Fall Below $4,000 Amid Renewed Economic Risks?&nbsp;&nbsp;Yahoo Finance",
           "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPRjZUci1KUmxiOTVlRnh5U0UxVHRVWmlfU196ME93aHM0SDRWLUdmWWhIRzhnUjV2M2RXSklZQ2pnTmkyQ3FDVXBiLVpxV1BuZ3hrajh6azdXSG9VcTFrakdXQjEyeFZBM2otQU9BZXV3Y0hHSVBOMXlCa2VzZ25lVjVJODlDWGZwMWlTVUxfS1VULThrWTVUNg?oc=5",
@@ -74,27 +90,11 @@
           "sentiment_score": 0.0
         },
         {
-          "title": "Will Gold Price Fall Below $4,000 Amid Renewed Economic Risks? - BeInCrypto",
-          "desc": "Will Gold Price Fall Below $4,000 Amid Renewed Economic Risks?&nbsp;&nbsp;BeInCrypto",
-          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5oTnZic080dHlRaHhOVHgzMnNZdmhfb0V0c3FKZ1ZocEUzdWt2Zmt4aURaOEFfYzBHLTRtaXQyTUkwbGNoczJZbnk3c1MtRW4yY3Q1WUdOMHFrN2JDYmluVzdTY2k0U3Vsbk5tclZ1dnVnTlZ2M0xR?oc=5",
-          "timestamp": "01:00:00Z",
-          "source": "BeInCrypto",
-          "sentiment_score": 0.0
-        },
-        {
-          "title": "Spot gold up 1% amid muted dollar, elevated oil prices, and a slide in U.S. bonds - Investing.com",
-          "desc": "Spot gold up 1% amid muted dollar, elevated oil prices, and a slide in U.S. bonds&nbsp;&nbsp;Investing.com",
-          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPVks1UTR3QnJ2SUR4UHdUYVJCZDEyU2dSWDhKNDhPMURqWjRGbXJ2bWJ5NmpyUGNtUU1LZ0dnMkMyLVlBd2hTR2lTSUlrdXZKV0JENGdRN0hZdC1yU0tyeDlyWFBTcFg2djNBNDVCdXlhYmoyYnRQN3BlOTJLTFlONWNwRWlZRkRoSFlRUG5CRUphWTBMSDZHejBSNDl5SVpVemNnbi02TzcwbnFLS0tOaXkyRVI?oc=5",
-          "timestamp": "01:49:58Z",
-          "source": "Investing.com",
-          "sentiment_score": 0.0
-        },
-        {
-          "title": "Best Platforms to Trade Tokenized Commodities – Gold and Silver - CoinGape",
-          "desc": "Best Platforms to Trade Tokenized Commodities – Gold and Silver&nbsp;&nbsp;CoinGape",
-          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPTUVmc0wzWFdwcHB0aUJsa25oMG1kQ0tidW9MVEltVmEwbktnREE0MF8wSG9tQk9vZEk2eTcxMEtKd0FJU0tkTXZjMEJoRUlBQXpfVjh5V0s4eUItc1Fid0Y0Tk8yWXB1NjVWZWNYaFlzR1Z5eXNhU3JOMm1RTy1OQldn?oc=5",
-          "timestamp": "08:36:52Z",
-          "source": "CoinGape",
+          "title": "Gold, Silver Prices Likely To Stay Volatile This Week Amid Fed Decision, West Asia Tensions: Analysts - NDTV Profit",
+          "desc": "Gold, Silver Prices Likely To Stay Volatile This Week Amid Fed Decision, West Asia Tensions: Analysts&nbsp;&nbsp;NDTV Profit",
+          "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxNSjRpTm9pNm92T2VwR2dXbmxHWF9mbXVTaGJDZ2lTUDMtNk9WVGttVExWNHFrOGI3MjBvRzVxcUxvNEFzbnlITV9QczlGLXBwcm41dUczdDZ4Z2VKVWMzOVVoZzM1OGxOVmRCRWJoSEZOeGpPVUVIS1U2RGh2VmlMZXBRcWFFYk10ck9HTXpKbk1ELW9WTVdrb1lONE9BUTNxYVU0M3lOZHdNUjlrZTVKdzQ0TlNCWkNjNnlLcmVEMjU0S245a3o5ZV9uRVRkTEIzb1hGZTNPd3BYZXZxSHRleUNtM3c2c3FsdEtqWkx1elhpdWk5cHFXdklocFJBWWV5RFBKUlBuMXDSAZACQVVfeXFMTWQwRlRmTnhoaHZaRFJIaTUwTVlUZ253SUdaQmNBTklnMTNnOGx4dm10U3l2ZWVuazVQd3NLRGFwVW5rT1VSU0d2eXE5dVB2bWlFdmE0ZXN3cEQ4ZGdLMlVuZ1ZZNjluajY0TGNLbVF3WWxZZ29GY3hzY2s5X2dMbnh1T3ZtVjVMRVRkQU1Cd3VOVVFkN05vOHVTZnhaVW9vcURybldZMDItUkh5ZzZZVWtMREN6NkYwb3Z2SXhiR050ZkVMcjhMOTV2US1fbXc0RHI1WFV3bGJTcDQ2am9MNWdrUnc5SmJyVUpIRlFmMXcwN1JxYTZGb0Y5SXNCd0V2ZEpCTEQ3QlA4MGVuUFdmM04?oc=5",
+          "timestamp": "14:59:10Z",
+          "source": "NDTV Profit",
           "sentiment_score": 0.0
         }
       ]
@@ -107,35 +107,35 @@
       },
       "items": [
         {
+          "title": "Chinese scientists develop oil refining method that may cut energy use by 90% - South China Morning Post",
+          "desc": "Chinese scientists develop oil refining method that may cut energy use by 90%&nbsp;&nbsp;South China Morning Post",
+          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNTzBSREg0eVk4Q0FhcmNSMnREc0w0eW5yUEh5amdESkFqdnBMYlBoMHhCUnZNZUxmZG9PRHJUdXZtd3JrWTBDNm9IXzFLU2pQcmlXVUZZR1dkSmJ1aGI4cWM0ZlBSTmJRN2RzRklaTFA3eEswbTNzZDBsZGhLOHZtVWc4Z29ZdXhLcGFpb0t2YUtSNzQ3cWYwM0VJbEdYR19MaFhDWDlsNkZFM2toUlJ0R3FNMkpteW1nUVd1RzZHN25PZmVvVlln0gHHAUFVX3lxTE4xM2lmd2hZNW1SRWwzUnZCRGJ5OFRla3pXUUlvc2V2UFRiLXR5TmdKMFRTMjk0WnV4S0tOUEdYVERoYjA4RW1sNzNNU0F2bmk2a3NnVlBSZGFTazRKUkwzOEhtdnJKWVJSWFpPX3AyQmRtb3J4bFlBUHlzOTZISHB6TGRvOWJrNzc5cUVZNU8wSVl5c2k5MHlSVDRJV2tkZTk2YXRmcFc2eGd3eG5RMm1kUVlmLW5Ieng3WHliVF81WTR3d2FrM0k?oc=5",
+          "timestamp": "10:00:07Z",
+          "source": "South China Morning Post",
+          "sentiment_score": 0.0
+        },
+        {
+          "title": "Saudi oil pipeline attack could raise global gas prices - DW.com",
+          "desc": "Saudi oil pipeline attack could raise global gas prices&nbsp;&nbsp;DW.com",
+          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNN2VoSEpnWGtZZFN5dmxSWlJOQWtLV2VDdEJWOFZQVS1OY0I4a01DOF82SGJ4Tk0ySWRvMVU2SUZsOU94TjVmU1lRaE1GUk1HaXhlY2h5T2ZtZlFiQWI3eXprdklRNTVUSGhDMHZIR0ZNNmdZU1QzbnQ3bFI1X1AwWXFMUTVucS1SOTZJVjBncHBBSUN6aFFN?oc=5",
+          "timestamp": "16:54:59Z",
+          "source": "DW.com",
+          "sentiment_score": 0.0
+        },
+        {
+          "title": "Current price of oil as of September 11, 2026 - Fortune",
+          "desc": "Current price of oil as of September 11, 2026&nbsp;&nbsp;Fortune",
+          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5qYXE5TVZLVVd6LXd3cTYyTWF3c1FnZTRtSzFVRlRhRFFreV8tcXVMVURJZUZidDZtYW4zZF9ubHdQZmxONVhNTVdBU0NBeHhKRnFsQnptaTZaZkNyQkhJOFlB?oc=5",
+          "timestamp": "13:30:00Z",
+          "source": "Fortune",
+          "sentiment_score": 0.0
+        },
+        {
           "title": "Oil, gas and borrowing costs surge as fears over Middle East escalate - BBC",
           "desc": "Oil, gas and borrowing costs surge as fears over Middle East escalate&nbsp;&nbsp;BBC",
           "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1qbDJ3UmRJSUp3QzFjUk9JSWM3OFNpUzFXVWdqTUdGZ2kxUzh2cVRVdF9JQW0yajQ0RnA1ampZUHJJYk0tQTRGSzRQblhDTVpYeklnMHlRcHBkZw?oc=5",
           "timestamp": "17:38:31Z",
           "source": "BBC",
-          "sentiment_score": 0.0
-        },
-        {
-          "title": "Oil prices soar to $108 for the first time since May as bond yields jump - NBC News",
-          "desc": "Oil prices soar to $108 for the first time since May as bond yields jump&nbsp;&nbsp;NBC News",
-          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPQUc0eUlnRzFSZkJ5NWp4TFc3c3RqY2t5YVV2N1p4c3lFZmJZdHE5NG1KRDF3S0NIc19YdTZsMXB1T0VYTUFCRWx5eDd4aVF4WnpUcVJyUzJpbzB1aUZ3cWtwRExJeGk4c0VGNjVDVzdmZEpYQmMtcWxhWUxXT3BHZDMxSTBxRHV1?oc=5",
-          "timestamp": "21:10:24Z",
-          "source": "NBC News",
-          "sentiment_score": 0.0
-        },
-        {
-          "title": "U.S. Crude Oil Stockpiles Fall, Production Hits Record - WSJ",
-          "desc": "U.S. Crude Oil Stockpiles Fall, Production Hits Record&nbsp;&nbsp;WSJ",
-          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQVmVIWngxVTZKdnBPbkVsMi1PNldEU3pwZU5SX3BieWtXWTRsTl9Ca3BxOFU2Z2xJSWthSzFmLVlLSEFxZTlGX3NRLVhXUnBKX2lPeHlGbndpQk5BaVBSSzYzTWdla3ExeVFSSTNoNTNjNVZuSnYxX0Q4eTNIS1d1SUdrX0k2V0lkSEl5WWc0LW8tT2NRLU1GNlZ2M1RjaWRCZzVR?oc=5",
-          "timestamp": "16:54:00Z",
-          "source": "WSJ",
-          "sentiment_score": 0.0
-        },
-        {
-          "title": "Current price of oil as of Sept. 11, 2026 - Fortune",
-          "desc": "Current price of oil as of Sept. 11, 2026&nbsp;&nbsp;Fortune",
-          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5qYXE5TVZLVVd6LXd3cTYyTWF3c1FnZTRtSzFVRlRhRFFreV8tcXVMVURJZUZidDZtYW4zZF9ubHdQZmxONVhNTVdBU0NBeHhKRnFsQnptaTZaZkNyQkhJOFlB?oc=5",
-          "timestamp": "13:30:00Z",
-          "source": "Fortune",
           "sentiment_score": 0.0
         },
         {
@@ -156,43 +156,43 @@
       },
       "items": [
         {
-          "title": "Why It’s Difficult for Tech Companies to Rein In A.I. - The New York Times",
-          "desc": "Why It’s Difficult for Tech Companies to Rein In A.I.&nbsp;&nbsp;The New York Times",
-          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNOU9MTER0WjJwa1VDM0F3RlU2aGNDTUdwUEd0LVAtci1teHlHcGhaa0dSTmJrUXlxa2h1RVpXUDJndHNkMTBZTmxVTmdBMzJGU2dhX3RzMW82TXFjTUpqY1M4NkVHbzdMX3VzMklsNlFoNENMTVpsNWpGSUNnYTJvSXNOZjVqdmhpWFZCdmpvNlFUaXVBcXNmbkdfTmc2YkE3TmpBNlNnZWR5ZlJzX1E?oc=5",
-          "timestamp": "16:18:06Z",
-          "source": "The New York Times",
-          "sentiment_score": 0.0
-        },
-        {
-          "title": "As AI fears grow, lawmakers are racing to turn alarm into action - The Washington Post",
-          "desc": "As AI fears grow, lawmakers are racing to turn alarm into action&nbsp;&nbsp;The Washington Post",
-          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNTWJUeHV4a2xYQW5OWldpMmtheWZOMEdYbjVFT3R5RXV6TmYyb2FNRVJpZEFjS3gycGlzZWYyYzcxZWFkdWVBOVRuM0FXUFIzZ202bFdEalJpejN5WFhWMFdEbHM5c290SDJieE5EZVhsajhjcW9nSUdiLW5TQjd1ck9QbXZpRHdMT2x2Q0pnZm1zcTcwSHg0aXB4X0UyQ1RadTRWODJaZzVrMm10alE?oc=5",
-          "timestamp": "16:00:00Z",
-          "source": "The Washington Post",
-          "sentiment_score": 0.0
-        },
-        {
-          "title": "Top A.I. Leaders Call for Slowing Down A.I. Development - The New York Times",
-          "desc": "Top A.I. Leaders Call for Slowing Down A.I. Development&nbsp;&nbsp;The New York TimesAnthropic boss Dario Amodei calls for AI development to slow d...",
-          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQOE1BV1Q4UUYxLVRfaDNJVXVRbnNaQmdUMjBzbWJWRWtTcjlROWZqUjAtVGlob2NHVlB1NHVfRU5FY1dWT1UxR3RHakpVUTdzSGdvRmR2UFR2dzZxdHJ0ZXlMb0NsMVd1MDM1aUZ2VlpPeG9zSDZxRFpFWjNhQ0psM2RVYW8tM0ZKdTdDdG93?oc=5",
-          "timestamp": "16:03:01Z",
-          "source": "The New York Times",
-          "sentiment_score": 0.0
-        },
-        {
-          "title": "Chinese AI firms shunned US delegation over sanctions fears, commission says - South China Morning Post",
-          "desc": "Chinese AI firms shunned US delegation over sanctions fears, commission says&nbsp;&nbsp;South China Morning Post",
-          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPajlicGVNdlR4N1MxdHJNa0lrTnRsYjRXZEhNdDl6U1NHSlBVUXk0SFgtemM0LXdid1AzQ0htekgwdGVyNk54NFZHUjN1Z3ZNaXNMVWkzZ05nNHhHdjhEOGdOSHRpZWZyYkZWQ2pzb0VJVHJVRm5wT19HQ2NDaEpwZVI3TkdWYkpBZGVXcUxscGlqcmVPSXZLeWEtZmQwSjR2NzVXU2hTSzlMQk1heXVETDJacVZIYzUyOHlMRtIBvAFBVV95cUxQcENvQlJpLURCZ1FNdDEwcFZLQUI4OWJfSWdfN2dhVUZZWUpINXdUUlNmbHFEckc0T0RJMUdFMFVRVmluVHNiSUhaT1BuUGZNVzdyT1lBbDROdzlWcHpFSk5pRDNIWXlVSDlDbm5seENNZm5tNDc3SkY3V1NZcUJzVktiNUNDV0JpV05ic0UtLUw5eDRyUk5XMFJmRzFUa0Q5WmpxbWMtZjBJbE1wbzRRRWRubjM0X25LeUhyMw?oc=5",
-          "timestamp": "22:36:20Z",
-          "source": "South China Morning Post",
-          "sentiment_score": 0.0
-        },
-        {
-          "title": "US legislators push AI safety laws amid human extinction warnings - Al Jazeera",
-          "desc": "US legislators push AI safety laws amid human extinction warnings&nbsp;&nbsp;Al Jazeera",
-          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPUVZkRnlTZ0pHR1NEMHVVdlRHX0lYTmdqRjBKbmN4N2IyZDd1ZjZuY1BLXy04R05IVEl6ZzlyaXBQcjZuWEptSjVJOGFGRHZZMmo1Njg1RU5FNFVxd2p5S0VpbXR1Z1liZXJKd0ZlcWdOOU1nTUhNZy1pcXd3Q2duZ1VaRmRqQXh6ZzU4RjJCdXVuRGxwTlBxVkNDb1dGM2piODJLckRWUGt5VjgxMnfSAbMBQVVfeXFMUFIwRWlIYXE4d24zZUdJVFk0cFpnc093Z2J1S1lYdmF0RDR2M3FacFlXTEpKZE4xdm05ZHBtRG9HV0JNaUhDNVZMOU9zWE1xMEVXUHE2cldhV2lMeHAtTEZrTnhCaDlPVXRVUlFoSUwxM21NS0c5TTBybDBsTFlWYzVDTjB6clR6QWUtbi11ZUZNTTNvRGRjN2R4ZHlHaDdGOFlsaHc4Y3VyVWZ6Wm5RT1RieHM?oc=5",
-          "timestamp": "21:12:13Z",
+          "title": "What are the five pros and cons of artificial intelligence? - Al Jazeera",
+          "desc": "What are the five pros and cons of artificial intelligence?&nbsp;&nbsp;Al Jazeera",
+          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPUkJUcjZydEhPb3Itel9PUVFhWFpZcm5GRE1UYUhQQWxRYjdLbmp0RTg4T050Q0N3UGtral9HSFEzc2NXcWFnd3FwOUhPS0tpc0k4cXFZOHJuWHJ1TUYzN1ItMUNxMGRDbDNiMlZYV205eERMTk9uUjg3NzJleUdYOG0zSEIzU2RHTDZCRjROMU9qZW14MXh1SnU1MlFrWkkt0gGmAUFVX3lxTE1PXy1fNFdzYUxKLUVpWWN0RjhGaEp4ZnJXOFVEOGZ6RkxYb0NKUDR5SkliWmZTSXpYR3U1RFdVc0ZPM0FuVll2cF9lbnRpcTN5ZWVWbm1mTVdobklyaVlqUGdRSlFaMEg5SVNTa1AyR25HN0pOUHptdnVmY01JQmRDZUxUbTV1OXl1Z2JjRDI5UXBRR1N5MzJqZWRHd1gxN1ZZZ1U2cHc?oc=5",
+          "timestamp": "15:06:08Z",
           "source": "Al Jazeera",
+          "sentiment_score": 0.0
+        },
+        {
+          "title": "Anthropic CEO Dario Amodei says \"exponential\" growth of AI is a \"warning sign that we need to slow down\" - CBS News",
+          "desc": "Anthropic CEO Dario Amodei says \"exponential\" growth of AI is a \"warning sign that we need to slow down\"&nbsp;&nbsp;CBS NewsOpenAI boss and Elon Mu...",
+          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPS2otUFZkQndyRnVpMTlySVhTUnQ4YkVrdHhXem1oUUEtVzdMTGVaSUZjV01fOXZrRmNpb2dJM1AtUVVvT2Zmci0tbUxlaTdIOXNlQmp2QXYxN0RQd3pnYVpfTUlERlNNck1wOS1uNmVSaTZ1dS1HbmtsQjFoVFhnYVpXUnFzMkFXNWpEM0JZQQ?oc=5",
+          "timestamp": "16:42:00Z",
+          "source": "CBS News",
+          "sentiment_score": 0.0
+        },
+        {
+          "title": "Washington scrambles to meet calls for AI guardrails while the window to act closes - CNBC",
+          "desc": "Washington scrambles to meet calls for AI guardrails while the window to act closes&nbsp;&nbsp;CNBC",
+          "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE43ZFdOcUNiZmFDbmRDV3RyN3ZxekV1S3BONUxRZ0twQWlCcFFublhOanpUS3VUaHNiZFBBQ2FiN08wZGxKMW5KTHB3SV9Nc0lYcjhMQTdZZjdkMUtZbzU5dG9aX0t6SWJTUGhLVkJjeGprc2NkbUVtS1RHUk_SAYIBQVVfeXFMTjRGRTZPVklWdGtRb1N3NF8yZlBfTmxSNjZnRHp1WE5ybzZlZXJMZWdNT3JmbGJnTjlQR1JFbEhkQUxzZkdfNGZNeVJkYklSdDd4NGVRdkRBdmZrRi1CS1F5Z2sxZmpFYTlSb0o1WlBiTWI1Z3djM1dUeVFjRlJETjR6Zw?oc=5",
+          "timestamp": "16:56:17Z",
+          "source": "CNBC",
+          "sentiment_score": 0.0
+        },
+        {
+          "title": "It’s All Fun and Games Until You Give AI Your Credit Card - The Atlantic",
+          "desc": "It’s All Fun and Games Until You Give AI Your Credit Card&nbsp;&nbsp;The Atlantic",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPa2QzZ0NxU3pWZkRLLTBiV0t1SFRSSmh4TkpBZTNGenBDWDh2Q25MSW51ay1oSklxR25Qdnk4WnRxTV90SU01UTV3d1NfQWdNSF9HcEU0VE5aZXdIdWRYU2tfRU1nYlE1ckNNZlRzV3B3bGxidjJyWURDSUI0RWJiWWd0dUVMQlhtSEROUjlwM1J4U2M4a2k0SDVDRGU3dw?oc=5",
+          "timestamp": "11:30:00Z",
+          "source": "The Atlantic",
+          "sentiment_score": 0.0
+        },
+        {
+          "title": "Trump downplays AI warnings, citing competition with China - The Hill",
+          "desc": "Trump downplays AI warnings, citing competition with China&nbsp;&nbsp;The Hill",
+          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9PRVNRQXpmdm15TzNRWlpGYTlGakxyZzFrdnpXenFpUDZ1aEo4bUc1dmFKUlpKeUx6VVhzSTQ5OGVsa3pKQlpUZzJ0cGdwcmRCZWxwTjFjaGxtN05KOUxELUdUbUhDQldiZ0ZQcmtVb0RhMUgtLW9BY3A2MNIBgAFBVV95cUxNYXBMRkhhcWJfc1d3cllTZTdZbU1aTXhsa2JyNEJHYzNnU09MLW9hdHdwYW54VkNJcHBTU2I2cHRpWVRIcFVuRmlGdTJHQ19Sc28zUTE1V2J1WWdBSl9TQ25CM0JvWDlMa1FpOU5OZl9sdndBVk96c2lybWRJQ3ZlbQ?oc=5",
+          "timestamp": "15:57:00Z",
+          "source": "The Hill",
           "sentiment_score": 0.0
         }
       ]
@@ -213,11 +213,11 @@
           "sentiment_score": 0.0
         },
         {
-          "title": "China’s giant trade surplus has an increasingly geopolitical twist - ft.com",
-          "desc": "China’s giant trade surplus has an increasingly geopolitical twist&nbsp;&nbsp;ft.com",
-          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOZkhIdURCZWFSX3JjTF9zTmRTMTVjVXNXLUdvaENPaVpyUHdWU0s0RkQ0R1YweVFNZkg2Z0poYlpkNWhBOHBzRzZDcW5IZ3NxT2dPT2FZbjYxYmZwTjRuUFZGRGJBZE5BdW5YdG1sbEppQUswTEozRlZkcjZPVzNfblZXbmM?oc=5",
-          "timestamp": "10:00:08Z",
-          "source": "ft.com",
+          "title": "The accidental geopolitics of Tintin - indiatoday.in",
+          "desc": "The accidental geopolitics of Tintin&nbsp;&nbsp;indiatoday.in",
+          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPMWtreFp1Z2hkelYwN251TmxMeFpnTnJDYl8tSmV6NnExNjhSYnQyMG1zTkVFX0hSZGY0dWxLN3JHeExSa2lSb0JqS3dBNUlzcDFvbzAzOGg2aU5zLWpPekRIMVF1SExsWWIxeWthdGJOYkVUY2ZEdlpyTFRfQTVRQThVRU40Y1ZEMlpoNXBKQmQ3ZVJTUHZFeERwM2JTZlJrNkdCdnQyY9IBrAFBVV95cUxNbFpkeVpHNEduQUVjTVM3c1pYdUlGcGE2ajd4bUFmR1BaRUZhNU83WTFGcEg4MG1JOVNlSjRVbGFTTmNlSC1wWFRHbVNVb2wzRkREMkxMZm5EZ1JzdzJPQlVMdkZIN2p3d1M2ZTJmNlg2RGtaWVNZOG9NcC1HblZZWl9fR0tGZnd1clhMQklYQTRnWXAwU3dpZExqZjNLNEx1YTJCN09mQnpDcGVP?oc=5",
+          "timestamp": "02:30:00Z",
+          "source": "indiatoday.in",
           "sentiment_score": 0.0
         },
         {
@@ -229,11 +229,11 @@
           "sentiment_score": 0.0
         },
         {
-          "title": "No fire & brimstone: Delhi pushes back against making BRICS a geopolitical bloc - The Indian Express",
-          "desc": "No fire & brimstone: Delhi pushes back against making BRICS a geopolitical bloc&nbsp;&nbsp;The Indian Express",
-          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQZXpBNTNRZDZWRlgzdy1tOFQxbjFOM0x6SUZjRDQ1eXNJVmpGelEtS2IyTHRqMG51RmpVYl9FcXpnZjUzRzRsUXpKWWx0eHNXQU9qNkUxZHp6b0k4Q2ZqVzR5ZVBwci00NTEwWjBEM2Q4NjZsc21SM1ZWemRKVm9fUDBycGJGZzJRNjgweXExMERjQ2JmTmNHWkRVeVJzV3BKYXRFTzV5QzVrTXFPX2FIeE130gG4AUFVX3lxTE1IdEhQaElwYnhfbWR4TTd3TXFDNkxFUUNfSUM5Q3Vza3FCQUNFUDl3ZkZia1o2cm5zWHhRbEZZN0F2Qy1DX1lMNEpmNW55S01JUEY3bU4tTnRDa0s0TWtncjJubzlmdGQ2YmxGQ014bWRyREphMnItNWhDcWR6OTJWbVFKR01CYkhVbjVMRGNlaXNKUTd3V00tYzh3RjNoQktmcFgzTlYtZlZrc1JuRTR0RjJsYU5MZFQ?oc=5",
-          "timestamp": "16:12:54Z",
-          "source": "The Indian Express",
+          "title": "At BRICS, India’s Modi warns geopolitical tensions and supply chain shocks threaten global stability - The Boston Globe",
+          "desc": "At BRICS, India’s Modi warns geopolitical tensions and supply chain shocks threaten global stability&nbsp;&nbsp;The Boston Globe",
+          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOdmNYcHB1djZDLWw5YkNHajdGVi1nZlpTOFdJaF81TGo5dnE3YUp1RWhidVhTeEFmNHNJSDB5RXc4V2x3RHZQWXlrRlk2U3lrMnVBY282emN1UUNxbEZwLVJrYWNUdzI1bzFweS1uVVducldhckZLRHVVd2pwZGFFWC1jM0hXa1RTU01YT094WVpuMWlSV2tYVDFpMFZXVHJGZUhmTTlmWTdhZ2c0THc3bGJCWjdtZTlUUkNzbTdvdzRMVUdrU1E?oc=5",
+          "timestamp": "14:12:29Z",
+          "source": "The Boston Globe",
           "sentiment_score": 0.0
         },
         {
