@@ -1,51 +1,51 @@
 {
   "report_metadata": {
     "version": "2.0",
-    "last_updated": "2026-09-14T06:00:04.203684",
-    "report_date": "2026-09-14",
+    "last_updated": "2026-09-15T06:00:05.602739",
+    "report_date": "2026-09-15",
     "title": "AURORA | 战略情报简报"
   },
   "prices": [
     {
       "name": "黄金 XAU/USD",
-      "price": "4,408.90",
-      "change": "+1.02%",
-      "up": true
+      "price": "4,340.00",
+      "change": "-1.56%",
+      "up": false
     },
     {
       "name": "白银 XAG/USD",
-      "price": "65.19",
-      "change": "+1.41%",
-      "up": true
+      "price": "63.76",
+      "change": "-1.24%",
+      "up": false
     },
     {
       "name": "WTI 原油",
-      "price": "100.05",
-      "change": "-2.37%",
-      "up": false
+      "price": "101.89",
+      "change": "+1.84%",
+      "up": true
     },
     {
       "name": "布伦特 Brent",
-      "price": "104.61",
-      "change": "-2.81%",
-      "up": false
+      "price": "106.15",
+      "change": "+1.47%",
+      "up": true
     },
     {
       "name": "英伟达 NVDA",
-      "price": "218.29",
-      "change": "-0.03%",
+      "price": "210.96",
+      "change": "-3.36%",
       "up": false
     },
     {
       "name": "比特币 BTC",
-      "price": "77,264.94",
-      "change": "-0.01%",
-      "up": false
+      "price": "78,761.07",
+      "change": "+2.50%",
+      "up": true
     },
     {
       "name": "美元指数 DXY",
-      "price": "99.12",
-      "change": "+0.03%",
+      "price": "99.46",
+      "change": "+0.35%",
       "up": true
     }
   ],
@@ -58,43 +58,43 @@
       },
       "items": [
         {
-          "title": "Kalshi launches ‘perps’ for gold and silver following CFTC approval, expanding futures offerings - CNBC",
-          "desc": "Kalshi launches ‘perps’ for gold and silver following CFTC approval, expanding futures offerings&nbsp;&nbsp;CNBC",
-          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxObFNBWWJ2R1hGYTktaW1ua1NQMVRMSjNnZ0ZySmg0UGFpaS1PaEhNNjMzSDZXZ0FoallyY0pKa3dYdmhpXzBPWHpLeElIR0NyeFF4dUdNMnRRb3VSbW9WckI2QmFaYjd0bXNPNW1XS2VaTlVLYXRxeVppbkVDaDcxSFRmbjV4QW9KNjU2dUUyVUd4c0hBX09qXzZnajhFanBwUDZtZEZqaEJ6OFZQeUo5NkNqRWtlMXVlNF93ZzJfTFcySWNZXzl1dkFn0gHPAUFVX3lxTE9IZHYxYXVCcDNnTnlmZHRWMlNYRW5wR1lpeXRaRHQ0eFVfOU1IUmpnZkk1Z0M1Q255QWx6Nzg5VjN3U09FaF8wdTdsX2xKb0lsT3VmcHh4LXZWY1RQbVpJVHZyYll6aXFwZm93WnF3QVlHd3YwWGkwdzRNVkdrVlhfMWpKcmd1Zl9Vb25uZ01HR2dWMnVpNnNnbkVIbUhJWklRRGF6MElUOTUwUzY2OXkwYkgzVFQ0NFNfM1NYbFJqRzB2bVhvLXI2Z1ZuVUZIaw?oc=5",
-          "timestamp": "14:00:11Z",
-          "source": "CNBC",
-          "sentiment_score": 0.0
-        },
-        {
-          "title": "What August's Gold Rally Means for Gold Mining Equities - vaneck.com",
-          "desc": "What August's Gold Rally Means for Gold Mining Equities&nbsp;&nbsp;vaneck.com",
-          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNa1BGa3dLLWplSkxRUkVLWkMzXy1LczJjOWJIVVhKMmFHVXVFcWtXQWwybkN6MEdybjh4eVRoa3FtcXdJWkRYZzNYT2s1Ri1YQmpBdUlFVEJTdXgzaThqSmNRTHdPaGxsWENSZzhCWjB1ZTE4M2VHYmItN2Z0VUgteTFMOFozRnUyZU84eFRBeS0wak03WS16UzlqM1RIdWp4MnFvd1NIa19TLVlBNFR6UVY3SlVSd1dfa2c?oc=5",
-          "timestamp": "21:34:40Z",
-          "source": "vaneck.com",
-          "sentiment_score": 0.0
-        },
-        {
-          "title": "If these key gold price levels fail, expect accelerated near-term selling – TD Securities - KITCO",
-          "desc": "If these key gold price levels fail, expect accelerated near-term selling – TD Securities&nbsp;&nbsp;KITCO",
-          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPNnUyTTVKdE9mYnN1N0xlSjBOazJ6QXd3cGo1ZWU3bmQtaHptMkxFaXAzTXlCVHd3UFdKRmF4MVBObGNtWFd1MWxENTNGbV9aV19namZYMlItcllpc2NtMWk4Wld5ZUhyd0wxaFJseW9GOEtQc2psREkzdHBvblVyRjJGSWxqX0dycC12VWRzVWZuMUt0eWZOeWhqQlM3ZmlWdmFSMG85VnEwWmpqWTF2d3hrenZrZHVuSmtzZHFn?oc=5",
-          "timestamp": "15:41:00Z",
-          "source": "KITCO",
-          "sentiment_score": 0.0
-        },
-        {
-          "title": "Will Gold Price Fall Below $4,000 Amid Renewed Economic Risks? - Yahoo Finance",
-          "desc": "Will Gold Price Fall Below $4,000 Amid Renewed Economic Risks?&nbsp;&nbsp;Yahoo Finance",
-          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPRjZUci1KUmxiOTVlRnh5U0UxVHRVWmlfU196ME93aHM0SDRWLUdmWWhIRzhnUjV2M2RXSklZQ2pnTmkyQ3FDVXBiLVpxV1BuZ3hrajh6azdXSG9VcTFrakdXQjEyeFZBM2otQU9BZXV3Y0hHSVBOMXlCa2VzZ25lVjVJODlDWGZwMWlTVUxfS1VULThrWTVUNg?oc=5",
-          "timestamp": "01:00:00Z",
+          "title": "Gold Is Down Since the Iran War Began. This Obscure Shipping ETF Is Up 1,168%. - Yahoo Finance",
+          "desc": "Gold Is Down Since the Iran War Began. This Obscure Shipping ETF Is Up 1,168%.&nbsp;&nbsp;Yahoo Finance",
+          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNMlBKcExxQUxSYWE1cUdOTzBmZXp5X3Vzc1FYSmZwRVF1bHkwQ0k5dnVtakY2dkhVM3A1dkc4WGJPNGU4NC1SamFlX3I1bThaS0Jqb0ZxQVQ2XzRnVnFUUmdQeTZpdjhLMjRvRDg5b3J3OVQwTVFTTDVDdEttTHFzd0lrbDI4V3ByY3RpLWNIMGQ0TnI2UDRwaUFR?oc=5",
+          "timestamp": "10:32:51Z",
           "source": "Yahoo Finance",
           "sentiment_score": 0.0
         },
         {
-          "title": "Gold, Silver Prices Likely To Stay Volatile This Week Amid Fed Decision, West Asia Tensions: Analysts - NDTV Profit",
-          "desc": "Gold, Silver Prices Likely To Stay Volatile This Week Amid Fed Decision, West Asia Tensions: Analysts&nbsp;&nbsp;NDTV Profit",
-          "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxNSjRpTm9pNm92T2VwR2dXbmxHWF9mbXVTaGJDZ2lTUDMtNk9WVGttVExWNHFrOGI3MjBvRzVxcUxvNEFzbnlITV9QczlGLXBwcm41dUczdDZ4Z2VKVWMzOVVoZzM1OGxOVmRCRWJoSEZOeGpPVUVIS1U2RGh2VmlMZXBRcWFFYk10ck9HTXpKbk1ELW9WTVdrb1lONE9BUTNxYVU0M3lOZHdNUjlrZTVKdzQ0TlNCWkNjNnlLcmVEMjU0S245a3o5ZV9uRVRkTEIzb1hGZTNPd3BYZXZxSHRleUNtM3c2c3FsdEtqWkx1elhpdWk5cHFXdklocFJBWWV5RFBKUlBuMXDSAZACQVVfeXFMTWQwRlRmTnhoaHZaRFJIaTUwTVlUZ253SUdaQmNBTklnMTNnOGx4dm10U3l2ZWVuazVQd3NLRGFwVW5rT1VSU0d2eXE5dVB2bWlFdmE0ZXN3cEQ4ZGdLMlVuZ1ZZNjluajY0TGNLbVF3WWxZZ29GY3hzY2s5X2dMbnh1T3ZtVjVMRVRkQU1Cd3VOVVFkN05vOHVTZnhaVW9vcURybldZMDItUkh5ZzZZVWtMREN6NkYwb3Z2SXhiR050ZkVMcjhMOTV2US1fbXc0RHI1WFV3bGJTcDQ2am9MNWdrUnc5SmJyVUpIRlFmMXcwN1JxYTZGb0Y5SXNCd0V2ZEpCTEQ3QlA4MGVuUFdmM04?oc=5",
-          "timestamp": "14:59:10Z",
-          "source": "NDTV Profit",
+          "title": "Gold price risks deeper drop on break below $4,300 ahead of Fed decision - investingLive",
+          "desc": "Gold price risks deeper drop on break below $4,300 ahead of Fed decision&nbsp;&nbsp;investingLive",
+          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPemJ4c0lyY3FnUXdkQU5tbUdCY1RvSDNmQWl4ZENXcEdWcWZ5WkRkRklYRU04QmRqZjRPMTJ0QTBUaWFaYW05dE1RekFCTTRoRHFuLVpfZklIUnc3QUZYb291RHpQRVpNQUFTTGRvOTVqN0h5YVpvUzg1NGg1cHFqSkNKaEdOUXNRMlJsYjZlMzlSbVdHaEwtQnhuQ0NSWXZ5RU5DclJOX09NM29SZWc?oc=5",
+          "timestamp": "09:56:50Z",
+          "source": "investingLive",
+          "sentiment_score": 0.0
+        },
+        {
+          "title": "Gold clings to $4,355 confluence support: Live levels - Investing.com",
+          "desc": "Gold clings to $4,355 confluence support: Live levels&nbsp;&nbsp;Investing.com",
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOU2xSYUQ0UHV6Wl9LQlU3S2JGbUFfU1dnVF91MUxGVmNUdmZsRTNLMzVrSXU4U2haenhoblIwX1dScjkyYnhBN0JzelFoY0ZvTzh0YVFUQW00Q0ZfT20xT3R4elhLWWhVWFE3Zm5HZWlQOUl2OWFJOG5zM2g3Y1pRd2NLUEFvZUMwY3lsM0N6TXZVTF93SzAxNDdVcEdxNXc1ZElmdm5wVUhObnh5dkVDbw?oc=5",
+          "timestamp": "07:27:04Z",
+          "source": "Investing.com",
+          "sentiment_score": 0.0
+        },
+        {
+          "title": "What August's Gold Rally Means for Gold Mining Equities - VanEck",
+          "desc": "What August's Gold Rally Means for Gold Mining Equities&nbsp;&nbsp;VanEck",
+          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNa1BGa3dLLWplSkxRUkVLWkMzXy1LczJjOWJIVVhKMmFHVXVFcWtXQWwybkN6MEdybjh4eVRoa3FtcXdJWkRYZzNYT2s1Ri1YQmpBdUlFVEJTdXgzaThqSmNRTHdPaGxsWENSZzhCWjB1ZTE4M2VHYmItN2Z0VUgteTFMOFozRnUyZU84eFRBeS0wak03WS16UzlqM1RIdWp4MnFvd1NIa19TLVlBNFR6UVY3SlVSd1dfa2c?oc=5",
+          "timestamp": "21:34:40Z",
+          "source": "VanEck",
+          "sentiment_score": 0.0
+        },
+        {
+          "title": "UK FCA Considers Exempting Rules to Drive Tokenized Gold & Commodities Adoption - CoinGape",
+          "desc": "UK FCA Considers Exempting Rules to Drive Tokenized Gold & Commodities Adoption&nbsp;&nbsp;CoinGape",
+          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNOHhoalZrLW1jbXhVU1NnX0RqT3ZOOV80enRDYVZ2TzlPUjdnUDVjaW13S1RyaUoyRDNMck95Vk53dUJUZzJ3ZUFqdjVyaklrMTdQTUlWbkNmVFlYa3hZNmlOSHFoenBFWVRXZXJzWDZvZU9heXZnQW1SbVE2Zm5xMG12Qy1CUHZ0bVNYbktJWVpoZ1JtSXAtNzdEUGE?oc=5",
+          "timestamp": "10:03:52Z",
+          "source": "CoinGape",
           "sentiment_score": 0.0
         }
       ]
@@ -107,43 +107,43 @@
       },
       "items": [
         {
-          "title": "Chinese scientists develop oil refining method that may cut energy use by 90% - South China Morning Post",
-          "desc": "Chinese scientists develop oil refining method that may cut energy use by 90%&nbsp;&nbsp;South China Morning Post",
+          "title": "Chinese scientists develop oil refining method that may cut energy use by 90% - scmp.com",
+          "desc": "Chinese scientists develop oil refining method that may cut energy use by 90%&nbsp;&nbsp;scmp.com",
           "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNTzBSREg0eVk4Q0FhcmNSMnREc0w0eW5yUEh5amdESkFqdnBMYlBoMHhCUnZNZUxmZG9PRHJUdXZtd3JrWTBDNm9IXzFLU2pQcmlXVUZZR1dkSmJ1aGI4cWM0ZlBSTmJRN2RzRklaTFA3eEswbTNzZDBsZGhLOHZtVWc4Z29ZdXhLcGFpb0t2YUtSNzQ3cWYwM0VJbEdYR19MaFhDWDlsNkZFM2toUlJ0R3FNMkpteW1nUVd1RzZHN25PZmVvVlln0gHHAUFVX3lxTE4xM2lmd2hZNW1SRWwzUnZCRGJ5OFRla3pXUUlvc2V2UFRiLXR5TmdKMFRTMjk0WnV4S0tOUEdYVERoYjA4RW1sNzNNU0F2bmk2a3NnVlBSZGFTazRKUkwzOEhtdnJKWVJSWFpPX3AyQmRtb3J4bFlBUHlzOTZISHB6TGRvOWJrNzc5cUVZNU8wSVl5c2k5MHlSVDRJV2tkZTk2YXRmcFc2eGd3eG5RMm1kUVlmLW5Ieng3WHliVF81WTR3d2FrM0k?oc=5",
           "timestamp": "10:00:07Z",
-          "source": "South China Morning Post",
+          "source": "scmp.com",
           "sentiment_score": 0.0
         },
         {
-          "title": "Saudi oil pipeline attack could raise global gas prices - DW.com",
-          "desc": "Saudi oil pipeline attack could raise global gas prices&nbsp;&nbsp;DW.com",
-          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNN2VoSEpnWGtZZFN5dmxSWlJOQWtLV2VDdEJWOFZQVS1OY0I4a01DOF82SGJ4Tk0ySWRvMVU2SUZsOU94TjVmU1lRaE1GUk1HaXhlY2h5T2ZtZlFiQWI3eXprdklRNTVUSGhDMHZIR0ZNNmdZU1QzbnQ3bFI1X1AwWXFMUTVucS1SOTZJVjBncHBBSUN6aFFN?oc=5",
-          "timestamp": "16:54:59Z",
-          "source": "DW.com",
+          "title": "Oil Prices Jump as Attacks Choke Off Saudi Energy Supply - The New York Times",
+          "desc": "Oil Prices Jump as Attacks Choke Off Saudi Energy Supply&nbsp;&nbsp;The New York Times",
+          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9OUFpsVy1IOUxNRlV1QlB5LS1jMnlKcVJjUUtZcHhzdUx1Q0JwTmtQOEN1VDViY0lhS0JMR1V2a2l6SjV5dEdoV2hWa28wemFYeks5Y1FGdnRGTFE1RmhUQ25PeHJIT3hQbDRfb0V3MnRqWTA5bUVj?oc=5",
+          "timestamp": "20:06:00Z",
+          "source": "The New York Times",
           "sentiment_score": 0.0
         },
         {
-          "title": "Current price of oil as of September 11, 2026 - Fortune",
-          "desc": "Current price of oil as of September 11, 2026&nbsp;&nbsp;Fortune",
-          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5qYXE5TVZLVVd6LXd3cTYyTWF3c1FnZTRtSzFVRlRhRFFreV8tcXVMVURJZUZidDZtYW4zZF9ubHdQZmxONVhNTVdBU0NBeHhKRnFsQnptaTZaZkNyQkhJOFlB?oc=5",
-          "timestamp": "13:30:00Z",
+          "title": "Oil prices up after new strikes on Saudi infrastructure - The Hill",
+          "desc": "Oil prices up after new strikes on Saudi infrastructure&nbsp;&nbsp;The Hill",
+          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOYUNyZGZvdDljdk5yYWNidjRMNkpiQ2ZEcy1qckJ2MlM1MmJzUVl1THZtZ3NKd0RGTFNrR21fc21SRDBIQ1BuN295Wl8ySlppWTlncHhHSzNQWTJ5MWFHUW53djNxdnh5dDlFYTRZOWNsXzNqNUg1RW9aWDJ3akk4dGNmY3BUcTVtZUxFT3hn0gGTAUFVX3lxTE9oSjRDR1BEQklvREFlc1ZfMTlsRVhNZGtDRmVpSEJDQk5XZEFpczJjdUs1UDNZWDMzNS1DVG80el9UWEZ6bDlMcWFUbU1RM05PVVF2NUFLY0gyMm9pQTZxYkxpZEJob2ZoVFdsQjR1akFaM3o3S003eGh0Nm9id3lpandDRTlYSFl6aW41ZmhUMGVSYw?oc=5",
+          "timestamp": "20:23:00Z",
+          "source": "The Hill",
+          "sentiment_score": 0.0
+        },
+        {
+          "title": "Oil settles higher after Saudi strikes stoke supply worries - Reuters",
+          "desc": "Oil settles higher after Saudi strikes stoke supply worries&nbsp;&nbsp;Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOcXNvWlpHUEh2bzNITUYtX04zUG1vclFCeDZ1NVdQTkNXUk5OTmRESElsUXUyQjNsYVU1d2tEMFlNRjB1VXVnenR4UHZzd3F3dEZWR2tWSVZMREFiZXF6NjR5SlB5VmdaNXpTWHQ3UF9POFRGanpoR0NxZUV3ZUU4alAycW9mcGdLak5lQ2NXdlpHQ3I3eDVRM3JDWmI3SGdYUjZsbnJSaUVySHk3UFl4Y3AxVGFZbmg5?oc=5",
+          "timestamp": "22:23:00Z",
+          "source": "Reuters",
+          "sentiment_score": 0.0
+        },
+        {
+          "title": "Current price of oil as of September 14, 2026 - Fortune",
+          "desc": "Current price of oil as of September 14, 2026&nbsp;&nbsp;Fortune",
+          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE4tdE1rdjRWWXpiWnJuWTNleXhKNGN1ZW9Qb3h1Ujh6cU91RFhOUXBDWXNaTXI4UVpVQnpPbEU3OTM5aUpWdTYxTGk0Um51cTY1X3psSF9MVXdoZHJpbWJXUkpn?oc=5",
+          "timestamp": "13:15:00Z",
           "source": "Fortune",
-          "sentiment_score": 0.0
-        },
-        {
-          "title": "Oil, gas and borrowing costs surge as fears over Middle East escalate - BBC",
-          "desc": "Oil, gas and borrowing costs surge as fears over Middle East escalate&nbsp;&nbsp;BBC",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1qbDJ3UmRJSUp3QzFjUk9JSWM3OFNpUzFXVWdqTUdGZ2kxUzh2cVRVdF9JQW0yajQ0RnA1ampZUHJJYk0tQTRGSzRQblhDTVpYeklnMHlRcHBkZw?oc=5",
-          "timestamp": "17:38:31Z",
-          "source": "BBC",
-          "sentiment_score": 0.0
-        },
-        {
-          "title": "United States on track for record crude oil production in 2026 - U.S. Energy Information Administration (EIA) (.gov)",
-          "desc": "United States on track for record crude oil production in 2026&nbsp;&nbsp;U.S. Energy Information Administration (EIA) (.gov)",
-          "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1zN1dHVDVoQ0RFVHhjQjhIYkUweDktNlhfc2NxRmd4b0VjeEU4Q1VBSFNsSXBzblp1Z0dYcDZOb1NOQUZnbkxXOTNKVnQwZjJDTkxQc1o0WGdneHR1M3l3WDdWQQ?oc=5",
-          "timestamp": "13:08:24Z",
-          "source": "U.S. Energy Information Administration (EIA) (.gov)",
           "sentiment_score": 0.0
         }
       ]
@@ -156,43 +156,43 @@
       },
       "items": [
         {
-          "title": "What are the five pros and cons of artificial intelligence? - Al Jazeera",
-          "desc": "What are the five pros and cons of artificial intelligence?&nbsp;&nbsp;Al Jazeera",
-          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPUkJUcjZydEhPb3Itel9PUVFhWFpZcm5GRE1UYUhQQWxRYjdLbmp0RTg4T050Q0N3UGtral9HSFEzc2NXcWFnd3FwOUhPS0tpc0k4cXFZOHJuWHJ1TUYzN1ItMUNxMGRDbDNiMlZYV205eERMTk9uUjg3NzJleUdYOG0zSEIzU2RHTDZCRjROMU9qZW14MXh1SnU1MlFrWkkt0gGmAUFVX3lxTE1PXy1fNFdzYUxKLUVpWWN0RjhGaEp4ZnJXOFVEOGZ6RkxYb0NKUDR5SkliWmZTSXpYR3U1RFdVc0ZPM0FuVll2cF9lbnRpcTN5ZWVWbm1mTVdobklyaVlqUGdRSlFaMEg5SVNTa1AyR25HN0pOUHptdnVmY01JQmRDZUxUbTV1OXl1Z2JjRDI5UXBRR1N5MzJqZWRHd1gxN1ZZZ1U2cHc?oc=5",
-          "timestamp": "15:06:08Z",
-          "source": "Al Jazeera",
+          "title": "Top A.I. Leaders Call for Slowing Down A.I. Development - The New York Times",
+          "desc": "Top A.I. Leaders Call for Slowing Down A.I. Development&nbsp;&nbsp;The New York TimesTop AI leaders unite to warn the technology is advancing too f...",
+          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQOE1BV1Q4UUYxLVRfaDNJVXVRbnNaQmdUMjBzbWJWRWtTcjlROWZqUjAtVGlob2NHVlB1NHVfRU5FY1dWT1UxR3RHakpVUTdzSGdvRmR2UFR2dzZxdHJ0ZXlMb0NsMVd1MDM1aUZ2VlpPeG9zSDZxRFpFWjNhQ0psM2RVYW8tM0ZKdTdDdG93?oc=5",
+          "timestamp": "14:43:00Z",
+          "source": "The New York Times",
           "sentiment_score": 0.0
         },
         {
-          "title": "Anthropic CEO Dario Amodei says \"exponential\" growth of AI is a \"warning sign that we need to slow down\" - CBS News",
-          "desc": "Anthropic CEO Dario Amodei says \"exponential\" growth of AI is a \"warning sign that we need to slow down\"&nbsp;&nbsp;CBS NewsOpenAI boss and Elon Mu...",
-          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPS2otUFZkQndyRnVpMTlySVhTUnQ4YkVrdHhXem1oUUEtVzdMTGVaSUZjV01fOXZrRmNpb2dJM1AtUVVvT2Zmci0tbUxlaTdIOXNlQmp2QXYxN0RQd3pnYVpfTUlERlNNck1wOS1uNmVSaTZ1dS1HbmtsQjFoVFhnYVpXUnFzMkFXNWpEM0JZQQ?oc=5",
-          "timestamp": "16:42:00Z",
-          "source": "CBS News",
+          "title": "Trump wants to push tempo of AI race, countering tech leaders’ call for slowdown - The Washington Post",
+          "desc": "Trump wants to push tempo of AI race, countering tech leaders’ call for slowdown&nbsp;&nbsp;The Washington Post",
+          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNbFpkVktGTDVQYlRMQjBkem9USkVXZE9ha3ZOU2l3ZlVWSnNObFJlbGU1TzhFNzRfTGRtSlZDbU14Z3FLWVJlSVFZMlk5N0l3ZG9Pa2tqOHUtSnUwSnp4Q244OVhEYVd0LVBzdjB5bkxRdVBoSGNtSS03V09qVXBTMXEyTzJvSzh5ZFozZUtUVFhyYUZ2WEUya0xhMkN6ZFhrc281Z0NfY0xUd29wb3dPcGpjZk51dw?oc=5",
+          "timestamp": "21:57:48Z",
+          "source": "The Washington Post",
           "sentiment_score": 0.0
         },
         {
-          "title": "Washington scrambles to meet calls for AI guardrails while the window to act closes - CNBC",
-          "desc": "Washington scrambles to meet calls for AI guardrails while the window to act closes&nbsp;&nbsp;CNBC",
-          "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE43ZFdOcUNiZmFDbmRDV3RyN3ZxekV1S3BONUxRZ0twQWlCcFFublhOanpUS3VUaHNiZFBBQ2FiN08wZGxKMW5KTHB3SV9Nc0lYcjhMQTdZZjdkMUtZbzU5dG9aX0t6SWJTUGhLVkJjeGprc2NkbUVtS1RHUk_SAYIBQVVfeXFMTjRGRTZPVklWdGtRb1N3NF8yZlBfTmxSNjZnRHp1WE5ybzZlZXJMZWdNT3JmbGJnTjlQR1JFbEhkQUxzZkdfNGZNeVJkYklSdDd4NGVRdkRBdmZrRi1CS1F5Z2sxZmpFYTlSb0o1WlBiTWI1Z3djM1dUeVFjRlJETjR6Zw?oc=5",
-          "timestamp": "16:56:17Z",
-          "source": "CNBC",
+          "title": "Trump won’t put the brakes on AI because he wants to beat China. How big a threat is Beijing? - CNN",
+          "desc": "Trump won’t put the brakes on AI because he wants to beat China. How big a threat is Beijing?&nbsp;&nbsp;CNN",
+          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE51dWJLWEZpZUgzUVd0Zzk5MkhITVVnTFB3SkJFdERmZ1Y2OWVtQzBybTEzR2FCY3RvUVhKU1k1UlVEdTNsWVEyd3FsOUtubWtvaFI3S3Vhdk85SmNsNnBxdDdyS0loallyWUs3ZUlpOWI4Uld4WWFJRw?oc=5",
+          "timestamp": "08:23:56Z",
+          "source": "CNN",
           "sentiment_score": 0.0
         },
         {
-          "title": "It’s All Fun and Games Until You Give AI Your Credit Card - The Atlantic",
-          "desc": "It’s All Fun and Games Until You Give AI Your Credit Card&nbsp;&nbsp;The Atlantic",
-          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPa2QzZ0NxU3pWZkRLLTBiV0t1SFRSSmh4TkpBZTNGenBDWDh2Q25MSW51ay1oSklxR25Qdnk4WnRxTV90SU01UTV3d1NfQWdNSF9HcEU0VE5aZXdIdWRYU2tfRU1nYlE1ckNNZlRzV3B3bGxidjJyWURDSUI0RWJiWWd0dUVMQlhtSEROUjlwM1J4U2M4a2k0SDVDRGU3dw?oc=5",
-          "timestamp": "11:30:00Z",
-          "source": "The Atlantic",
+          "title": "Trump on AI: 5 Quotes That Show Where He Stands - U.S. News & World Report",
+          "desc": "Trump on AI: 5 Quotes That Show Where He Stands&nbsp;&nbsp;U.S. News & World Report",
+          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOcEdIWURVZzJwN01uT0UwQXZiOVlKTlhUMEEwbW9scXZwNERFbmItcG9GQ2MyUTMxY0EwOUNmdnlVeFVhbGtGNHVKa3NfWlRkai1aR2pYSXdjZGhDZkJFcG5Bck1HVVhscV9wZC1uYlVzWWs2V1ZtajlkQXotbGpjbkRWY2c4TGNUYS05SHd3QTlIWjRTeVJhc2hnM0RmT0s0VGhxRXpYLWVVQlhSZlNiVGVPRjBHRzZsMUVrRGJjOWNfQQ?oc=5",
+          "timestamp": "21:36:00Z",
+          "source": "U.S. News & World Report",
           "sentiment_score": 0.0
         },
         {
-          "title": "Trump downplays AI warnings, citing competition with China - The Hill",
-          "desc": "Trump downplays AI warnings, citing competition with China&nbsp;&nbsp;The Hill",
-          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9PRVNRQXpmdm15TzNRWlpGYTlGakxyZzFrdnpXenFpUDZ1aEo4bUc1dmFKUlpKeUx6VVhzSTQ5OGVsa3pKQlpUZzJ0cGdwcmRCZWxwTjFjaGxtN05KOUxELUdUbUhDQldiZ0ZQcmtVb0RhMUgtLW9BY3A2MNIBgAFBVV95cUxNYXBMRkhhcWJfc1d3cllTZTdZbU1aTXhsa2JyNEJHYzNnU09MLW9hdHdwYW54VkNJcHBTU2I2cHRpWVRIcFVuRmlGdTJHQ19Sc28zUTE1V2J1WWdBSl9TQ25CM0JvWDlMa1FpOU5OZl9sdndBVk96c2lybWRJQ3ZlbQ?oc=5",
-          "timestamp": "15:57:00Z",
-          "source": "The Hill",
+          "title": "Trump dismisses AI guardrails, calling concerns a 'conspiracy' - USA Today",
+          "desc": "Trump dismisses AI guardrails, calling concerns a 'conspiracy'&nbsp;&nbsp;USA Today",
+          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQVm84LTIzR2EwdUM5ckNwbVdhWXZHOGJ2em02Q3o1eDhRUkd4WlVTaV95cFlOZV9KczI5TUNWYVJVZUFvekxhLTFyMG5jb3FHNS1kSnNtSjlVVmc4anQ5MEN5dWY0d0g5MUxKYmczVnJBZjdpR3FkdTZ0LVg5a1Jka0VmOHFLelFIVEFyWHFwVkFJdGVJYU1zWlN3OFlScTQ?oc=5",
+          "timestamp": "20:39:00Z",
+          "source": "USA Today",
           "sentiment_score": 0.0
         }
       ]
@@ -205,43 +205,43 @@
       },
       "items": [
         {
-          "title": "Top Ally Rages After Trump Endorses Geopolitical Bombshell - The Daily Beast",
-          "desc": "Top Ally Rages After Trump Endorses Geopolitical Bombshell&nbsp;&nbsp;The Daily Beast",
-          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPTWIteFpMVm1DSkMweDNIc0tMRDd2TV83TjZta0JpMWFOLXBXZUt3ZXgxbHhHb2dyQ0REZWJ5dFNBVkF3QmJpX1lhYlhvU3RUWTFqX0drb1hFZFhfWjRpUUhMX29weElEZjhxRjZBaVdRZnpXSjJVMWt2d09jRV94MlVjTnZqanNHUU42M0hfcUo1S1k?oc=5",
-          "timestamp": "18:02:00Z",
-          "source": "The Daily Beast",
+          "title": "EU states to raise game as Arctic becomes strategic geopolitical frontier - Al Jazeera",
+          "desc": "EU states to raise game as Arctic becomes strategic geopolitical frontier&nbsp;&nbsp;Al Jazeera",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPNVFNZVE5cE02TkVNMWdYWEF0Y1B5Z2lXYl9IelNuaDB5bFlWeXVyN2tyWm15Smt5VGpsRWVfbXZJeXJRa0N1NU1rNkloeUVlNHhZeWlmN1EyNFBuUWRhUS1SRFp3RjNfazRMYXdsUE9tY2s2RWlFTERZWXQ1Y3hnV3JXTnpjQjNCdFBpRjRZOFBEUXhBZEFRUXRITzBheVI0d1lPOVo4cWJhVGtTc3h1UEtqdW_SAboBQVVfeXFMT0JFcUlsbzFuR01LSFRGVjBTeEtNV2Rkc19TYXBZdTlycDlfX2tFM3BNVGxYN05xdmRhRHA5NHFvcTR2RHJQWXc0b0NJU0puTU1tbGIyQlBsTUNYV3VsZjBYbjJBbGxtN1dKd1IwYk81dDRxNkEyMDZyeDdmNXhMdFR0WDVtZE5ydE9GU3poenN1QjM5c3JGb25lZVZlalpNX3NjbUdVaGdVblZ1c3NWNkEyMnpnMF95UDRR?oc=5",
+          "timestamp": "17:41:37Z",
+          "source": "Al Jazeera",
           "sentiment_score": 0.0
         },
         {
-          "title": "The accidental geopolitics of Tintin - indiatoday.in",
-          "desc": "The accidental geopolitics of Tintin&nbsp;&nbsp;indiatoday.in",
-          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPMWtreFp1Z2hkelYwN251TmxMeFpnTnJDYl8tSmV6NnExNjhSYnQyMG1zTkVFX0hSZGY0dWxLN3JHeExSa2lSb0JqS3dBNUlzcDFvbzAzOGg2aU5zLWpPekRIMVF1SExsWWIxeWthdGJOYkVUY2ZEdlpyTFRfQTVRQThVRU40Y1ZEMlpoNXBKQmQ3ZVJTUHZFeERwM2JTZlJrNkdCdnQyY9IBrAFBVV95cUxNbFpkeVpHNEduQUVjTVM3c1pYdUlGcGE2ajd4bUFmR1BaRUZhNU83WTFGcEg4MG1JOVNlSjRVbGFTTmNlSC1wWFRHbVNVb2wzRkREMkxMZm5EZ1JzdzJPQlVMdkZIN2p3d1M2ZTJmNlg2RGtaWVNZOG9NcC1HblZZWl9fR0tGZnd1clhMQklYQTRnWXAwU3dpZExqZjNLNEx1YTJCN09mQnpDcGVP?oc=5",
-          "timestamp": "02:30:00Z",
-          "source": "indiatoday.in",
+          "title": "The Houthis and the Power Vacuum in the Arab World - geopoliticalfutures.com",
+          "desc": "The Houthis and the Power Vacuum in the Arab World&nbsp;&nbsp;geopoliticalfutures.com",
+          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOY0xoQzNuN2ljUm1zQXdUc2I2My1HREQyWjFFZTRUNEpyV0FnX1BiSkUyeDRuUFpfWUlPX041VEprX3lrdXFHVmV5allxOGRrdU1Fb3lZcWc4Z0xzUS00Z3RZZzQ1UE1BX05DZVRxMWl2S0VZcGJES1VaRGR4SVllWHk2b09CZlNiNE5N?oc=5",
+          "timestamp": "10:00:43Z",
+          "source": "geopoliticalfutures.com",
           "sentiment_score": 0.0
         },
         {
-          "title": "EXCLUSIVE: Shifting geopolitics driving EEAS turmoil, Kallas says - euractiv.com",
-          "desc": "EXCLUSIVE: Shifting geopolitics driving EEAS turmoil, Kallas says&nbsp;&nbsp;euractiv.com",
-          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQbFRNNW9QNEpnRzNRRERjWUJ6RlIyaS1mLVhnUGtlaUZEaWtDS2lmRXFHeUl4V1lZYVZNUVIxaWZfNkNVdzFLdzRONE1aM1VwRTZRWjRYZUJtRkdRRWJVUEFnQWFZOWJDUy1VU2VoblU5Wjc2QlZiYW5CWDJLbExrWThEaEtLS3F2N0hLR1cxdkNrbWJyQnNWck13?oc=5",
-          "timestamp": "02:20:29Z",
-          "source": "euractiv.com",
+          "title": "Top Ally Rages After Trump Endorses Geopolitical Bombshell - Yahoo",
+          "desc": "Top Ally Rages After Trump Endorses Geopolitical Bombshell&nbsp;&nbsp;Yahoo",
+          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQRGhyS3lSQkx4YkszVEduU0dIVXByNkE2cHVJOGpybjUyb2h0OU03Z2NnX01aSEtRX3Jnc1B6bjgtNzNiYktvN213Y05nTnBaT2RCS3RxV01HU0FTeV9MSWl3ZDR2UEpIQ0ctWmJmVW10M0FJODVPblBfTkVwaUQtS3ZZVE9aRW84SFMxMkswaW5aWkk?oc=5",
+          "timestamp": "18:02:04Z",
+          "source": "Yahoo",
           "sentiment_score": 0.0
         },
         {
-          "title": "At BRICS, India’s Modi warns geopolitical tensions and supply chain shocks threaten global stability - The Boston Globe",
-          "desc": "At BRICS, India’s Modi warns geopolitical tensions and supply chain shocks threaten global stability&nbsp;&nbsp;The Boston Globe",
-          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOdmNYcHB1djZDLWw5YkNHajdGVi1nZlpTOFdJaF81TGo5dnE3YUp1RWhidVhTeEFmNHNJSDB5RXc4V2x3RHZQWXlrRlk2U3lrMnVBY282emN1UUNxbEZwLVJrYWNUdzI1bzFweS1uVVducldhckZLRHVVd2pwZGFFWC1jM0hXa1RTU01YT094WVpuMWlSV2tYVDFpMFZXVHJGZUhmTTlmWTdhZ2c0THc3bGJCWjdtZTlUUkNzbTdvdzRMVUdrU1E?oc=5",
-          "timestamp": "14:12:29Z",
-          "source": "The Boston Globe",
+          "title": "Motohiro Den's Funsō Deshitara Hatta made Geopolitical Manga Gets TV Anime - Anime News Network",
+          "desc": "Motohiro Den's Funsō Deshitara Hatta made Geopolitical Manga Gets TV Anime&nbsp;&nbsp;Anime News Network",
+          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOZFlhaUhXd1E4aU92dDRBRmZ5S1VCd191NWRnMHBsdS1tNUFFbjhmWWkwWHBRU3U1N3R2MWVpblMwbE1jQXpnZEtmMTV0V01oNXlSRC1WbE9MX1NfNzRxcmUzd2NPNlQxQkVsb05HTnpSYS1idWo5WlJwUUI1N2ZfX0Qwc0wwUmw3TEI4eTVsc1FXOHdZYWljaXRqUTJsRjJHaXVVSjM2QVNyTUNRbzdkM3Z4eUhRWWJQVzJvY05kSlYzbnB5RTlvYQ?oc=5",
+          "timestamp": "10:40:07Z",
+          "source": "Anime News Network",
           "sentiment_score": 0.0
         },
         {
-          "title": "How geopolitical rifts cut scientific collaboration - Science|Business",
-          "desc": "How geopolitical rifts cut scientific collaboration&nbsp;&nbsp;Science|Business",
-          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPd1JHY3BpbmluUmZmMjNlVkRCYWhXSHliUmZtQ01nby1Sa1hVNUtVQUhkdnNseE1aVU94UXJMMTJVdG5TcVhOUHZvbEtLQzhpV1drUDFQNEJNU0dJTHpPN2FtR2d0NjRSZGFvZmIwOFNCVTFIczFFZWJuQmhncFV3aGkxWFJlajJfNi0weUJNeGt6Yy1iTE1FZHk2MlNvdnJFZGNzZS1B?oc=5",
-          "timestamp": "12:47:44Z",
-          "source": "Science|Business",
+          "title": "When geopolitics outruns the economics of supply chains - Lowy Institute",
+          "desc": "When geopolitics outruns the economics of supply chains&nbsp;&nbsp;Lowy Institute",
+          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPeTBBZHJvSE1RMXpIT2hRT3NCVDVNYVk5RlIwUnFjUlhmZDdtYzdGUFl5MG5YaUxuTTlUS0h0Y0J1QWNObnJyLWlpT3AzVnlkZnVBLVhhRWcxaE1vYlpFOTBqQnZtU012Tm1McU9wRTdJVWZleUNDaWRnRFRLaXA0cmdxdmxNbGtra1NZSXdjam16dEZhZVk4ZVE3dkVJMEVvYVdZ?oc=5",
+          "timestamp": "17:04:47Z",
+          "source": "Lowy Institute",
           "sentiment_score": 0.0
         }
       ]
