@@ -1,51 +1,51 @@
 {
   "report_metadata": {
     "version": "2.0",
-    "last_updated": "2026-09-23T06:00:05.069263",
-    "report_date": "2026-09-23",
+    "last_updated": "2026-09-24T06:00:05.312638",
+    "report_date": "2026-09-24",
     "title": "AURORA | 战略情报简报"
   },
   "prices": [
     {
       "name": "黄金 XAU/USD",
-      "price": "4,396.20",
-      "change": "+0.28%",
-      "up": true
+      "price": "4,322.70",
+      "change": "-1.23%",
+      "up": false
     },
     {
       "name": "白银 XAG/USD",
-      "price": "67.61",
-      "change": "+2.71%",
-      "up": true
+      "price": "64.93",
+      "change": "-1.52%",
+      "up": false
     },
     {
       "name": "WTI 原油",
-      "price": "89.85",
-      "change": "-6.19%",
+      "price": "92.71",
+      "change": "-1.99%",
       "up": false
     },
     {
       "name": "布伦特 Brent",
-      "price": "98.65",
-      "change": "-1.68%",
+      "price": "98.36",
+      "change": "-0.90%",
       "up": false
     },
     {
       "name": "英伟达 NVDA",
-      "price": "228.87",
-      "change": "+0.66%",
-      "up": true
+      "price": "225.51",
+      "change": "-1.47%",
+      "up": false
     },
     {
       "name": "比特币 BTC",
-      "price": "86,194.42",
-      "change": "-0.47%",
+      "price": "84,404.01",
+      "change": "-2.05%",
       "up": false
     },
     {
       "name": "美元指数 DXY",
-      "price": "100.53",
-      "change": "+0.10%",
+      "price": "101.11",
+      "change": "+0.68%",
       "up": true
     }
   ],
@@ -58,11 +58,27 @@
       },
       "items": [
         {
-          "title": "Gold breaks with real yields as fiscal concerns reshape investor demand - Saxo",
-          "desc": "Gold breaks with real yields as fiscal concerns reshape investor demand&nbsp;&nbsp;Saxo",
-          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNdWdXU05pby1DUmUybnQzWEtLRWdtVFNUQkhCMG5fQ2VhaEVCdFRKNUlNclRmQ0xMUzM5T0NjUGRvNEFwQ3RUY2ZBaGt2STlzMEk4VThrRzF4ekJnbWVWYUJpTXVKem1MZk9IS2x6YlZFNnFtR2lBTHo5OGVhQjJQUXBPOWVtbHF1eW9CaGlvQ2ZlNE1UUHdmZHl2OHNIYWNaOHpTUVZoVUkxV1E5UHRCTGVqSzFZNnRKX00zVUlfUEppdTk0eFJiRnNTdw?oc=5",
-          "timestamp": "08:30:00Z",
-          "source": "Saxo",
+          "title": "Bernstein unveils new gold price forecast for 2030 - Investing.com",
+          "desc": "Bernstein unveils new gold price forecast for 2030&nbsp;&nbsp;Investing.com",
+          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPeXgyQW1yZHI2ZUdaZG92N0YyRXRtdDlfWTJKcXlRZDJzOTBYRHRRYS1rV01WVHE0Z2Jnd2E5M2lBNTVIdlRaWm9QTnp2anZpUzFBQ211SUFNUDQwRHlkeHNFUjJROUk3ZWpDSmJSVkJfRm9hNTd1dnR5LVZXZldSS0JoQVhBMVozckNXNUtienNIcmZsbW5pYWZDLUIxVGhGVW1paUdoTUstZw?oc=5",
+          "timestamp": "11:59:37Z",
+          "source": "Investing.com",
+          "sentiment_score": 0.0
+        },
+        {
+          "title": "Gold falls back to the major $4,300 support ahead of key US data as traders await new US-Iran developments - investingLive",
+          "desc": "Gold falls back to the major $4,300 support ahead of key US data as traders await new US-Iran developments&nbsp;&nbsp;investingLive",
+          "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPNjNoeUJqUGcyelJTdDlDVEtvLU51cEJ5Ml9DYXdUY2FJTDlGdUhJUGY5c0xsWjhRbVE0eEhrdVUyaVVNSmdjaVFSS3BnbTdtakNYdGl4OVV4Mk5XbnNxOHpmSDJiZ2hsR1RobzVrYmUtX3FPSXFza2dFZ2RGMVRTWkNqTWlFdFdZcUY0U2F1Y09Cc216MC1BQ2N6Z2o2c21JbGpSa1J6REJ3OVRwbFh6anhlZktnemZuUmdPTnd6aUt5ZXpZV2lNdm1CQXQyNDE1ZWJBU1Z0RDBrWGow?oc=5",
+          "timestamp": "10:30:52Z",
+          "source": "investingLive",
+          "sentiment_score": 0.0
+        },
+        {
+          "title": "Gold and silver ALERT: More downside before another rally? - kitco.com",
+          "desc": "Gold and silver ALERT: More downside before another rally?&nbsp;&nbsp;kitco.com",
+          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQeXFQemhLNjlUVjllck5BajNwdVhFQm5QQzNYeDZ6ekNVbmRlb2FKbGJZMlZWTkg2QmJuU0VvWVdZTmVsTDJYZWt5dl94Qzl4Tm1STHY3U1NBSFNpLU1RRFlKc0JyVjdjWVhHRkpBanJfbWw2Y08yVzhSdFRGb293NnJWSWlCTWVtd2xLMFNLZ1M3bGFB?oc=5",
+          "timestamp": "19:36:50Z",
+          "source": "kitco.com",
           "sentiment_score": 0.0
         },
         {
@@ -74,27 +90,11 @@
           "sentiment_score": 0.0
         },
         {
-          "title": "UBS expects silver to benefit from gold’s supportive backdrop - Investing.com",
-          "desc": "UBS expects silver to benefit from gold’s supportive backdrop&nbsp;&nbsp;Investing.com",
-          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPWWt3UTEyYThJQk5LaW12aTdOam1Yd1NPbzJHOGJGR1Z2c3owNDFXV3N1R3dwZGU4aHdaNS1xclJwd2pzMmpOOHdCNjl4Z2FtLVBDUVlHMEE0LW14alJXaDFkaUUxckFkOUFUWjYyUjJYQnFCNC1kRUw2blJsTnhsZkUtWTk3cVM1anpyLW5NXzZxOUZwUWZoNmxVZjZJMXZzT0xLbURyQUZVc2lUMkhUR3NneXQwUzA?oc=5",
-          "timestamp": "11:44:18Z",
-          "source": "Investing.com",
-          "sentiment_score": 0.0
-        },
-        {
-          "title": "Uganda's export earnings up 10.2% y/y in July - Reuters",
-          "desc": "Uganda's export earnings up 10.2% y/y in July&nbsp;&nbsp;Reuters",
-          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQTVZEUnZwU1A1U2d2ZHhDUTNGUUlIcGViTkt6S3ZNOUdBbTRxMDFFR2xkZERIMUhnTXRhcGt1dHhaazFSM3VyVWhtdEJjR2JsOVBxay02Qi1yaHdoZVFYNkNuTUVGMkU4Yk5OREVJUlFSUVZ2b1Bsc3k0dU5keXRjRXZXekVTOW4wU1pNZ2lZYWw?oc=5",
-          "timestamp": "04:55:00Z",
-          "source": "Reuters",
-          "sentiment_score": 0.0
-        },
-        {
-          "title": "As China’s consumption of gold jewellery slumps 34%, sellers pivot abroad: WGC - SCMP",
-          "desc": "As China’s consumption of gold jewellery slumps 34%, sellers pivot abroad: WGC&nbsp;&nbsp;SCMP",
-          "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNWllVWU9VTHFUZGJMbVpUeDEyVjNCZEtKeGdhU21lRjZ6VUV4Z0NySnhVTFpVbzFiWHVfdmh0Y1RzTHl4aTgyUXVpOF9WS1NnSU9IbWRpSWN6QzhGcXYzWGJjbE5aUFJZRnkteVV6UXBaVGozeUpqSkFiT2ktR2tsWV9fZUIwOXo5cVhReFBWNWV0SkpRV2l6RGJyOHNmdmg5Q3cyY0gtcXh6a1UyTmJ3ZDMydl8tQ0htbENlUFUyQjJUc0xtdUtKdXR0SFRhVGfSAc8BQVVfeXFMTjZMWHJ0Qk01bUtwV3BjODBKalVsSEVIazUyeFZjX2o4ZGxOMDZ1ZkZtMlNVRmx4Z2JrOW9vTzNzQ0liUDVDV01neThrWVBQeEQ0amE1OThjSXNiQU5aUTNaTkNoLS0xT3F0bUVjTXlsMEN3LUYzMkZObkN4dTAwQzRvc0h2ZTM5WFVUNkpJZnlnSUIzcEI0eGtXLU12VGFzRFlDV3c3MmlHUm1GN3hkWG9tbDVPRXBkM0VTUG5PaXhMVXJicVp0TjlscU5JZGF3?oc=5",
-          "timestamp": "02:00:39Z",
-          "source": "SCMP",
+          "title": "Gold edges up or goes nowhere? Headlines clash as rates and oil pull in opposite ways - investingLive",
+          "desc": "Gold edges up or goes nowhere? Headlines clash as rates and oil pull in opposite ways&nbsp;&nbsp;investingLive",
+          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOeXZBSTM4dWM3MmQ5eEc5OUdfVG9Ca0l6dF9wRTJCWDhZUzlVYXhSdk9QeXBsOF90MXRNY3YxOHVrNGVBNGZSS0U1U2EzVVpCVG1ZRUptdG4teWNNZFVXTUR5NnUyMjVxZlF1XzBibWZGekJULVF4akkwOU5KczhBcFNqb0VBelA2QkQ4ZHVrY3FNdnBtMXpiM05CU2FhRDc4RUNMVFpKWWxlWjhwdUwwVHlYN1loSUEya0x0dXBDWl8?oc=5",
+          "timestamp": "01:22:09Z",
+          "source": "investingLive",
           "sentiment_score": 0.0
         }
       ]
@@ -107,11 +107,27 @@
       },
       "items": [
         {
-          "title": "Refineries Are Now the Main Chokepoint for Global Energy Supplies - WSJ",
-          "desc": "Refineries Are Now the Main Chokepoint for Global Energy Supplies&nbsp;&nbsp;WSJ",
-          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPMlRwNWNJRExFUV9VRmxrVjZ3RllpY1d4cTdBOGRIS2J3UXNGU3VqdFowYUxYbVhPaXpWWnNfTkdRVW5sUTVWREt3aHFtajZXcFN4dEh1LUMzc01LWVFtMUlTRVo2ZVBBSzlaUWQ4VFBqNjBvVGxFOEpPdm9JNXhWNGp4YUtGT3k1djBYWXB3aU1NRlRXUUV6aHpQRkRuamJSMGgzSDVqQ3BZYU5WUkcyeUktVkU?oc=5",
-          "timestamp": "10:28:00Z",
+          "title": "U.S. Crude Oil Stockpiles Post Unexpected Build - WSJ",
+          "desc": "U.S. Crude Oil Stockpiles Post Unexpected Build&nbsp;&nbsp;WSJ",
+          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQOUg3NXFscHNvUUVUalowcWxsU2k2YnlnVG5YX2tfNUNvTEg4SUZiWFl4T1VaT3RsVU1QLUp6a0NuQ3djQmdwQ3lYcmlNZ2ZNdTVaSGRhUGpqYzEySXJIaW9UeU93ZU9RRjM5SDBFU1NfdWV4S1pLcFYwMjRIbVp5dVlrekFqYVV0STdoQS1TT0FXQ1pFdHYyOHdOMA?oc=5",
+          "timestamp": "15:42:00Z",
           "source": "WSJ",
+          "sentiment_score": 0.0
+        },
+        {
+          "title": "Current price of oil as of September 23, 2026 - Fortune",
+          "desc": "Current price of oil as of September 23, 2026&nbsp;&nbsp;Fortune",
+          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9MQlhZYnZHNkNsc0k4M3R2RGZISkJQcWtjM0ZRMms4ODVvdlQ4RlhqQ290Y0dCcm1YSV9ZaUxmOHMzYlNyQzFKT0ZsbnROazVGc1REVVc0WEFkZ01WYUpoS3JR?oc=5",
+          "timestamp": "14:00:00Z",
+          "source": "Fortune",
+          "sentiment_score": 0.0
+        },
+        {
+          "title": "South Korea plans to cut its reliance on Middle East crude oil imports to 50% by 2035 - Reuters",
+          "desc": "South Korea plans to cut its reliance on Middle East crude oil imports to 50% by 2035&nbsp;&nbsp;Reuters",
+          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQeE55dDdROVIwdjhlcVFjWnRFQmx0T3pxNldiUkE1eklicGwtRlFGMEljOFoxT01rMVdURzhrTlhCV3NxNnFpSGdSQUROSUROUjVRX3d1R0ZPSDh3RHFBNE1FV21oR0ZpU0pYbXNCRmotM2hna09KT24wX0ljWl8yS2dEU05wUVJSbjNQck04MzR5blJmamxSSVlzZFdWNUZNeVRxODBsbldaaVE4cFItSDY0eFFKYkJYbmRoUFQxX0dxaVlpSUE?oc=5",
+          "timestamp": "00:49:43Z",
+          "source": "Reuters",
           "sentiment_score": 0.0
         },
         {
@@ -123,27 +139,11 @@
           "sentiment_score": 0.0
         },
         {
-          "title": "Current price of oil as of September 22, 2026 - fortune.com",
-          "desc": "Current price of oil as of September 22, 2026&nbsp;&nbsp;fortune.com",
-          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9PVEJETFRsb1ZTMG1IRDhLM1hMZGxRbzBiaHZ3TTEzUVpSR2xSdGtVRm9yWTZ0aFpwTVFSd2JYbDY1M1ZtYk5hZkZTcUo4MmIxNVJfd20xaGM0bUUzWEpBYklB?oc=5",
-          "timestamp": "13:33:29Z",
-          "source": "fortune.com",
-          "sentiment_score": 0.0
-        },
-        {
-          "title": "Saudi crude oil exports hit four-month high in July, data shows - Reuters",
-          "desc": "Saudi crude oil exports hit four-month high in July, data shows&nbsp;&nbsp;Reuters",
-          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPR2gwV3N1aks0MUxSbmFGLVVEcEMyaTNfc0RBRGc4SjROTW0zOWhDS2thTEhkYmU0MGJPMlBuV3Zicmt4Z0x2MGp2ZGRXSzlUZDNqRVBJUExDYk5pVWZNYmdsRkFwcVRJRklDbFY4SURQSlE3WEZBY0R1S1d5X0FKRVAxYzZTZnAtaFFWd3luUjQxRGpsZkFublJPcEpDeDhKM2xxQWs1eFdxOURfZVRPXw?oc=5",
-          "timestamp": "12:51:46Z",
-          "source": "Reuters",
-          "sentiment_score": 0.0
-        },
-        {
-          "title": "Big Oil's Production Keeps Soaring Despite Deep Spending Cuts - Crude Oil Prices Today | OilPrice.com",
-          "desc": "Big Oil's Production Keeps Soaring Despite Deep Spending Cuts&nbsp;&nbsp;Crude Oil Prices Today | OilPrice.com",
-          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNVm9iSGNTbEFDVkd0OFRiR1k2VjRNZVRTaFlGalFFa2hQanV6VjZ5RlJjVkwxUGZTVWJJV1JVUWZJSzUyNFNtY01OYWh4ejN2Q2luSTdaUUxVMlVfQm40NTFObENjNFcwX0ptLU5MaXFGQk1vWUdnSXZ0enBoTkZrSF8zQlZjZVl3NWJRSGNKSWhHMEtQbl8tc0ZlQ2dYTUpwZnB2ckFn0gGrAUFVX3lxTE9nd3JMRGFfcDFmekl0NW9PQklPSjQyMmdjRlVoVzMxT2V3bWlGY1doZWx6WjlUeW1PNEx5Rm9RWTR0ZFFQLXhJV0pKcFNrT2R5WkdhZlBFeTJENWFPeW03RnFJMGp0Z2ZmOXJyYTgtcHJudmlnVmdpSUN1T1ZiSFZIOGpNZ1ZlQTNyMklVYk9lVkMwd0w4V0VFdzRVQzNnWmV3b3VvVUFrMUlwMA?oc=5",
-          "timestamp": "23:00:00Z",
-          "source": "Crude Oil Prices Today | OilPrice.com",
+          "title": "Why diesel prices are rising more than crude oil - Yahoo Finance",
+          "desc": "Why diesel prices are rising more than crude oil&nbsp;&nbsp;Yahoo Finance",
+          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPb3pDYzdQbm9LV2EweXJFRU1BUWFVaWdHTTdvRDNlaDJGYXNCbTJMU3AtVzdSZGRCdTIxYzRmMlhpQ3RUVVBRdkZfSTk5RGJZNThHMTRPcGlzRExzRzRBcHM5c1JMUXpyZDdPYVZTdll4aVo0TTdMOWpEVl92WU1CdWxEWjRGTkdya2ExX1NjWQ?oc=5",
+          "timestamp": "13:36:30Z",
+          "source": "Yahoo Finance",
           "sentiment_score": 0.0
         }
       ]
@@ -156,43 +156,43 @@
       },
       "items": [
         {
-          "title": "What is an \"AI swarm,\" and why is it giving tech experts nightmares? - CBS News",
-          "desc": "What is an \"AI swarm,\" and why is it giving tech experts nightmares?&nbsp;&nbsp;CBS News",
-          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1lYUNiREo5MnhMdzN0d2pndHZteUh2aDBMNDZoanpLYkV2QjdUTkRLTnh6R1VhdmxGNGYxNklRN1NMMzFlLWc4YXlnM2Q5Q1hxY3FuT0hzU2VGS29GdVZ3VTh2cmh1ZWVHSEFhUHk3Z1RGV2pQWUtkbA?oc=5",
-          "timestamp": "09:00:00Z",
-          "source": "CBS News",
+          "title": "AI leaders warn UN of security risks as systems grow more powerful - Reuters",
+          "desc": "AI leaders warn UN of security risks as systems grow more powerful&nbsp;&nbsp;Reuters",
+          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOazV6Q242LXE0TVZZRV9wcXl4UmJlMHp2ZHMtX0h4RGlPeGlUbkhGQklJTDhuN0FKaFdzUUs3cS0zN1ZsTVR1Mk51M190NFFuVjdZekJVSjlXMXpuaDAwVGVaSl9LbnpKMWlmMG1YaUVOQ3lqTXl4ck5nZm94RlMxaFA2N091TUxyNWJCSkpLOER1TDAtRF94TWZ6NVNIM01lcWxvOUJaWTVHYUZ3WlJjSm16WWtUSldqcHdWOFNR?oc=5",
+          "timestamp": "20:11:10Z",
+          "source": "Reuters",
           "sentiment_score": 0.0
         },
         {
-          "title": "Are A.I. Models Being Misled to Act Too Human? - The New York Times",
-          "desc": "Are A.I. Models Being Misled to Act Too Human?&nbsp;&nbsp;The New York Times",
-          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPTFJXZzhtdnhvdXFTX1FVdWlQYnpvbTlMZ0xScVBCbEQybUNzWDdrd0txeGw5VTNOS1VwT2VrbU5yU0pOWW5sNnFNVGVudktWY3prVERMTWF0VUJTS2RoNFRKVl9DUVFIRUxfSzQtYkk3STlSSFBBR2hoVkQtbUUtbTJzM1pmWWpw?oc=5",
-          "timestamp": "17:00:07Z",
+          "title": "‘I miss old Google’: readers tell us how they search the internet in the age of AI - The Guardian",
+          "desc": "‘I miss old Google’: readers tell us how they search the internet in the age of AI&nbsp;&nbsp;The Guardian",
+          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOWWdSb1hpU0xoMnlfOGNUb0liaXc2WjFFM2JDVEl5QmZFSlRlV0FIVHo4Q1RtenVHZWRnMS0zZFMyN200N0hQWDByMk1ES01pMzFweVF6VEpuSDBrTUY3ZW9rSUR0UDBMSkZmSEZsVzBWdjN5MFdTQnl5bmlnS1BGenJHa0FzUUVTOURtYjVtakhLZ25Dcmd0WU92SjkyRHl1LXV6U3lR?oc=5",
+          "timestamp": "19:59:00Z",
+          "source": "The Guardian",
+          "sentiment_score": 0.0
+        },
+        {
+          "title": "Don’t be fooled by this summer of AI hype - MIT Technology Review",
+          "desc": "Don’t be fooled by this summer of AI hype&nbsp;&nbsp;MIT Technology Review",
+          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOalMwd0FqRGVxX01sTWdkVXpUOFF1ZDN0dWpIaXNHRFlzYTVZSFdpcVlVRzY3XzV6ZWctZmk3LVM3b0o0dFJpdldJQ0l2a1ZaUldLcUo5NzV0SXpnajYtbDctYTFVenJRM2xFb0hsWm5wbG1xUzRDczNhbTJDaVVRdnQ5Z0tTNmI5MXfSAY8BQVVfeXFMT2xqNWpqRWsxS2d5b3dXTk13SFJnS0tSdDhoNmM5VlZObmpIcXd1bjNuWERhVS04TS1iM3NyWUF2czZfbjRkTXB5MkI4aU92WEI3QU5HSm4zMTZOOTdWYmJTWWhtNF93S2xndmo0MUhmUkNjSjVjVDBmMHFUT240UW84bkNNeUo2N0JSdUp2b00?oc=5",
+          "timestamp": "11:04:51Z",
+          "source": "MIT Technology Review",
+          "sentiment_score": 0.0
+        },
+        {
+          "title": "The A.I. Party House Where Networking Has a Dark Side - The New York Times",
+          "desc": "The A.I. Party House Where Networking Has a Dark Side&nbsp;&nbsp;The New York Times",
+          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9UVVh3cG10S1Q4enl4MDFMZmgxTkYzdUtqWnZfeVZzS0hLcFRXVmt5cFd0Ym1mZmZHUURyell1bEUzOS1oYjlQWUZ4bmFWaHpQU0V3NHZfX1VRUTVqQmUzTEk5NXE4VFlhbG5NNjBLZzZGUWpoWG9MYUhkMA?oc=5",
+          "timestamp": "07:00:00Z",
           "source": "The New York Times",
           "sentiment_score": 0.0
         },
         {
-          "title": "Trump says US will form 'AI Force' and appoint an artificial intelligence tsar - BBC",
-          "desc": "Trump says US will form 'AI Force' and appoint an artificial intelligence tsar&nbsp;&nbsp;BBC",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5EY3VnMXl3UWxCSEdXd19kVUx1UDAzdS0xY2RrdFh6NWRINDRXb29xNjdPLW5CMDRQbE9TdHMtMXY4MC1yb01kcHpwSlNLQVI0TndKaVM1Q2xFWmM?oc=5",
-          "timestamp": "21:01:56Z",
-          "source": "BBC",
-          "sentiment_score": 0.0
-        },
-        {
-          "title": "Trump says he’s renaming AI to ‘super intelligence’ - The Washington Post",
-          "desc": "Trump says he’s renaming AI to ‘super intelligence’&nbsp;&nbsp;The Washington Post",
-          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQckMxTlUwUEdVMk5jNEVzdGt3aS1FUHhwS2JwQThYLWNHaUpCbnI1T1dLcWxxVXkzTVlOVkwwbEE5S3UyYmhXbHBjYWkza0x2TTZ0ZEFoMWVNaHRuaWNwLWpmT2JzY09nY3pybDlzbGlNR3YtTGpaMC1LaDQxdWdZR2ZwQmxtaGUwSk5iRjYxRlBFTXNvUnVXWHgwY18xV3py?oc=5",
-          "timestamp": "21:02:22Z",
-          "source": "The Washington Post",
-          "sentiment_score": 0.0
-        },
-        {
-          "title": "Trump says he’s creating an AI force and appointing a czar amid concerns over the rapidly developing tech - NBC News",
-          "desc": "Trump says he’s creating an AI force and appointing a czar amid concerns over the rapidly developing tech&nbsp;&nbsp;NBC News",
-          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOLWpMdlgxOFkzTjJRSld4OE1Xb2JZY1ZDdjFGSC1vUFctZTR2cUtSdDJEWU53YVcyeE1abkNIWndBcHJVaVB2VjhVY09KanpZUm1TUjVZeV9mSHNvWFJFakhCZ3RQQl9FNWNQUmtpN1FXMWNFSTZxNWxMXzBmaTZyV1FSN3BucTh6eE5Dd1VxRllMX05WQlZiaWZHeVp1TGZyQzRMaUQyRGVQZU1LeHhKSnpB?oc=5",
-          "timestamp": "19:20:44Z",
-          "source": "NBC News",
+          "title": "Prince Harry warns AI chatbots can be more dangerous than social media for the young - ABC News - Breaking News, Latest News and Videos",
+          "desc": "Prince Harry warns AI chatbots can be more dangerous than social media for the young&nbsp;&nbsp;ABC News - Breaking News, Latest News and Videos",
+          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOdnV5UDN6QTRmeVpnQVhDWlZQdjJjLVAyUGNyVXJ2RDg5eGVNUS1FOG80U0RqQk13VlJVYjQ1UlF4a0o5ZHlTajBXNTlUdUJHMloxcVAxdXpXelhNWFZzMC1QMkprVFdmbEoyVVNud3dneTZWTHEwdDczQy1vNFNVckw1ZWswWm9SaUdVeno1aTBYeXdlbjN3dEozRGlwVEplemlXMDItMNIBrAFBVV95cUxOajFfUWMtSUxtRTBkUEVHMFpWNkwxVm9aMFZybHhMOWRqNmpUcWRIWTVvVmpQOFhNdzBiUHhBREU4b1ZRYTFNMFROdElaMk1hbUpVWEliSFFXdGppWlBjRFZ4R1l4aHI5OE9PM3dPcjNBM3NIcjhHOTZScHFzNVhmeGdDOWpqUUhMTThnQWlNOUpncC1vNC1hWnVCY29IRDhiTnRtRWlhMEpscDRF?oc=5",
+          "timestamp": "16:01:15Z",
+          "source": "ABC News - Breaking News, Latest News and Videos",
           "sentiment_score": 0.0
         }
       ]
@@ -205,6 +205,22 @@
       },
       "items": [
         {
+          "title": "JPMorgan Drops 3.8% as $2.6 Billion AI Deal Meets Geopolitics - Yahoo Finance",
+          "desc": "JPMorgan Drops 3.8% as $2.6 Billion AI Deal Meets Geopolitics&nbsp;&nbsp;Yahoo Finance",
+          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNQ3hWeUcweGw1R2xrS0E2c21sVVR4aFl1Xy1GZHRhY3lfVGdKSGNyNVFaaWZlcVYyUERTbTNYcjgzZXhjcXYwak5jT0VlME1UOFhtQktINXhGZ1FnQi1NOEpyVmRiM0R1NTQ1MEdWM0JITERnTHMzUzZwVHhCMkxXc296ZW1nd0JONWNmQQ?oc=5",
+          "timestamp": "22:32:04Z",
+          "source": "Yahoo Finance",
+          "sentiment_score": 0.0
+        },
+        {
+          "title": "BofA warns of uneven risks in China’s expanding AI stock universe - South China Morning Post",
+          "desc": "BofA warns of uneven risks in China’s expanding AI stock universe&nbsp;&nbsp;South China Morning Post",
+          "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNNTJsSHFDdWszRXBmcEQ2aXNBX1Vtd0lLSE52azAtRVQ4QXc2eS1PZENBaS1SMUM4VmU1VUZYejVZcjgxWjRSTUZIbFNyREJuX09LYkN6bHJDMkFLZEpXRHR6U3l0SjVFQXhxcmotbVNsQ1pGbXJqdG50dEVUcFg4aFk0cDg5cjJWME05UE5zVnNPYTN1QklPQmdHZ1NVendpcG5GdDZ2SGxnaF8tUmNObmZqVHEyb0dJSEdiS0tnTm9jbDlycHhLVUxpaVBrbGg0ZThINmNfczlUWm56b3fSAd4BQVVfeXFMUFZFOC02czF4M0NrTzNvYjZrY1NPSDFWa3I1RHdia05MRURpS21sVTFsRy00dTg4RWVCWHBpbEpDYnpkZGZtUDZYazlYcTRscGlFdDB0cV93UXlTTXI1aW1INldNX1UxYWxHaU01TmhVYTRnbWgzYmRhd0w1NHd5NFdveTNtOG9IQXlXMEQ4eDdMZzV0WG5UNzYyVUJkYTRMdkNmeHdEQ21PY0NQcVZXb1VrV0dwNVNiV1BMb1dBbm5Wd2xJMmctdGJ3aklrQlYxM3dnX185STlLaWxEa2ln?oc=5",
+          "timestamp": "00:00:21Z",
+          "source": "South China Morning Post",
+          "sentiment_score": 0.0
+        },
+        {
           "title": "In Poland, an Intimate Understanding of Reality - Geopolitical Futures",
           "desc": "In Poland, an Intimate Understanding of Reality&nbsp;&nbsp;Geopolitical Futures",
           "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQbDJVLW55TjY0d291aDVDejd5VEZvSHJpZkFEV3Y5c2tEZkhQRGRIc1JRb3k0QWhxdVFITHFLWkZfR0J5ZmNfWTN4NXFnMGNmNXM2RE5QZTJYTUp6aEMtU1VKMm5sbTZYSVFpRWFPS2ZRM2pyRDM1M0VTSjJETTZ4ZG01VmtBdw?oc=5",
@@ -213,35 +229,19 @@
           "sentiment_score": 0.0
         },
         {
-          "title": "SA analyst: Geopolitics takes center stage as market risks rise - Seeking Alpha",
-          "desc": "SA analyst: Geopolitics takes center stage as market risks rise&nbsp;&nbsp;Seeking Alpha",
-          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNSWpBQ2ZSbVo0NGZuR19xMFdPaUJUdlhQUHVnUFZEWi1pVEFfYU9sNTh4X2U2NW1nZWxvUEJPWlFUMVRzTXFSSEhxdktkQ1RLOWxWQkJlWjh6WTVIUnMzTU01V0FjTGlwMUNKRWVnTUpyWUpuUjZnYlBlbkl2SE5qMHBmS0UwbVdPRE1XVTNKc0VLS3d4NTVXN0NIQ2x1ZldSTHc?oc=5",
-          "timestamp": "20:03:41Z",
-          "source": "Seeking Alpha",
+          "title": "Stocks Pull Back as Geopolitics Take Center Stage - barrons.com",
+          "desc": "Stocks Pull Back as Geopolitics Take Center Stage&nbsp;&nbsp;barrons.com",
+          "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNcmNHbFcxRzFVY0xNQzRxY3U1bDlPTWJrWENlNkpiQlFaM3UzdlFjbTRfcVNPQ2pHQTZmY0RHQkVMZ01YaHZDMnZVdU1Ub3Q1akJDRXJ1X21EQk1JS1JpZk15N0RaOXF3TjFsUEo2c1VfNTNCMlRZYXg4RG96RGVCcjhNSzQ0eUgzRDBrZzUxZHZiQ1cxYUJxblpIbGxrSlMtYmEyZklReHF0LW1zek4xRHp5R0xodHk5Tl82Ykd1c2dXVVpvc0VZazNRQUhtME9uVGNjbDVabkdEQVowWkxlVVZ4ZHFuLTdRYzJ5Skc1Q1RsR3ZFYUNJdnRB?oc=5",
+          "timestamp": "13:32:00Z",
+          "source": "barrons.com",
           "sentiment_score": 0.0
         },
         {
-          "title": "Gold Price Forecast: XAU/USD feeling the heat as geopolitics is back in play - FXStreet",
-          "desc": "Gold Price Forecast: XAU/USD feeling the heat as geopolitics is back in play&nbsp;&nbsp;FXStreet",
-          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQdllWM3pKdldZTTcyRFdWdm9DLUFmOE12enNaUXA2eVFWVWFZbnVOYS1nSWFvM2Q5OEl6eExlWGRDMkNWS0hVcnNxTGFWUzRMRVlLMzBqYW9nRmE1by1RY3ltcVdlOEk2dUk3VVUtSE5hOWJNQXZ0dXJsQ0l6WENES0dxRlFCRTR4RTFHeG52WnVoRWZqeEJYTWZqOHJGZDA0cGZGRldqbDRoaXRKaHpTV0o4emNSZUNRandLeXBFMA?oc=5",
-          "timestamp": "03:21:18Z",
-          "source": "FXStreet",
-          "sentiment_score": 0.0
-        },
-        {
-          "title": "Stock market shrugs off geopolitical risk as UBS says drawdowns are short-lived: Chart of the Day - Yahoo Finance",
-          "desc": "Stock market shrugs off geopolitical risk as UBS says drawdowns are short-lived: Chart of the Day&nbsp;&nbsp;Yahoo Finance",
-          "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNOXlIMVJuWElMNnFsUGpMYW01eVd0UUVTRlhfOUJEVWdfazRQUnRWdWVSeV9lT0lYWFlyYzhPaVFxanF4Sl91czg3TGtwbE9hd1VEQnhhemRnZ0tqS2R5cFNqTkxzTUxtV0c1YVNaZm5CRkcydWZjSXg4NUQ2aUo2cWYyTmxoeW14aGszWDJPWmJGcFIwWkhyTkEtSFFUZ2hubVNXNTdydHpwZTc1bDlxYWZtUHpmXzh3M3Voa2VQdUJ1M0h5V3Zqb193OElDVTlZVEp0Q1VRU1FvMXFkXzlOd3Rnb1diR29S?oc=5",
-          "timestamp": "12:07:18Z",
-          "source": "Yahoo Finance",
-          "sentiment_score": 0.0
-        },
-        {
-          "title": "Commercial Ships Must Not Become Targets Of Geopolitical Tensions, India Says - Marine Insight",
-          "desc": "Commercial Ships Must Not Become Targets Of Geopolitical Tensions, India Says&nbsp;&nbsp;Marine Insight",
-          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPMjRKSmFTSDhtMENLSi1BNkhHWXBSanRjUGJ4dDdfMzRiSEp3VlJkRTlsaDFLT2RXNWc0aFdLZjNycWNLTEs5VGxEdGpfVnBobWItb1NtSlNpejlPdlYxZ1JFaW1tREp2TTIzSlZPLUpPbm91WDI2NU9PelRDSWZyTFQwaTQ2RGlyTWh3MDEtNjV6cmx2dmFOdWdaNWJ3bFMxS05BSUlGLWVHV0U?oc=5",
-          "timestamp": "13:26:11Z",
-          "source": "Marine Insight",
+          "title": "How India’s Geopolitical Position Would Improve With Better China Ties - The Diplomat – Asia-Pacific Current Affairs Magazine",
+          "desc": "How India’s Geopolitical Position Would Improve With Better China Ties&nbsp;&nbsp;The Diplomat – Asia-Pacific Current Affairs Magazine",
+          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOVGQtaFlwVktQQTJmTG90UFBLS2xVMVBJUVp1eFY1OGZlM2gtemtEZlFNaTNQaE5nU1dienh0ZllBWl9ad01Qa2JVV3ItVms5ZTlpUWJyZGxCbWtTOVlHVDFzdjR3T0VLX2hlbnZMejhEcHRUZi0yQW11cUsyUFNTNDl2NzU1R3Ftdkg1Ty1wWXNjRGgxUjk4bW1JdEYtOFV6azZUOA?oc=5",
+          "timestamp": "12:45:48Z",
+          "source": "The Diplomat – Asia-Pacific Current Affairs Magazine",
           "sentiment_score": 0.0
         }
       ]
