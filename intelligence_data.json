@@ -1,34 +1,34 @@
 {
   "report_metadata": {
     "version": "2.0",
-    "last_updated": "2026-10-03T06:00:05.346988",
-    "report_date": "2026-10-03",
+    "last_updated": "2026-10-04T06:00:06.125876",
+    "report_date": "2026-10-04",
     "title": "AURORA | 战略情报简报"
   },
   "prices": [
     {
       "name": "黄金 XAU/USD",
-      "price": "4,172.10",
-      "change": "-0.72%",
+      "price": "4,162.30",
+      "change": "-0.95%",
       "up": false
     },
     {
       "name": "白银 XAG/USD",
-      "price": "60.71",
-      "change": "-0.02%",
+      "price": "59.98",
+      "change": "-1.23%",
       "up": false
     },
     {
       "name": "WTI 原油",
-      "price": "91.26",
-      "change": "-1.73%",
+      "price": "91.11",
+      "change": "-1.90%",
       "up": false
     },
     {
       "name": "布伦特 Brent",
-      "price": "102.70",
-      "change": "+0.38%",
-      "up": true
+      "price": "102.25",
+      "change": "-0.06%",
+      "up": false
     },
     {
       "name": "英伟达 NVDA",
@@ -38,13 +38,13 @@
     },
     {
       "name": "比特币 BTC",
-      "price": "84,514.02",
-      "change": "-0.40%",
-      "up": false
+      "price": "84,708.58",
+      "change": "+0.25%",
+      "up": true
     },
     {
       "name": "美元指数 DXY",
-      "price": "101.92",
+      "price": "101.93",
       "change": "-0.17%",
       "up": false
     }
@@ -54,47 +54,47 @@
       "title": "贵金属情报（黄金/白银）",
       "game_theory": {
         "bull_drivers": "地缘政治溢价走高 (中东局势升级)",
-        "bear_drivers": "美债收益率上升施压黄金"
+        "bear_drivers": "美元指数强势表现 & 美债实际收益率高企对无息资产形成挤压"
       },
       "items": [
         {
-          "title": "Gold Falls to Seven-Week Low as Rate-Hike Bets Rise - WSJ",
-          "desc": "Gold Falls to Seven-Week Low as Rate-Hike Bets Rise&nbsp;&nbsp;WSJ",
+          "title": "Lundin Gold 着眼于 Fruta del Norte 扩建以维持 500,000 盎司产量 - Finance.yahoo.com",
+          "desc": "Lundin Gold 关注 Fruta del Norte 扩建以维持 500,000 盎司产量  finance.yahoo.com",
+          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNeXFhT3FQWndqTXlJZi1yUGUtZTNSZjgwX2dXNUZvQ1dCQjFkZFBldGFnUklrVGFfUzVpTkJBU1dkaGFwQWxHdG1PdXRjTnlmZnY4QjVXQ3dvZ2g5VlBQZlIzOFFrME9peExkU1o3RmJLTEFsTnJLcEVpMWZ2M1JoQlFEWnlKcW9NSnlNOF85NWNnMXB1WlRvZXJCQ2o?oc=5",
+          "timestamp": "19:02:09Z",
+          "source": "finance.yahoo.com",
+          "sentiment_score": 0.0
+        },
+        {
+          "title": "随着加息押注增加，金价跌至七周低点 - 华尔街日报",
+          "desc": "随着加息押注增加，金价跌至七周低点 华尔街日报",
           "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNTkJEQ1paQ1RWNGhOV1hmMEMxZFA4R0tfT3phbTZXcWpSY2FreW5CaXY2QWx6UTdqNkthRVVEcXNtRFRDWHVDV01OWHhUTkI4eGFBV25sVktEQ2dRNkxoLWlwN21XLXhpZk8wSjdQaHFFVXh2SHBMLWZFWEZueTFYczIwYnMxdXF3VzVYLVdWM1J3dEszdWhid2ZTYXptWG9ENWhSY2tGUnZScDZW?oc=5",
-          "timestamp": "12:09:09Z",
+          "timestamp": "11:32:00Z",
           "source": "WSJ",
           "sentiment_score": 0.0
         },
         {
-          "title": "Bond Selloff Pressures Gold; Soft Jobs Data Offers a Reprieve - Yahoo Finance",
-          "desc": "Bond Selloff Pressures Gold; Soft Jobs Data Offers a Reprieve&nbsp;&nbsp;Yahoo Finance",
-          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQU2lrZXphNHNLcVpyMGpLSHByb1JQUVI4NkpkVzJaR0poSjU5SlVtN2hvdlpGSk1UTm9yRFFfYjhoclNoeS1mdzlfOUxjbnN0Znh5WUFIREItQUlxVENPNE4tdGVhNXVtcVo5Q3ZjX1ZvQ2pJOXhkZ3BHNnVGU0gxQ19YLUdKWmNkSkRLVWQ3UXlPUVEyZmUxd21SeHd4QnN6RjNuYg?oc=5",
-          "timestamp": "17:33:47Z",
-          "source": "Yahoo Finance",
-          "sentiment_score": 0.0
+          "title": "黄金特许权使用费：到 2030 年产量将增长 6 倍 (NYSE:GROY) - Seeking Alpha",
+          "desc": "黄金特许权使用费：到 2030 年产量将增长 6 倍（纽约证券交易所代码：GROY）寻求 Alpha",
+          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOaW5MZHQ3WnVTRC1LS1A2Yy0tblAzTV9Pc2ZLd0NpdkhVNlkyLVlEQmh1d1YzZEhmaDBnak1GaFNVaHp1d0sxa01faDVod21hV3hmVm1GYzZMOXRTdkJuS1pSQ1ZVLTd5RTZKQkZWbTVxdlFETDVVMVAwZmMzc09BcG41ZjZ4R09JSmc?oc=5",
+          "timestamp": "09:55:35Z",
+          "source": "Seeking Alpha",
+          "sentiment_score": 0.5
         },
         {
-          "title": "Gold advances after softer-than-expected U.S. jobs data - Investing.com",
-          "desc": "Gold advances after softer-than-expected U.S. jobs data&nbsp;&nbsp;Investing.com",
+          "title": "美元飙升、国债暴跌，黄金六周第五周下跌 - Investing.com",
+          "desc": "由于美元飙升、国债暴跌，金价将在六周中第五周下跌 Investing.com",
           "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNVkY5eF92bW5DcVVqQ1luQXpSZFBJdXoxZlJ5bmVfcW8zSlFnRy1zN2pDU1R2clBEc3JuSnNLeGM1WjNRZmk5Q3M5UGpBQUc2VlA4LWZtWmZXUHEtbXNOamlyRUpsbGF5MlNUU3ZhNm5nMEFuMkJvTk96RkZqdzhiT0FHQ2JKSDYydGM0RkhsaUxmOFZvQnNuck52R0JVS1Q1WlBXZTctTG9RTjFSY0V4TEV0a21IR29neGt0SlhiMXUzVTJvNTRkbg?oc=5",
-          "timestamp": "14:29:16Z",
+          "timestamp": "23:51:42Z",
           "source": "Investing.com",
           "sentiment_score": 0.0
         },
         {
-          "title": "Gold ETFs Keep the Bid, but Investors Miss This Key Seasonality Pattern - Benzinga",
-          "desc": "Gold ETFs Keep the Bid, but Investors Miss This Key Seasonality Pattern&nbsp;&nbsp;Benzinga",
-          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNdHFVem9BUnVyQXFzU0NsazFpdm85YWdkTGlpU3RFWGdkMXNHNFNRU2hiRWcxUS1TcTQ0UnRBUlR0Uld5SWphNU5CWVBXLU8xMTdGaWRLMmlwOEVPTzlDTVBYa1hOUlFhTFVLVG51d29ha3R5NDd5ZDg3S1k0MGJqWFFDaVNEbnJOTUlHeU8tLXJEcU1QZGVSWjNia2Z0bXV0di1CS3lNU2N5VWlOMER6TUE0eW9HTGZRTlhtNExpTkdFb0k4M2o2cDRn?oc=5",
-          "timestamp": "10:32:41Z",
-          "source": "Benzinga",
-          "sentiment_score": 0.0
-        },
-        {
-          "title": "Gold finds support as dovish Fed comments signal low appetite for tightening - investingLive",
-          "desc": "Gold finds support as dovish Fed comments signal low appetite for tightening&nbsp;&nbsp;investingLive",
-          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPZTV5aFNLM0VKUktxRS0yMVBNd3EwaE9JM0xrSFAteGp3bUd5bzFySWhGSVluRVpabzRuT0JFOF9iVUFqVFhmZ25ndWFIQTQ0ZWlkNEdFcmlfSXhmeWtDT1NmT1ExMGROUGdOUUhiSFhMOGFQbFRGVVBPbmR4S3JGSjFSbmJNRXZfTHMxSWJGM2VLcTR2cUFSaHgwM0xUMkthVVlXdjAtU2U3UUdkUlo5cWpVQjd5QQ?oc=5",
-          "timestamp": "08:25:13Z",
-          "source": "investingLive",
+          "title": "黄金：最有效的商品投资 – 2026 年版 - 世界黄金协会",
+          "desc": "Gold: The most effective commodity investment − 2026 edition&nbsp;&nbsp;World Gold Council",
+          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNRUdDWWxtMlpzTUU3Ylg1MnkxYlByVGpTdGZON1ZOTjVrUkxZZW9HaklRbkFwa1licnFvaDl1WXJFWmFVVE9OT1hEZkU1Y1hFeEdISHk1WnlOdGZ2YmdRWVBHX3pnN3NjaTdzcjVQRHZsUTRTNzJIY083WmMtTXNRbnRDbWJmclJ5SUtHam16UFdIcndpS2c?oc=5",
+          "timestamp": "07:00:00Z",
+          "source": "World Gold Council",
           "sentiment_score": 0.0
         }
       ]
@@ -107,43 +107,43 @@
       },
       "items": [
         {
-          "title": "U.S. Crude Oil Stockpiles Jump - WSJ",
-          "desc": "U.S. Crude Oil Stockpiles Jump&nbsp;&nbsp;WSJ",
-          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQOHZWeUtKVmhtVkpZT1p1ekRleGRvU1hRdVV2azFoQ096Wnc0Z2pyWFZJYjNBTmh3NVZZaHRabXdZaE1kUHJsZUtPVXZDRFZ3UVBUM0dJRHMwc2xuellicHpiT3UzTDRjaWVocDZKTXd5NzFiVWlHbG8tMzhzNWRNSjhiV0o?oc=5",
-          "timestamp": "15:27:00Z",
+          "title": "七国集团同意释放 1 亿桶柴油和原油 - 华尔街日报",
+          "desc": "G-7 Agrees to Release 100 Million Barrels of Diesel and Crude&nbsp;&nbsp;WSJ",
+          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNNmctbDFWcjNwNy1XUGFrNU5GM1FJS3pKR0Ztb2JGQTBtQWJEMkRpbHk1b2ZkOEJkZUJub3FjV1hLVS1CYl9iUFNkMTI2RHN1MUZVS3FVa29zUjVzeUN5U0NtMEpLVGlCT3ZZLXpCTUFWQ0VDelBsV2lHaGdZMmpNTzhNMEs4OHBaRm94WVJDMUx6WmhRb2YyWGpDMklYYThSbU9LeDJrUE9tQXVCSFhqdVZqZGZFSWs?oc=5",
+          "timestamp": "23:18:00Z",
           "source": "WSJ",
           "sentiment_score": 0.0
         },
         {
-          "title": "China Resumes Curbs on Fuel Exports, Tightening Global Energy Markets - The New York Times",
-          "desc": "China Resumes Curbs on Fuel Exports, Tightening Global Energy Markets&nbsp;&nbsp;The New York Times",
+          "title": "UKMTO称，阿曼附近的原油轮被不明弹丸击中 - 路透中文网",
+          "desc": "UKMTO 称，阿曼附近的原油轮被不明弹丸击中 路透",
+          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQWmh6LU5XZFg0NGU2MUxjNUVHc3lBd0lYMy1LNW81NU9TY0pQM051NVdWX1otZ181NDZYSWtXb2txc2RVbmVIMC1wTTFLVWVYN0ZZUGY1VmdRSFBNZDlGZ2NyeExDSEhWaEVsSHRtY0tGQWxrU1NXay1GS3ZxUExLWlRCRUMxNGx0NHhJbTBwOTRJaUx1amQxVXFqWEtETTF5eVNGZ2xHSWt6aUdycTJ5YjJQanA3bjBU?oc=5",
+          "timestamp": "23:31:28Z",
+          "source": "Reuters",
+          "sentiment_score": 0.0
+        },
+        {
+          "title": "中国恢复限制燃料出口，全球能源市场趋紧 - 纽约时报中文网",
+          "desc": "中国恢复限制燃料出口，全球能源市场趋紧 - 纽约时报中文网",
           "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQMG9mN3BIeUw3clNoaTdsYkpwdUt2YmM2QmU0aE9Nem0zTXFkUE82ZGJMSG9wRmx4N0J5Y3BlMEktMzEwLUlxTmpZRmlZRG5qVkRzbUZHaDh1YVU3TFltNFZXZEs5NjE2Z0UtSEYwQ2swR0diRTkxYjBCZF96NXlrLXhB?oc=5",
-          "timestamp": "10:56:38Z",
+          "timestamp": "11:02:13Z",
           "source": "The New York Times",
           "sentiment_score": 0.0
         },
         {
-          "title": "Oil and gas activity increases despite cost pressures, longer supplier delivery times - Federal Reserve Bank of Dallas",
-          "desc": "Oil and gas activity increases despite cost pressures, longer supplier delivery times&nbsp;&nbsp;Federal Reserve Bank of Dallas",
-          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFA3bEViaWRKem5STThFZ1J2NlhvMlE0TUZmUzY3NmhvejZJZE9WQXM3MV9PdTUycVRTeWpLX1oxTE9DM25CdnBaek81QmM5VGN1TnF4S3pvb1NiY1dzTWZYMW5NTHBSMnc?oc=5",
-          "timestamp": "19:36:37Z",
-          "source": "Federal Reserve Bank of Dallas",
+          "title": "可能导致中东战争规模扩大的五个能源市场因素 - International Crisis Group",
+          "desc": "可能导致中东战争规模扩大的五个能源市场因素 International Crisis Group",
+          "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPSE1ZdWFLMmg2Ti1JUnJZcGRGQ2FGMTlHZzJzSjNLQ1hmbTEtUnFzMXNaTmY1cWd4MXR4ekc1NFpNS3N4QTA5U21LREFuOVA0SDhxRGM2eVpSNmczeGxsSWN3eFlVdUktcHpnQnZSb3ZDa2JTMWVlbVZaOGFHLWpXYXJsMU5SQUZTMjJqN0RtWlNoX1owMlhXT3ZrMjlwbVUtNzdfODZLM2tKRmppRFBkTWp5dkhDb1Z0VUhsVzQyMDh0Q0pCMTdtdFpqTVd6RldfeV9FODlUTQ?oc=5",
+          "timestamp": "17:11:36Z",
+          "source": "International Crisis Group",
           "sentiment_score": 0.0
         },
         {
-          "title": "Iranian Oil Starts Flowing to Tajikistan Despite U.S. Sanctions Risk - Crude Oil Prices Today | OilPrice.com",
-          "desc": "Iranian Oil Starts Flowing to Tajikistan Despite U.S. Sanctions Risk&nbsp;&nbsp;Crude Oil Prices Today | OilPrice.com",
-          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPNkRSYWU1SUxvN2pWS0dKdWluZndLaDY3UU9RVUxxTFpxWFVjeE1OcDFLZVZmTXB6OERkQlFqVjJpb1otYXZodnJ1dU1kWWxFbU12UXpYMUNYajBWbXdKSW1EMUh1UnZqM1VFWUtNUU05UDFLMzV1VjNOS3RRQWMwaFR4N2JvLVVzdW0tdHhqTE8xdzIxUXI0ZXdMcjZLc3JscENHMGFyU2ZLRjI5ZU8zN2pQWlHSAboBQVVfeXFMTnY5R1VtbDhFX0p0TW9ETjMyQkhpNXNFb3Z1OV9pRjZucEdHQ0xPempFazIwOGdvUHpxTTg5cU1oMkd3ajY5TE5UTlg5aVhiYzJ0dzMySDQ4QlJrd2hETmxqb2otRTBVbTVaXzJkYWZsRnZ6Mkc1NTBReXc0bEs1ZU5vTEV5OEFlUGZrSXlxeVI0WlV6ZVJuZXpSU0ItRDBFN3I1d2pkZExyTkc3OWg3NVlESEVYX1E5NkNR?oc=5",
-          "timestamp": "19:00:00Z",
-          "source": "Crude Oil Prices Today | OilPrice.com",
-          "sentiment_score": 0.0
-        },
-        {
-          "title": "Current price of oil as of Oct. 1, 2026 - Fortune",
-          "desc": "Current price of oil as of Oct. 1, 2026&nbsp;&nbsp;Fortune",
-          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5iVmxfOHlObGEyTmFXVTY3b2ltUlBaMV9id1lTcVhSckJaUjhHSUVvcnpCNXdDWFkwMk1JWXptb0NkOXdLQzJvWHZlMUlHLUR1a0hETm02azNKQzNYUWYySnlB?oc=5",
-          "timestamp": "13:23:00Z",
-          "source": "Fortune",
+          "title": "全球供应风险支撑原油价格 - Finance.yahoo.com",
+          "desc": "全球供应风险支撑原油价格finance.yahoo.com",
+          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQa2k1RGlTM0VWYWJKUnBad1JBT1VCUFlDaFBoRzM5YWpRUUl5dGpDc1AyOVZqZ0Zub1NzY0hjTFkzV01fTXJPS252ajRYVzNvY3FhQmZidE9HNG4yWXJ2WjF1MDRtSU9mNHhiUzhqTXFrWHF1ak1KM0MyTXF0VU4xWlFUZlNmY2d6MURVUzZoNWxDb3BIQVE?oc=5",
+          "timestamp": "15:42:40Z",
+          "source": "finance.yahoo.com",
           "sentiment_score": 0.0
         }
       ]
@@ -156,43 +156,43 @@
       },
       "items": [
         {
-          "title": "Opinion | Six Charts That Show Just How Much We Need A.I. - The New York Times",
-          "desc": "Opinion | Six Charts That Show Just How Much We Need A.I.&nbsp;&nbsp;The New York Times",
+          "title": "全球科技政策制定者同意在科学领域拥抱人工智能 - NBC News",
+          "desc": "全球科技政策制定者同意在科学领域拥抱人工智能 NBC 新闻",
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQR1Z5aDNBWUxWX1NCcXQ2dXJQaTBkSS1zTF9QcUdqZ3dxQjhzaXVZYmMxYTZLTV9xM2JJLTNfTnk4VkdCTjVWNWlFQjhoN09CTkJOWERIQ01ZdE9PRUhnY3RQdGQ1WGhLZTJTS3p3X0JYVnROOFAtZC1tVl9VQWZjOTZidVpuVjBOZWpmeVQtNS1nRl9JaXRGaA?oc=5",
+          "timestamp": "13:00:41Z",
+          "source": "NBC News",
+          "sentiment_score": 0.0
+        },
+        {
+          "title": "意见 |六张图表显示我们有多少需要人工智能- 纽约时报",
+          "desc": "意见 |六张图表显示我们有多少需要人工智能  纽约时报",
           "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1SSkhYTXdSaEY0S3l0RnNFR3R4WnBtcTY0MGktR2gzRlFMV2xjRkFhS0o1b0JYZmxzdHloNHNpV3NlRTlscUp4aEtJcDVvcjRaNlk4cnRpcTdJS0dSQlpxTmxxeVB4T2pKOTdweUFOMmhfM2pa?oc=5",
           "timestamp": "09:03:53Z",
           "source": "The New York Times",
           "sentiment_score": 0.0
         },
         {
-          "title": "Opinion | This is the most powerful technology ever. Don’t fail to imagine the risk. - The Washington Post",
-          "desc": "Opinion | This is the most powerful technology ever. Don’t fail to imagine the risk.&nbsp;&nbsp;The Washington Post",
-          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPSFZNai1UazRXWUc4dzdyZmtZTkRRdHA1OUhHUFVpRjFrVHhuWVJKWlpydmI5WDdBTmlmR2pTa2ptdEZJVUgxVFpVS0U2aXdOWUJZaHdoTnBzQ1FOTERUTHZXUFRtN0dQc01wTWtXLTRHdzRHWmNPQ21KWGNhMEZUQlhZMm1kZlljejFVOFZURnlnck9rRVdiLUJVdmU1SFZf?oc=5",
-          "timestamp": "18:15:00Z",
-          "source": "The Washington Post",
+          "title": "加州男子 Greg Lui 因涉嫌向中国走私价值 3 亿美元的人工智能技术而被联邦政府逮捕 - ABC7 Los Angeles",
+          "desc": "加州男子 Greg Lui 因涉嫌向中国走私价值 3 亿美元的人工智能技术而被联邦政府逮捕 ABC7 洛杉矶",
+          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQZGZMUGF4SFhsaEYzT0hfVWtjSk4xbGthWlA5cGZLS3JvMnplNDh6X0tnSHVHZkxqRjBBLUhGSHVJYU85M18yeGFPSXlOTjVrYU9LVVZWanV0RG1iNjBvWXFyNWNYVnR2ejZ0YXlmczYwbDI5QzBBV2JZQWRKRVp2X0c0YlJ1UDBnSHRFOU10M3pWX0RsT1FfdkVicXdxSWYzWGVSSU1jeUwxM0Y0QjlrQzVJVXBCUdIBuwFBVV95cUxPYi1XTzJiLVlpT2hpZVdyTjZ4TGU5YTBYZjB3ZFlhcHRscktqek51UWMyUFdPWnZoTkc1YVNRU2hMbkRlM1hVLWpYQ0NoWjhuMGItUFQyelBzU25VQ21JQ3RIcHJyQWRsTG9QemJHbDFJaEpfQmtWMDVaWHNuX1ptWENBb1ZvVzR2NGZsMmp1MC1OM3VFakdJTXU5QXBBQlU3Y1BRUjJqSEhKNkpZdmlVLU14OHliRldqVjQw?oc=5",
+          "timestamp": "02:08:43Z",
+          "source": "ABC7 Los Angeles",
           "sentiment_score": 0.0
         },
         {
-          "title": "Don’t be fooled—LLMs don’t reason - MIT Technology Review",
-          "desc": "Don’t be fooled—LLMs don’t reason&nbsp;&nbsp;MIT Technology Review",
-          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQSVZOVnBJRFRTdktGbTR2ZEc2ckFRLWkybHg4SXFnaDloZDItSHU3WFZpWE00RF9VbnpSLVp5V2RqdUNTdW9LZzlDdmNvRFRUbXl1ZEx4WkwzejE3aEJvalpGUE9sZ3JaSTdiRVpmNmpxOUUyZkpjcno2X2ViOFZwdk9JTHgyOTJXVHhEMdIBkgFBVV95cUxOcmZ3aHQyTV9vS2Vld2t6UkkzdS16UkZGWGJvZkEzdVZQRFdtS29RVnEtVFNueFo0cHpVM19MQUltUWdoWFRWWEh0RlpFLVFqb3kxb0ZBUkVYcU5aa0dVZlMxNUdFb0lVRlJWSDhoWnozWHFvaTZTNXY4d3F0UHpfbUowaVdpSFFDbm0xc3JCYkRTdw?oc=5",
-          "timestamp": "08:00:00Z",
-          "source": "MIT Technology Review",
+          "title": "人工智能将在资金用完之前改变世界 - 路透中文网",
+          "desc": "人工智能竞相在资金用完之前改变世界 路透",
+          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNV2NqbWtDbjVfc2dZYWtJWEp3ZnI5M1o5UWhkQndYZV83T3BxTE1VeDFNclNIeUZCMnV2a1NIVXc2enlzV3lFWktoWE11NUF0RlNjTGk1c1RTSEVsUEtGUU9HZlVuRVVhQ2ZFZTU2UHBoRVozX3pJeS1vRmtoM0w5dndmWnJ2YjQxYi03TDl4X3ZQNlhWdXBfQnRsRjByYllpaXF3VlEzWVdrS28?oc=5",
+          "timestamp": "05:06:00Z",
+          "source": "Reuters",
           "sentiment_score": 0.0
         },
         {
-          "title": "Trump to name intelligence chief Jay Clayton as AI tsar: Reports - Al Jazeera",
-          "desc": "Trump to name intelligence chief Jay Clayton as AI tsar: Reports&nbsp;&nbsp;Al Jazeera",
-          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOUTRMMVlNYmFsS1RoSmVRejZ3a3E1MGp3VVBTT0dndmVQdVdiVkU5clplNUNWLU5UOWlHeWRqcUZ2WlVZYmlPbHZQaEhxbk1BSlVqMEZZSEdyOVpCYUp5U0NLU2pqSUpFTmJDMUh5Vk9USURGZzZQZzBJcllod1M5b28yNzFDZ25mVFBYaTIzNEpIenNjQ3o1atIBngFBVV95cUxOT1R1VnJxQ0VDSU41TlpEOEJ3dWhEc0hZT0tZWDFnNTRtTFhEdl91U05Idy1hc1czajdPOElUUnAwd2poTGgxR1poMDdLRUgtNUFJQlB1cC0tNWg5a3R6d1dSenZQNG0yTzQya09Bb3c1WDVuZU8yTk9PVU1oaFlqZVZlUXVZcENuM0pZSkQzUllWQ3N3XzlzeXZtbXJxdw?oc=5",
-          "timestamp": "16:14:47Z",
-          "source": "Al Jazeera",
-          "sentiment_score": 0.0
-        },
-        {
-          "title": "Experts at St. Jude, Rhodes College on AI’s promise, pitfalls - WREG.com",
-          "desc": "Experts at St. Jude, Rhodes College on AI’s promise, pitfalls&nbsp;&nbsp;WREG.com",
-          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQUzFIZlZBRUtncTZkVGxrNE1rZ0lyQWhmWG9MeHlKQmt0OVZvVm5sQ3VzN3lrTTRvRzYyRDhnT1BxcVhZakFsZVQzaUwwa2lsazdXazBqWWtjbkJ1aGNYQ0E5eHJpVDdTM2dydDJkblRkU3o2bXRVSURNYnQtOXBXdF9BaWU2N19yNFk3NUl3NmsyZTg4T3dMY0tSb9IBoAFBVV95cUxPY1VlV2RKWmI4SEx3ODFYNE5ObmxtbGpUSkJfeW4tZ0VrTEdZV0xzMHlqWklRTDFKVlZ6Z0w4eGFjSy1OdUVWNHMzdVhsWnBCVTZ3SUlaaEJsRUNMWFdwbzB4WHl5a240Q0pjekQxenM2enpQdERRUkJlM0ZnLUo5Rm5wZjdYSS1yNC1jYW1JMjlYNjVzUUtpTXlsVFRVYkVm?oc=5",
-          "timestamp": "23:00:00Z",
-          "source": "WREG.com",
+          "title": "用人工智能写作的人说，不要用人工智能写作 - theatlantic.com",
+          "desc": "使用 AI 写作的人说，不要使用 AI 写作 theatlantic.com",
+          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPc3p1VGhjX1pJckNGUUdBLXl2bktCSllpNnZBOHVHY2M0MWVmV3JOVE5ocENWcUVzSFBIZ3ZKQmJERkNyZVhrbDh3dk04c1RQck9wN01UN05CWFhJNGI0TFdLWVFraWN1UkN2OUtRM201MmYtSHhuWEhpeWx0SzVRYU1KVXZHOW9xT1pIc2dR?oc=5",
+          "timestamp": "19:21:32Z",
+          "source": "theatlantic.com",
           "sentiment_score": 0.0
         }
       ]
@@ -205,43 +205,43 @@
       },
       "items": [
         {
-          "title": "Daily Memo: Europe on Support for Ukraine, Washington on European Fuel Supplies - Geopolitical Futures",
-          "desc": "Daily Memo: Europe on Support for Ukraine, Washington on European Fuel Supplies&nbsp;&nbsp;Geopolitical Futures",
-          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNLUtMQnlfa0YzVEViaWZ2a1p6NTl5UVZQVm1DSkZHeUpIZFp6anI1M2hkNjhpTVRpUjJ5blJCTVBBSUN3cHVvUmxvZHFpRDJ1UWJrZDA5M0xzb3J1YkpmR1o3Y3ZLcGRhaHZWU0pYQklnYUVhWElGZFFKdVBkRG0ydllTYXdZQ1hqLWRnZFJBVzJISDBtaldkRXh3V1QzZ1o4X18yS2xTRTY2VS1fSmxN?oc=5",
-          "timestamp": "15:01:03Z",
-          "source": "Geopolitical Futures",
+          "title": "威廉·塞拉菲诺：“加拉加斯和华盛顿共同治理委内瑞拉” - 委内瑞拉分析",
+          "desc": "威廉·塞拉菲诺：“加拉加斯和华盛顿共同治理委内瑞拉”",
+          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQcDFKaDRtZXIzN1JTQi1YZjhnZk5NTGdiX01od1BycnhEbER3aEVsVW5iT0VJV0lFdXpGWnB4TDBweHBfNWkxdnNVejdnemptbWFRLVE4Ny1YSVl4MUdZMXVtaVNITHNybk8tQ3pISnlDODJYa2taN25vVXF5VkNRT2dUUHU3NFZheHZWQ2oyZDF6SU5LMnJob2stMUtEbXJWaFExMWhfeW41ams?oc=5",
+          "timestamp": "20:00:00Z",
+          "source": "Venezuelanalysis",
           "sentiment_score": 0.0
         },
         {
-          "title": "Why diesel is at the heart of geopolitics - news.sky.com",
-          "desc": "Why diesel is at the heart of geopolitics&nbsp;&nbsp;news.sky.com",
-          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQNURteWtTeDB0UjZ4LWFUenRta0NjcFJYY1FrdTBEV1hjLVpMcmtsTHRCNkhNWWZ0YUVTajllMUdqWXpFQ1VWZTc4VVUyaDdhWVdYcTJJT0dCR2NQOWRFN1BKaUFzRjFFcWdscWhUUGltLTJCRHhJZXpUcDNJQWRmWG5Ebw?oc=5",
-          "timestamp": "19:08:27Z",
-          "source": "news.sky.com",
+          "title": "全球研究所对话：杰森·博多夫谈能源地缘政治 - 高盛",
+          "desc": "全球研究所对话：Jason Bordoff 谈能源地缘政治 高盛",
+          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNUzQ1RXBUSGM3Zk9nOVdIYkdzWERqY2xtWnBNU1B1dU1oQkhHc0tpWjNkMDI2Z294SXlQTUZnel9rNkRkMUYyTGkyeUY1cC1XSEZ5VnVYNHg4b1lHRHFNNGp0X1BKODBFOWdSOEJCYWxxNFZhclBGdE5iTFpsM1pnckwxVlZQWE5BUGZDUmZXS0RQcWZybmZDckFCQnl1al8tMXRRLTFtSnJ1bm1TamxpMk1LMVdGUDJUMW5IZEJvWQ?oc=5",
+          "timestamp": "20:48:50Z",
+          "source": "Goldman Sachs",
           "sentiment_score": 0.0
         },
         {
-          "title": "The Geopolitics of AI in the Asia-Pacific - The Diplomat – Asia-Pacific Current Affairs Magazine",
-          "desc": "The Geopolitics of AI in the Asia-Pacific&nbsp;&nbsp;The Diplomat – Asia-Pacific Current Affairs Magazine",
-          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBXWWpnYkx1S3RfZmpFa2lpTll2YjlYa0d6Q1FTMW9pVEhhT0JxN3I3bnBzNGtTWXB4aDItWmdCSFI4RFNQN2FYV0xyN1hmTUVRWkpBTm1pWTZYSnM1OEtSMjZPQnZCU050WThFZXF0N1Zsa0R1VHlkZkpNV2hLNW8?oc=5",
-          "timestamp": "14:14:56Z",
-          "source": "The Diplomat – Asia-Pacific Current Affairs Magazine",
+          "title": "电池地缘政治：存储能源的高科技竞赛内部 - 卡内基国际和平基金会",
+          "desc": "电池地缘政治：存储能源的高科技竞赛内部 卡内基国际和平基金会",
+          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNd2V2eGpocE5sMDhUM2hUZ3dtNEx0dmtJWG9FX0FLajRKTndyMUIyUlY1TE9yeDFEcjVWZE10UEhXYzlrY01WeEZnQUV6T25USnNLd1RYTFM2dFdRN1dZUU9iTU8yVy1FN0JnZ0xEaFd6SjhsV3hGMTd4cGRKbXlFYUhXUXpyLWZvU2tac0NDa01uNDJxcWtzSnhMWUVkcmVZUWkydE02dkNrdw?oc=5",
+          "timestamp": "14:00:00Z",
+          "source": "Carnegie Endowment for International Peace",
           "sentiment_score": 0.0
         },
         {
-          "title": "Geopolitical tensions, high crude may fuel India's imported inflation, says government report - Reuters",
-          "desc": "Geopolitical tensions, high crude may fuel India's imported inflation, says government report&nbsp;&nbsp;Reuters",
-          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOMmh1aDl6WkZhcWU2cVdMN0ZQblp0cXJMZ2ZvUDFNMW1ORWdwbzJSbnJZUlE5ek1sRDR2S3V6TlBSS3V6TFNDcUNGV1dqS09tMGVYOXlfODlPRFRmVmh0dlBEcnl1WEZkUFVVWnBQUHhQZzhsdjJ2YzF1cW5Fbm03SlJURFl6eHNzSGF5c01BOWVtZlRaYlMzYWg2Q1E4a2ZxWjQ3R3FmSFFXVkF3cnc?oc=5",
-          "timestamp": "04:49:00Z",
-          "source": "Reuters",
+          "title": "未来的地缘政治：格陵兰岛和福克兰群岛之外 - Latinoamérica 21",
+          "desc": "未来的地缘政治：格陵兰岛和福克兰群岛以外的拉丁美洲 21",
+          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNV1Nad25WSzcyUjQ0NFJSTy1ZeG80NVpYU2I5S0xscFc2czlzcnlIMVZNcXlCTGFGSnk4Tldwb1ZZMXotV240TldLc2Nsb29aY25tMGpzemRvR2NXWFdNVl80VzFUWHZOMl9RcVo3NEUyLW03emRlSF9rUUpGTVh0TWk4Z0o4MUlaT3ZMRmduYklZMTdKUE1YMHNXWQ?oc=5",
+          "timestamp": "12:00:00Z",
+          "source": "Latinoamérica 21",
           "sentiment_score": 0.0
         },
         {
-          "title": "\"Vigil\" Season 3 Delivers Lesbians Fighting In a Blizzard and Clunky Geopolitics - Autostraddle",
-          "desc": "\"Vigil\" Season 3 Delivers Lesbians Fighting In a Blizzard and Clunky Geopolitics&nbsp;&nbsp;Autostraddle",
-          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNV2lSS3Y0YkU3d2NybXRVQ2ZBbjJkN1RKS2ZfV29qQWM1Qmp4M2tQZFB6YzFIbS0yQnRCT3Z0aU5IbmJHRHZtcnhzM2xabFVmVTRPdWlqdjN6aTBtM0JSS1BERWUzYnM4SXhwQWFjOUVOOE1vR3FqaHNqOGJ3VnlIY1hQWm9pTEFYWE51Tm9wbHVxRWNxMkdPWnYtRzZnTERIZWhla2JlSXZJb3o4?oc=5",
-          "timestamp": "14:01:52Z",
-          "source": "Autostraddle",
+          "title": "应对转型中的美国地缘政治、贸易、安全和能源政策：亚洲的机遇活动 |见解 - Squire Patton Boggs",
+          "desc": "应对转型中的美国地缘政治、贸易、安全和能源政策：亚洲的机遇活动 |见解 乡绅巴顿博格斯",
+          "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQekVUbl9PcExTeEQ0OE1BZk1HWDhrSGxVcmw2MlRKZzk5Mzlna2hJZkx6U3JXT1JpUVFYVDA2T05jMGNlN0lQZjhRei1hYTcxSEdPempKMXd2NC1ma2Vhbkk2VWdtN2JDT092QnJOZ3FjLU16QlN3eEJ4eHVjZHNFMmdHVDBmeGFtM1VMUTIxRk1Ka0dkTXd2d0pkaV90UC1MbU5INUlndkVSZy10OHZjcVZULUcyZ3d4REtoc2h6eDBUcWdTNkJjR1M5dHZBRHJTMUpIbUZEMDBKYmx6QnRr?oc=5",
+          "timestamp": "07:00:00Z",
+          "source": "Squire Patton Boggs",
           "sentiment_score": 0.0
         }
       ]
@@ -250,8 +250,8 @@
   "market_sentiment": [
     {
       "label": "贵金属（黄金/白银）",
-      "value": 0.0,
-      "sentiment": "震荡中性 (评分: 0.0)",
+      "value": 0.1,
+      "sentiment": "震荡中性 (评分: 0.1)",
       "sentiment_type": "neu"
     },
     {
