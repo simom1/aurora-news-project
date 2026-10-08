@@ -1,100 +1,100 @@
 {
   "report_metadata": {
     "version": "2.0",
-    "last_updated": "2026-10-08T06:00:05.052115",
-    "report_date": "2026-10-08",
+    "last_updated": "2026-10-09T06:00:05.408265",
+    "report_date": "2026-10-09",
     "title": "AURORA | 战略情报简报"
   },
   "prices": [
     {
       "name": "黄金 XAU/USD",
-      "price": "4,136.70",
-      "change": "-1.20%",
-      "up": false
+      "price": "4,158.30",
+      "change": "+0.43%",
+      "up": true
     },
     {
       "name": "白银 XAG/USD",
-      "price": "60.05",
-      "change": "-1.83%",
+      "price": "59.43",
+      "change": "-0.78%",
       "up": false
     },
     {
       "name": "WTI 原油",
-      "price": "88.94",
-      "change": "-0.56%",
-      "up": false
+      "price": "91.18",
+      "change": "+3.29%",
+      "up": true
     },
     {
       "name": "布伦特 Brent",
-      "price": "100.95",
-      "change": "+0.37%",
+      "price": "103.92",
+      "change": "+3.71%",
       "up": true
     },
     {
       "name": "英伟达 NVDA",
-      "price": "237.47",
-      "change": "-0.74%",
+      "price": "230.48",
+      "change": "-2.94%",
       "up": false
     },
     {
       "name": "比特币 BTC",
-      "price": "83,116.08",
-      "change": "-2.85%",
+      "price": "81,656.82",
+      "change": "-1.94%",
       "up": false
     },
     {
       "name": "美元指数 DXY",
-      "price": "102.28",
-      "change": "+0.44%",
-      "up": true
+      "price": "102.10",
+      "change": "-0.13%",
+      "up": false
     }
   ],
   "intelligence_sectors": {
     "precious_metals": {
       "title": "贵金属情报（黄金/白银）",
       "game_theory": {
-        "bull_drivers": "地缘政治溢价走高 (中东局势升级) & 美联储货币政策宽松预期升温",
-        "bear_drivers": "美元指数强势表现 & 美债实际收益率高企对无息资产形成挤压"
+        "bull_drivers": "地缘政治溢价走高 (中东局势升级)",
+        "bear_drivers": "美债收益率上升施压黄金"
       },
       "items": [
         {
-          "title": "黄金价格预测：为何 4,432 点可以决定看涨走势是否延续 - InvestingLive",
-          "desc": "黄金价格预测：为什么 4,432 点可以决定看涨走势是否延续 投资直播",
-          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOV1JxX19lQXZneFc5aHlWZUwyZVQ0bkprbTVGZnRxb3IydklrZU1rbTRIMS16S0tPZlp2b1Y0bEtvdS0zS1M2R2QzSW5RZDFsLVZEYkdHVk41eV9vM0RoMmxiamNzRTd5MUNmSFRRNnBqV0NvNFpQTklIOXUyVTJJSVhkRHNybTFqSXJWaTU1akJDSk1WRWVvQUpiQWROczFHRXZYSS1ZVFBqMWtNckIyUllYYjM?oc=5",
-          "timestamp": "10:11:59Z",
-          "source": "investingLive",
-          "sentiment_score": 0.5
+          "title": "Gold caught between surging bond yields and rising fiscal concerns - Saxo",
+          "desc": "Gold caught between surging bond yields and rising fiscal concerns&nbsp;&nbsp;Saxo",
+          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOdzh1X3BvSjVWMEY4UnhTS3B0TU5iQlNkSDdQeklYdXJ3cF9fLTJOWXRGMzJCdUxjejJ1NDZ4Z1NyMDBVc0hSOWxEcE44VVdEc290dFJRZ0haMkt1MFlmeFdUTHE1dWJ3Znd5VTZZT2NlUWhab1RMLWF3Yk5vTFJYb3dUblktdHhGNmxKdGE3MXpxcHQ5a1JxYUFqU2lrd25DVmwtRkY0cFlDS244cG9nSFIyWEhwTFo3Rm9ENjk3RkdwdjJ2?oc=5",
+          "timestamp": "09:45:00Z",
+          "source": "Saxo",
+          "sentiment_score": 0.0
         },
         {
-          "title": "我是金融专家：如果黄金和白银在未来 12 个月内继续下跌，退休人员下一步应该做什么 - 雅虎财经",
-          "desc": "我是金融专家：如果黄金和白银在未来 12 个月内持续下跌，退休人员下一步应该做什么 雅虎财经",
-          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPMkV6djFtMWxQLXZSeXo2LVA0Ui1YbU9MazI1NWotQUoyVVR3aTJ6Mk9STTZaQkRaRlZCNDlqRGJOdElZVDZ4ckpQNUZhN1RIQjdwX2NtZjJDWEdfazdnQnJweXAzN3hPcERFV1FNRmM2c2tBZ3lJbGhmRldWQURoUmlLbFppc2VwcHVlZXN5NVh6ZmkxeGdncWVtTjIzbVFkd0tZNGpn?oc=5",
-          "timestamp": "17:00:23Z",
+          "title": "Gold ETF Down 13% in Six Months: 4 Bullish Reasons for Long Term - Yahoo Finance",
+          "desc": "Gold ETF Down 13% in Six Months: 4 Bullish Reasons for Long Term&nbsp;&nbsp;Yahoo Finance",
+          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPZDRkWnVKUVdicENUOHJMQ0VmdFVHdWZ3UWVnTHc4RVhIWm1WQlF5M2huVy1XRE45cVJOTTlUbHQ1Q1RNSzlLQU1KSDJONTF6WFk5bjVyMXVxZlNmalZuYjlLTnVKUVE3bzVOaWtHY1ZnNmlldWhFb1FkamlVTVl1eHQzU3dtYURCbXVyd0tQUGdwbTk2?oc=5",
+          "timestamp": "12:00:00Z",
           "source": "Yahoo Finance",
           "sentiment_score": 0.0
         },
         {
-          "title": "纽约证券交易所所有者在伦敦推出黄金期货 - 华尔街日报",
-          "desc": "纽约证券交易所所有者在伦敦推出黄金期货 华尔街日报",
+          "title": "NYSE Owner Launches Gold Futures in London - WSJ",
+          "desc": "NYSE Owner Launches Gold Futures in London&nbsp;&nbsp;WSJ",
           "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQUzlmSUpiM0NHNGFHZXFIT2E0VmpKYUNoSS12eHFxWmhON3U2NHdYWkhzNzNhMkVmWWQ0STgwSHRTOFJ6Vkxfc0wwUUVvcm1YQ28yVndrZGpqVVA0SlNoUVBiUmFOODZkMFdYbVlMbEpDTFZaMXRNLW1vZ2ZrTjRxcXZsNVJ0UGlWamhWQ1V0UXZtalAycXQ5M2NMVnNENkFq?oc=5",
           "timestamp": "09:13:00Z",
           "source": "WSJ",
           "sentiment_score": 0.0
         },
         {
-          "title": "黄金和白银在几分钟内蒸发了 4000 亿美元。这就是真正发生的事情 - BeInCrypto",
-          "desc": "黄金和白银在几分钟内蒸发了 4000 亿美元。这就是 BeInCrypto 真实发生的事情",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBMQ25haHg4bVlickZPMDNiT0NNdV9MX2hMa2JUX3hCVThpbEJ1MXFYMksybFJkOTN1bmNlVklycklJTFowaGpJdy04bl9lSnhzdzNOS3RFQjd0WU9LdFZKLXctV0dyMDNpWGxnLWpOeU0?oc=5",
-          "timestamp": "15:21:00Z",
-          "source": "BeInCrypto",
+          "title": "Gold ticks up as investors weigh Fed path, mounting debt concerns - CNBC",
+          "desc": "Gold ticks up as investors weigh Fed path, mounting debt concerns&nbsp;&nbsp;CNBC",
+          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOZERPbHV4UkxnSVhHbmd6SUx4SEtFSGU3bVN0cjBVdmxnelNSS1RpVzc3akVzVGxwblpBZFNfdVM0dENpWW9uWnNyMFJRa2NvOFZEcS1wT3VkNk1ISHhYaTRTMW15UkFYLTFEdHhvRHpIdEdlUFZPakxDUnRxc2pDUzJELV9MZk5qQ0Q0NEY2S2pnRFk0LThWdjBSVkg2SXPSAaQBQVVfeXFMTjhneXF3VlNWMWgtRDhFcy1VT0tFR3pKdlhwS1Rtal9YQ2x4VDUtNkNvNUxXQUFsNnFwTno5V3VEY2xEbml6R254NGhQQjZlSWJ6Q0hnVHkySFpqTFJCZ0M2ZUhuUzBsVEl4WG1KRnc1amZjeHVPVzI5bkJUSEJKeVFzQ2dVYW8tdnpSYnFFVGFlNWxPR0FYYmNNUDJvLWY1eHhMVjU?oc=5",
+          "timestamp": "03:14:00Z",
+          "source": "CNBC",
           "sentiment_score": 0.0
         },
         {
-          "title": "美联储会议纪要显示政策制定者预计年底前再次加息，金价下跌 - Investing.com",
-          "desc": "美联储会议纪要显示政策制定者预计年底前再次加息，金价下跌 Investing.com",
-          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQcUM2OEtHTExrXzBhYU1nay1qSW1LT0RUX1hwSElHRlkwazlncUxIc3BpdjlJU3pSUmhPdEczSC1COHNFQ08zWkoxM3ZuN3NXZm9WX1VsbGdNSnVuTzR4UnNIZXpHcEFQdzZCaHJfZjNWRkhhbWo4MG50SXlaV05OZUh0dGR6aGhwZXJKY1VXYmtMdDJEWTdfRDFpX3NFMnhMWWhhZ2E3OFpmVmJyRFBSVVVnbFU?oc=5",
-          "timestamp": "01:02:48Z",
-          "source": "Investing.com",
+          "title": "Gold price forecast: Why 4,432 could decide whether the bullish move extends - investingLive",
+          "desc": "Gold price forecast: Why 4,432 could decide whether the bullish move extends&nbsp;&nbsp;investingLive",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOV1JxX19lQXZneFc5aHlWZUwyZVQ0bkprbTVGZnRxb3IydklrZU1rbTRIMS16S0tPZlp2b1Y0bEtvdS0zS1M2R2QzSW5RZDFsLVZEYkdHVk41eV9vM0RoMmxiamNzRTd5MUNmSFRRNnBqV0NvNFpQTklIOXUyVTJJSVhkRHNybTFqSXJWaTU1akJDSk1WRWVvQUpiQWROczFHRXZYSS1ZVFBqMWtNckIyUllYYjM?oc=5",
+          "timestamp": "10:11:59Z",
+          "source": "investingLive",
           "sentiment_score": 0.0
         }
       ]
@@ -107,15 +107,15 @@
       },
       "items": [
         {
-          "title": "高管们表示，全球石油库存缓冲几乎已耗尽 - 路透中文网",
-          "desc": "高管们表示，世界石油储备缓冲已几乎耗尽 路透",
+          "title": "The world has nearly burned through its oil stockpile buffer, executives say - Reuters",
+          "desc": "The world has nearly burned through its oil stockpile buffer, executives say&nbsp;&nbsp;Reuters",
           "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPRXpPa01RZzZ1ZlNmZS1XU1FlVnlKbTNhblkyVFU1dkttNzY2WllwRXNVdHVSNlBkV21wQi05d3NQdTFQcjQ1Vm5CcG1XQ1gtaDdZUmZiZXZaVVA1ZXBIcEpoOHBIZ0k1RnpKWXpsOVBjWWhrQzlWNW53SFM2dm5LeWJFVThkLUNHMzY2VFN1cFl0QXpqc2U5T2FvM1M1TmQyRjUwTDBBTFJ3NkRLS0ZENmY4cDNPam13OG9pRUFZUGw?oc=5",
           "timestamp": "17:26:00Z",
           "source": "Reuters",
           "sentiment_score": 0.0
         },
         {
-          "title": "美国原油库存周度下降 - 华尔街日报",
+          "title": "U.S. Crude Oil Stockpiles Post Weekly Drop - WSJ",
           "desc": "U.S. Crude Oil Stockpiles Post Weekly Drop&nbsp;&nbsp;WSJ",
           "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPeDEzWGtCWTNTdzZTb2t6SldWYVhmZjFWVEQ4WVlSanhBbXJxdjZaZzBPZk4tVHg4dTVoSEpScWp1SFJpeUxiX2h5NTNOb0RhbUlIRG8xTFV5WmstRHZtc2c3VDNyb3NJRUhpRW94VElLOUxwb1N1UElGZnRNcjBxSTVsdHl5TEVvQzFRS09tcnUxNThf?oc=5",
           "timestamp": "15:21:00Z",
@@ -123,27 +123,27 @@
           "sentiment_score": 0.0
         },
         {
-          "title": "截至 2026 年 10 月 7 日的当前油价 - 财富",
-          "desc": "截至 2026 年 10 月 7 日的当前油价",
-          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBRdEFkMXQ1b3FVWGNTS2pKd3lHN2NjdGlnTGJCdG9CQnRaVkhZXzdEbnN0TTVMbmZRN0NjVXRqV2drdm02WUpTVVlWek9jSDFPYnI5VXNvcm42bWZ6cDVZbk9n?oc=5",
-          "timestamp": "11:15:00Z",
-          "source": "Fortune",
+          "title": "The Oil Crisis America Saw Coming - The Atlantic",
+          "desc": "The Oil Crisis America Saw Coming&nbsp;&nbsp;The Atlantic",
+          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOX29Cd3dycEpYMTNXV0x4MTItWjFVWnE0TjNmSWNtTlpPQ0lUaHNUUWFIclJGNnJNSUFQVFR0UVEwMWNETTBsTmVWc1AwN1N1VGlvVXVJaFlfTl9TempkemREVjFZbHpVZmJWREVNelk3TzZnc2dSOU5PRHNCTDhFRGlDMkRZcW4zREk3b1RER0dEbGt2ZFU3dW5sWTVVajU0UXc?oc=5",
+          "timestamp": "18:10:00Z",
+          "source": "The Atlantic",
           "sentiment_score": 0.0
         },
         {
-          "title": "短期能源展望 - 美国能源信息署 (EIA) (.gov)",
-          "desc": "短期能源展望美国能源信息管理局 (EIA) (.gov)",
-          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNUlpjNFhtaDhGdmh5eXFiUFRQejc4OHNuWXBzRVZiRnBWZ1NtTHEydmFhLTZnUWpZVEtsN2drbG9hdkstdDE5dFMyVHNfa0xpcHBRX2FlaldETmw0dXJhd2RkR2pjQUQwTjkyMllvWlBlOXVydUM5YlU2bjJpNFlwWHpPTnFHRGJiVHl6VkR3?oc=5",
-          "timestamp": "18:54:03Z",
+          "title": "Crude oil prices and refinery margins generally increased throughout the third quarter - U.S. Energy Information Administration (EIA) (.gov)",
+          "desc": "Crude oil prices and refinery margins generally increased throughout the third quarter&nbsp;&nbsp;U.S. Energy Information Administration (EIA) (.gov)",
+          "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5KRmxycVhJeUlHVmVsTnlsQXgtdFpsQ1BYaUxiUjF3bjZuYmFfUHlQY3JTdHBkMEJwVWJOUmpjM2hjNXl2X1BwVFJwQVlCUGlSXzBfWEVOZU9UQVVuN0xjdEJCVQ?oc=5",
+          "timestamp": "13:04:29Z",
           "source": "U.S. Energy Information Administration (EIA) (.gov)",
           "sentiment_score": 0.0
         },
         {
-          "title": "非洲第二大经济体从美国能源巨头雪佛龙公司获得8800万美元用于大规模海上石油和天然气勘探 - Business Insider Africa",
-          "desc": "非洲第二大经济体从美国能源巨头雪佛龙公司获得 8800 万美元资金，用于大规模海上石油和天然气勘探 Business Insider Africa",
-          "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQNUxUajhPOFZrNWRMaTlxTEV0VlBNeU9McEJXay03SUUxR2RKYUdnVEQwMWNqZEg4eXpvd3BjS1BHNG41MWJURWVRc2g5VnRVSFZmV292dGU5ZE9OZ1dsNFhxejlyTTFRM0J6cjJVQzYwT19MYzA4UkFyRHJxaUtabk8tbU5iU0FnMi1ocFN6V2JJd2ZLTm9IQVhNRXNMLWpUSEJJMzJFZVl5MWJ5RUsxU3VjWUUzZmFrckFraTZyWXZrQW1pRHYtamxtT3VLUkdoVm5tSW9pYWQ?oc=5",
-          "timestamp": "12:00:00Z",
-          "source": "Business Insider Africa",
+          "title": "Global Diesel Crunch Fuels New Wave of Energy Nationalism - Crude Oil Prices Today | OilPrice.com",
+          "desc": "Global Diesel Crunch Fuels New Wave of Energy Nationalism&nbsp;&nbsp;Crude Oil Prices Today | OilPrice.com",
+          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPVHBwN0pFOWFOZVdtV29nYWhqVWxpX20zblFEbTZvai0tYkJtN1JTZTdLemdjb3ZEaDZQUzlGMFVBUk5IQ1RRNFdYZVR1V1ZFU1VldDFWbnp3S2JiT2tfVVRwUnZGdGJNSFZVcWctZFlhZUM3cmpQVm5rUUNXbXc3VVdYLUgxa0Y5TGtYT2JEOGFFeXVHcE83TkI4LUxGTDNiMDduMlpienDSAa4BQVVfeXFMTkFFNGpxMTA1SW9TNGk4V0JpRzFYWkVQMGdkcllPSnJsejBReldkOFdPUXlmWDZmRXZPRTVmM0tKLUhfVkNqcV8yNnlGVmRmOEUtTzV0OFFrWUEyRzM3XzVXOUNyakJDUHNJQ1NLX09oR0NOU2JUemFjaFlxanJIY0FXb196MnppdFZDUlRUeUd5WmVwZWdubUo2X20xY1BIcDA5bVByVXRwN2owVmV3?oc=5",
+          "timestamp": "20:00:00Z",
+          "source": "Crude Oil Prices Today | OilPrice.com",
           "sentiment_score": 0.0
         }
       ]
@@ -152,47 +152,47 @@
       "title": "AI & 前沿科技",
       "game_theory": {
         "bull_drivers": "生成式 AI 及大模型生态商业化落地加速",
-        "bear_drivers": "主要国家针对大科技公司的反垄断与AI安全监管趋紧"
+        "bear_drivers": "算力能耗制约 & 估值回调压力"
       },
       "items": [
         {
-          "title": "人工智能正在以意想不到的方式重塑美国经济 - 《华盛顿邮报》",
-          "desc": "人工智能正在以意想不到的方式重塑美国经济《华盛顿邮报》",
-          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOeER0dG5YdXY0dHRQSVU5Yl82ZzVXLTdqejZVcHBNTG9zS2ZwNTBoZUlQbUFwS040T1VHbDFnR2l3R3ZIWmJVeUtVdVVZRk9HdDVvc1BEbWpYbHQyU00tSm9KWWdTaTZ6TFBSZE9QdDhEaUNKQ1h1VVVSeUpoYU8xb2Q3YVVFRGRjUXBHakhnNXU0bnVmZzY4UjJmM2EtMy1NVl9hSWtFdEdNY2Vla1JwZVRNdm4?oc=5",
-          "timestamp": "16:00:00Z",
-          "source": "The Washington Post",
-          "sentiment_score": 0.0
-        },
-        {
-          "title": "人工智能专家加里·马库斯警告称，“鲁莽”的技术可能会导致死亡，他呼吁加强监管 - 福克斯商业频道",
-          "desc": "人工智能专家加里·马库斯警告称，“鲁莽”的技术可能会导致死亡，并呼吁加强监管 福克斯商业频道",
-          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNVU9sV3ZyMHZpajNZZEdJXy04SWdqLWdvd1BXLW81NVZNajF6VXlBaDBpSnZFM3BPUTNwS01WcmZ2QmpXXzZ2ckg2bTlBSHdrMzNJOUdIeElJX0pXMnhWQ29tMDRZeWFhQ2RaZmNBaFNGVWFpYzhyUEZLOTJzY0hHSmd6MUpqT2V3TEZvSXBFRjBnYWNWcmZsNjBEaVMyeVhicHpxWlZ5d3hxRm5kQXNfRzZEa2zSAboBQVVfeXFMTmZBTkJqMU9YV084V05Ed05GMXFjY1lWa3BDNF83dUJzbFpxR1VjWU94dkRSb2dYRkU2anRaeWdTdDJka0lGZ1dVUW9RSFFTWmpKY2VNY1NMRFRLOEwySVg3aVBVdnljd05mT3dvSzVzTzlsLUV5bXZ4ZXNKT1lBMDc5ZlhiRGdSMmtyemt2OUNfLTA2MU4tc3NnNUhlVXBobVVXcDNfR09Rb0hNbnBKNzRKY28zOUFib2d3?oc=5",
-          "timestamp": "22:48:00Z",
-          "source": "Fox Business",
-          "sentiment_score": 0.0
-        },
-        {
-          "title": "Will AI really turn us into paperclips? - 英格斯堡理念",
-          "desc": "Will AI really turn us into paperclips?  恩格斯伯格理念",
-          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA4OEc2YzZOOGhGejhEUmkzcmVYdENkMVlOU2FPQlp5d1ZxZUpzbTFkdUI3WTRfZVBoVGxuTGs4RjRiMDFHQWEwUUdBMWFRNlVoaWpLRzlGRUZ2ODF4T1VkRmVNOU12d2ZMbnNSTDJYTzVNd3JvR1BMNVB2VWthWUE?oc=5",
-          "timestamp": "09:46:05Z",
-          "source": "Engelsberg Ideas",
-          "sentiment_score": 0.0
-        },
-        {
-          "title": "Cantwell 推出新的人工智能框架 - The Hill",
-          "desc": "Cantwell 推出新的人工智能框架 The Hill",
-          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPYXRQSGI0LUNrbEtaQUFrc3FLWDNLakFfQTF5eUpWc2Z6ZDRsYm16WXotb2s0OGZuTkZTdzNHR0QwMTdxVktFNTFkOEVPT0xyS1ZyRmVwUENVZ1NvOGdoSzhNSWVUVlZvbW9wa3dtd2xrRG5ILTlxMTVLNlFpVDZYZzB1eTU2alFxN0lFU0dadFDSAZYBQVVfeXFMUHdIVzRTYTVCRl9mZEV4MzItRjdjZU5JNDQ3aDBiaF9OTFp0eEh0bXpQTXNuLVlxbDhPenQ3Y00zU1k2TWF2Z1VuU2xDTVFSV1ZTbXNhWHBjbGV0ZzNRcHo3VVRIV3lEUkpIYi1TdTZZMHpTTXYxZ1VsdTZfRHBpb0xvQlo3RUNQRW51empOVUdFZnZjRjZ3?oc=5",
-          "timestamp": "19:12:00Z",
-          "source": "The Hill",
-          "sentiment_score": 0.0
-        },
-        {
-          "title": "America cannot win the global AI race if Americans are afraid to use AI - Fox News",
-          "desc": "如果美国人害怕使用人工智能，美国就无法赢得全球人工智能竞赛 福克斯新闻",
-          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNMkp6V3B6TXdaTjFFVjFmSnRxNHNrNEhEeFVKcnVfMFFQaGVFY1pTSHJubmJpVFIxX2pZZ1JWSzF3dXhyZi1QUDRFVV95NmxwY3dTYXVlNDE1dnM5UTdmY3pCa3ZWZVlyRmY1Y050a0pMR3p3SnlUZ0VYa18takdoYXFuT1piYmkxVV9xYjJncG9lU03SAZgBQVVfeXFMTlc3RXdyVjQ5aWtldWcyM1VGU2FRMUZVU2ZKZlBqcS1xZ3VjWlhHaVNxNGtoUWNkaHBZdnVwT1I1VFRFZWJ2c1N0dXg1R2ZCc3NyVzZ0QlM0NXRmekpwVDVtaHFLNHBHckMtRmRGYlZ6b0ZTVWwxZ2xaYjFmbDJRUW5Xcm1QM0JHQjIzd3p1cVJBOHZSOEZQeWg?oc=5",
-          "timestamp": "11:00:31Z",
+          "title": "Fired OpenAI employees raise concerns over AI safety, monitoring - Fox News",
+          "desc": "Fired OpenAI employees raise concerns over AI safety, monitoring&nbsp;&nbsp;Fox News",
+          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5CMlZ4TV8tUDN5UE1pYU8tYlB4aUFST2lFZ090T3hoMzVSa0thTTBTVFFCMTNhTV9Ha21fandDcm9tS3c2NmR5RW5meHloeXVYMnc2Ty1nY1UyNWxiVlNvVXB0a3FjTU5NWFdkTzNod1hEdTkxVmx5MQ?oc=5",
+          "timestamp": "19:54:28Z",
           "source": "Fox News",
+          "sentiment_score": 0.0
+        },
+        {
+          "title": "Trump says anyone who does not refer to AI as ‘super intelligence’ is ‘THE ENEMY' - Politico",
+          "desc": "Trump says anyone who does not refer to AI as ‘super intelligence’ is ‘THE ENEMY'&nbsp;&nbsp;Politico",
+          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNaTV1aTVjdklWRlVSRk44SVpZck9ENF9lWFAxSWVBMmNZQmktWDVZUC04Tmd1aUwwM01WLVJ3Sl93XzRaRTY3S3hvNm5UMFV0MXZiQk1VU0RIR3l4aVJLZHhlSjJ0ZWdHR3Y5YndyMmI2WG9CNnNibU02QS0tWEZhd2NDeG9YYWZqenV1MVpHNA?oc=5",
+          "timestamp": "20:18:00Z",
+          "source": "Politico",
+          "sentiment_score": 0.0
+        },
+        {
+          "title": "Trump: Anyone saying \"AI\" is \"THE ENEMY!\" The White House uses it - Axios",
+          "desc": "Trump: Anyone saying \"AI\" is \"THE ENEMY!\" The White House uses it&nbsp;&nbsp;Axios",
+          "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFAxTktKejZ1TEZZaXd5YUFIU1VzLVl5eml0V3A1VFNJaWtqakpKajNycFFGMkJpMEs0Um42bS1FbFN5ZHZtTURidmRycHYxWC1laHpwa25FM09DWUgtRVdadGRRaGs4UnlfQ00xa0ppdk9HTnFpRF8td00xNi0?oc=5",
+          "timestamp": "20:58:57Z",
+          "source": "Axios",
+          "sentiment_score": 0.0
+        },
+        {
+          "title": "Trump: People Who Still Say ‘AI’ Are ‘The Enemy’ - Forbes",
+          "desc": "Trump: People Who Still Say ‘AI’ Are ‘The Enemy’&nbsp;&nbsp;Forbes",
+          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNdjVXN0QzNVNydnBVbDV1NnBTU08tUmNLNGtlb2tRZXZJUkdkcmg5ZDBYc0d0X053R2hHSkY0cW83SnJQc0ktZU1FVlFESlZkanR6cTdTUVZkUWNia2ZyZXBjVFdsTVpGTTJsWTZ1T0dfYnV4ZWNDVGRtbVNTdy14M2x3Q2c1bjdrVHJ2MDlFVTF6cjd2bllTY19BVTJYT0loQTRxcGU3Y2UzZk04azRQOUp5Rk9TQXk4eXptNW5kNA?oc=5",
+          "timestamp": "17:16:40Z",
+          "source": "Forbes",
+          "sentiment_score": 0.0
+        },
+        {
+          "title": "‘Dystopian’: Co-op becomes latest firm to put staff under AI surveillance - The Guardian",
+          "desc": "‘Dystopian’: Co-op becomes latest firm to put staff under AI surveillance&nbsp;&nbsp;The Guardian",
+          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNNWR1QnJQemJYOUd6LUJ5dzQ5VTF3b21EZlVYakphU0Z3ZVVWS0tad3VLZUZPV2VsMjBINzBlZXV4WTNpeGdoUmRqUDNHYU9pWFl3bEdpUy1ZY3J0LVhjOTlBYm5fX1V1ZU1MQ3dUMTFzdngzWDFqQUwzZ3VzTHpzQ0djY2l6SU03VmZmQklvWDg3NWJJNFQ5VXdDSl95Qjkzd0JMcEVJQ1BvWFU?oc=5",
+          "timestamp": "11:16:00Z",
+          "source": "The Guardian",
           "sentiment_score": 0.0
         }
       ]
@@ -205,43 +205,43 @@
       },
       "items": [
         {
-          "title": "CNBC 的《中国连线》时事通讯：星巴克进入新疆是经过深思熟虑的地缘政治风险 - CNBC",
-          "desc": "CNBC 的《中国连线》时事通讯：星巴克进入新疆是经过深思熟虑的地缘政治风险 CNBC",
+          "title": "BYD exec says biggest challenge to expansion is geopolitics - Reuters",
+          "desc": "BYD exec says biggest challenge to expansion is geopolitics&nbsp;&nbsp;Reuters",
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPX2lsd0ltYVBpQVFNM0NqaFo1MFE0WnkwX3RNbERZYXM4djhnNE8xWUN6OFo1OWMzVmlBbmN4cDRQQUJZOUhzQjFSNms1Wm5CSHhNZEpLM25iYUd3VVFNVFFnR0Nna1BqcjYwNVhQY2ZBWEJXc1g5QTFoUGlBTDJLX0Y0Q2NxbUtDNVBfTExYZDNNVEJQSTNLcVRYamI3SHNBVnhjY043X0pRZDFVWnlVWQ?oc=5",
+          "timestamp": "08:20:37Z",
+          "source": "Reuters",
+          "sentiment_score": 0.0
+        },
+        {
+          "title": "Irate farmers should not limit the EU’s geopolitical ambitions - Financial Times",
+          "desc": "Irate farmers should not limit the EU’s geopolitical ambitions&nbsp;&nbsp;Financial Times",
+          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPc2Rvak9NZHdKbzRlbXo3bUIxVkpSYXJRdXRpQVBFVEQ1TGFrQXNDaDVOWHQzYVducWZyNHBkbE1vMVBYNlBPd0lBLXVPSnNlYWh4bm5YSUxZMWRRUFgxY2lmNW1XR0FSalQ3Wk9qTUNoWVFOZ1RPNkdpNmlVbFpWTVBSU3g?oc=5",
+          "timestamp": "10:00:02Z",
+          "source": "Financial Times",
+          "sentiment_score": 0.0
+        },
+        {
+          "title": "Wall Street slips as geopolitical tensions push oil prices higher - Seeking Alpha",
+          "desc": "Wall Street slips as geopolitical tensions push oil prices higher&nbsp;&nbsp;Seeking Alpha",
+          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNRFd6Qi1PLUdJNm12UXZLanY4bVo4U2tNcWdLeUVZYVNBakpoc2VwcDYwM3EwZnlBREYzT3BHc21vUWVZTEpXYm5nOG9ZSHNqam5fNVdJbzVVbWo2Zk5WanpkMmF1MmVfYktiLWJnOGt4YW5LekRmckE5VUlKN0JiNGJFU1ZNYkVnRnFFZzd5aU1XZkdxNUZQVEhnUDRkV2phRG1xb05n?oc=5",
+          "timestamp": "18:24:00Z",
+          "source": "Seeking Alpha",
+          "sentiment_score": 0.0
+        },
+        {
+          "title": "CNBC's The China Connection newsletter: Starbucks enters Xinjiang in calculated geopolitical risk - CNBC",
+          "desc": "CNBC's The China Connection newsletter: Starbucks enters Xinjiang in calculated geopolitical risk&nbsp;&nbsp;CNBC",
           "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPNEVJWkd3eGNsWEpIRmFSSDhYcnpfRHZnX3JqWjZyWGhGTmlJY0NWakJYQ2w2Sm5tVEp0Wndnckp6V0FLVGc0T0oxdUJ4NEtFVmlUbGpHQWlDOWo3T3BSa0dKME1ramNqdDJ5OW14T0s1U01yY3ByR3haVUZWVXN2WHc0bE5maXVCelowVk1oZVdSTHJiWVlFSjBFYzM?oc=5",
           "timestamp": "23:41:11Z",
           "source": "CNBC",
           "sentiment_score": 0.0
         },
         {
-          "title": "斯里兰卡的经济和地缘政治平衡法案 - 卡内基国际和平基金会",
-          "desc": "斯里兰卡的经济和地缘政治平衡法案 卡内基国际和平基金会",
-          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQQVptd0FqQ2dUbl9xU1U3WGVmcm5RQlhTZTRqeTFMSHlSREs2bHFsLUluZFMzUXdXX0RDb2lEUEdQckUwUFY2UVBQNUtFQXBLY3hVdTBxQ1J3WWhhZ3Nyd1VXRFc0S3AycWlmWkdfQzhtSUFvSWRfV014akpKblFtMG9mTGRUM1lKemxjOWh3Y0RiSFN4T0NrMjJmX2psUQ?oc=5",
-          "timestamp": "17:14:35Z",
-          "source": "Carnegie Endowment for International Peace",
-          "sentiment_score": 0.0
-        },
-        {
-          "title": "地缘政治风险：为什么高管们努力采取行动 - 福布斯",
-          "desc": "地缘政治风险：为什么高管们努力采取行动 福布斯",
-          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQQXVMWmpqOEd1OHlIOFZtcmFGS3pfRDhqaUlwdUJOU1h3ZGotekc1YzNyXzNnZDdoZlhqY3F0Y3U2M1lXSVZJaU5kSllSNFV0VXQxZ1JOUnBtN0VZUUNnbHlucFRDX2p5RHVVQ1FqWFZZTVVFXzQ4aEc2SzFSOFV0VnZOZWNWOFp1RzZjRzZEYTUzRUpMMnpORWZZSHpzOGRFTEdya3FRYnluNFI5cHZsdy1pQzZndmNJa3c?oc=5",
-          "timestamp": "19:00:00Z",
-          "source": "Forbes",
-          "sentiment_score": 0.0
-        },
-        {
-          "title": "并非所有地缘政治冲击都会引发通货膨胀 - CEPR",
-          "desc": "并非所有地缘政治冲击都会引发通货膨胀 CEPR",
-          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPVWZ1dFB5ZkNlSzN1bGNpZW51Q2NwMHY4MEc5SVEyWFJwT1doN254bW8xd29YNl90N3U1M0lSYVA0eVRabjkxWnNjNndLY2E5NXloaU1vT19nb1pQZ05TcjkyRk5qd2lkaG1McHJscFdlaUFLQXZ0ZE9UWGY1UUdEVQ?oc=5",
-          "timestamp": "23:47:30Z",
-          "source": "CEPR",
-          "sentiment_score": 0.0
-        },
-        {
-          "title": "我们所知道的中东的终结 - 地缘政治的未来",
-          "desc": "我们所知道的中东的终结 地缘政治的未来",
-          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1tVC0taERZZ2h5U25pSm01dmt3OGIyMWQ5cFlRbzl5YlF4SDVVNE5DSDNzVGFXM3BxWmhKZVh1TXJmTzl6UnlfMnJHbDN2ZkJ5Tl9NazNLcm9RWXdBUWMtNXp4WEZWaTBmclBrdUhUZFVvOG04amJ0WmgxNkhZQQ?oc=5",
-          "timestamp": "10:00:42Z",
-          "source": "Geopolitical Futures",
+          "title": "The Geopolitical Earthquake of the Iran War - Foreign Policy in Focus",
+          "desc": "The Geopolitical Earthquake of the Iran War&nbsp;&nbsp;Foreign Policy in Focus",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE80NnN1ZEZIMUV1Z0Uxc1gxMkNLZDdyT2NibUVTUXB1ZWhUMGQ4X0plMkNLaU9haVU0eUMtc2hQZ0FZTUUwdUJoMlNPbmlLNG0xZnZhWGJVVC1yM0pWMGNCZjRiNURhU2tqT01wdk5n?oc=5",
+          "timestamp": "17:47:57Z",
+          "source": "Foreign Policy in Focus",
           "sentiment_score": 0.0
         }
       ]
@@ -250,8 +250,8 @@
   "market_sentiment": [
     {
       "label": "贵金属（黄金/白银）",
-      "value": 0.1,
-      "sentiment": "震荡中性 (评分: 0.1)",
+      "value": 0.0,
+      "sentiment": "震荡中性 (评分: 0.0)",
       "sentiment_type": "neu"
     },
     {
