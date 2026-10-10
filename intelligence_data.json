@@ -1,33 +1,33 @@
 {
   "report_metadata": {
     "version": "2.0",
-    "last_updated": "2026-10-10T06:00:04.369796",
-    "report_date": "2026-10-10",
+    "last_updated": "2026-10-11T06:00:04.529908",
+    "report_date": "2026-10-11",
     "title": "AURORA | 战略情报简报"
   },
   "prices": [
     {
       "name": "黄金 XAU/USD",
-      "price": "4,220.30",
-      "change": "+1.52%",
+      "price": "4,216.30",
+      "change": "+1.43%",
       "up": true
     },
     {
       "name": "白银 XAG/USD",
-      "price": "61.11",
-      "change": "+3.46%",
+      "price": "60.67",
+      "change": "+2.72%",
       "up": true
     },
     {
       "name": "WTI 原油",
-      "price": "91.66",
-      "change": "+0.19%",
+      "price": "91.85",
+      "change": "+0.39%",
       "up": true
     },
     {
       "name": "布伦特 Brent",
-      "price": "104.43",
-      "change": "+0.14%",
+      "price": "104.72",
+      "change": "+0.42%",
       "up": true
     },
     {
@@ -38,14 +38,14 @@
     },
     {
       "name": "比特币 BTC",
-      "price": "82,465.99",
-      "change": "+0.97%",
+      "price": "82,973.14",
+      "change": "+0.52%",
       "up": true
     },
     {
       "name": "美元指数 DXY",
-      "price": "102.23",
-      "change": "+0.09%",
+      "price": "102.21",
+      "change": "+0.07%",
       "up": true
     }
   ],
@@ -53,7 +53,7 @@
     "precious_metals": {
       "title": "贵金属情报（黄金/白银）",
       "game_theory": {
-        "bull_drivers": "地缘政治溢价走高 (中东局势升级)",
+        "bull_drivers": "地缘政治溢价走高 (中东局势升级) & 美联储货币政策宽松预期升温",
         "bear_drivers": "美元指数强势表现 & 美债实际收益率高企对无息资产形成挤压"
       },
       "items": [
@@ -74,27 +74,27 @@
           "sentiment_score": 0.5
         },
         {
-          "title": "我是金融专家：如果黄金和白银在未来 12 个月内继续下跌，退休人员下一步应该做什么 - 雅虎财经",
-          "desc": "我是金融专家：如果黄金和白银在未来 12 个月内持续下跌，退休人员下一步应该做什么 雅虎财经",
-          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPMkV6djFtMWxQLXZSeXo2LVA0Ui1YbU9MazI1NWotQUoyVVR3aTJ6Mk9STTZaQkRaRlZCNDlqRGJOdElZVDZ4ckpQNUZhN1RIQjdwX2NtZjJDWEdfazdnQnJweXAzN3hPcERFV1FNRmM2c2tBZ3lJbGhmRldWQURoUmlLbFppc2VwcHVlZXN5NVh6ZmkxeGdncWVtTjIzbVFkd0tZNGpn?oc=5",
-          "timestamp": "17:00:23Z",
-          "source": "Yahoo Finance",
+          "title": "黄金和白银警报：什么最终会影响价格？ - 金拓",
+          "desc": "黄金和白银警报：什么最终会影响价格？  金拓",
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOZGttMWw3QU1mRUJZNC0wQ1hwRERyMjNnZVN0WnhpZWdWRGU3b2V2Rjd5ZjRKT2luZnRObEU1R3FzSHRjd3dSZ3FISnFDbHlWQlJYVXBtMms4bDZXMkZWVm00ekt2ZGZKcUZCcEFXcHFjT1RxMTdabG13NV9WclNFdmpsdkc5SHFzT2RjRXpCRDFFdjVOdHhjSQ?oc=5",
+          "timestamp": "19:39:59Z",
+          "source": "Kitco",
           "sentiment_score": 0.0
         },
         {
-          "title": "瑞银 (UBS) 指出黄金价格水平可能会出现逢低买家的情况 - StreetInsider",
-          "desc": "瑞银 (UBS) 指出黄金价格水平可能会出现下跌买家 StreetInsider",
-          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNT01UMlV4WTFQOGhQYmphMVI5T3dtbEw1a3l4Smg5WkItWXFTUkN5bjdDMFM3ZTd3VTNub3FFbmxhcFViVUtkMnZtcERMa3V3MFNrYVRycXhGb1d0S3lQV00xUkZUbllzeVJGemo5WURDQk5qczZIejhCc1I3UWlzeXF0c1pNbGlWYm5zX0pNN2w5V0prTXhZdkwxTEpBT2pqc3o0U3dmdEZibEJ5aWQyX0xoam5rcTl3Q3A0SF80Zw?oc=5",
-          "timestamp": "12:00:13Z",
-          "source": "StreetInsider",
-          "sentiment_score": 0.0
+          "title": "随着黄金、白银和石油转移到链上，代币化商品着眼于下一阶段的增长 - CoinDesk",
+          "desc": "随着黄金、白银和石油转移到链上，代币化商品着眼于下一阶段的增长 CoinDesk",
+          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPaEpaOURDT0RMdEZwOUxTQ0FnRUl4dW5aV0V0OTNQNTBqUThQOGZielluZEItZTNMS1lpeENiNkpUdzdMdEw3eXFFMVJ1TXU2MXlGNllBcmk0VXBYdEZwUEI5eUl3V2xKQlI1NXdZWXhqaU9mM2JYRjhXMXBXQ3F3ZGhkdFpzRHJQUUxiQTh1UFhjTm85cUFkeWVtcXd0b0l3ckFLNlB3UHF6V1JZeURLSm9HU3NxMzgwYnh3?oc=5",
+          "timestamp": "07:00:00Z",
+          "source": "CoinDesk",
+          "sentiment_score": 0.5
         },
         {
-          "title": "黄金“追寻”4,110美元支撑位并反弹：随着油价上涨，偏见保持中性/看跌 - InvestingLive",
-          "desc": "黄金“狩猎”于 4,110 美元支撑位下方止损并反弹：随着油价上涨，偏见保持中性/看跌",
-          "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOUWhaLVFfLTdab3dwcURkeXdrczRMZFZfLW1LTjgxWHNaVEZEcHB3OGJQR2tDNG9ZVE52VWtyTDd2TXd5U2YwcnJ3VV9QWkk3el84TXN0aUxqOHpXZDliN2pzQ2xFVFF4eE54ZGxIZ1FmTkNiQmM5Tk42Q1lNUUxpbHk4YjcwSm50a1l1Y1JMa042OW1XdEszTGx0SEVCUHhzeFNhSy1MUUtWSzNwQ0hHMzdja204MFE1OHMzUklSRjF0RS1PamFRZHBEVzN2ZEk?oc=5",
-          "timestamp": "07:20:23Z",
-          "source": "investingLive",
+          "title": "金价触及一周高位，投资者关注美联储加息轨迹 Investing.com - Investing.com",
+          "desc": "金价触及一周高位，投资者关注美联储利率走势 作者：Investing.com Investing.com",
+          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNb213N2JhZXJ0b01JeGJYYUJyUi1CaVpsVExCZnJMNkJ0VHk1RU9odXNZS0lWUlJLUzZST3AyekJiOUEyY0d1NldZTFdkM3Y5LXB3T1RnQTM5eDhNSUsyNjFpUFlySnZZNzJCRC1tdWVETEJmRVVlMy05OU44N2I2aW1DM05VVlBCTWJDY3dSM3c3OVZ0RE52RUFoQmZZb0YyMkVIbTQtZGtvYm1NaUtBS1V4aWdQUTZpRnc?oc=5",
+          "timestamp": "03:00:28Z",
+          "source": "Investing.com",
           "sentiment_score": 0.0
         }
       ]
@@ -107,27 +107,19 @@
       },
       "items": [
         {
-          "title": "由于战争导致全球能源供应减少，美国炼油厂正在印钞 - 华尔街日报",
-          "desc": "随着战争导致全球能源供应减少，美国炼油厂正在印钞 华尔街日报",
-          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPaW44YUM5NDd4bWtqcldnOFNndGRwS2xvdzMwazJiUWIyUmt6RXV4Z19YelB2anVDOGE0UUNiTlY4TlVicE9EV2Y3REVuTVR4QWhCWkN6OGpKMVZhdkpwZnYyeTduWXcxX2JIb3N2YmotNmhUdTdnT2VDbjNQQzNpaDEyQmhmWEUxZlo4cTdvRWl2LXhGQmtHam5hZTZOZW1NR00tRjdwMFVfNWJERlkwMm40ekF3d2NueUR3dnF5T2FyTkhGU2c?oc=5",
-          "timestamp": "02:00:00Z",
-          "source": "WSJ",
-          "sentiment_score": 0.0
-        },
-        {
-          "title": "高管称全球石油库存缓冲几乎耗尽 - 路透中文网",
-          "desc": "高管们表示，世界石油储备缓冲已几乎耗尽 路透",
-          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPRXpPa01RZzZ1ZlNmZS1XU1FlVnlKbTNhblkyVFU1dkttNzY2WllwRXNVdHVSNlBkV21wQi05d3NQdTFQcjQ1Vm5CcG1XQ1gtaDdZUmZiZXZaVVA1ZXBIcEpoOHBIZ0k1RnpKWXpsOVBjWWhrQzlWNW53SFM2dm5LeWJFVThkLUNHMzY2VFN1cFl0QXpqc2U5T2FvM1M1TmQyRjUwTDBBTFJ3NkRLS0ZENmY4cDNPam13OG9pRUFZUGw?oc=5",
-          "timestamp": "17:26:00Z",
-          "source": "Reuters",
-          "sentiment_score": 0.0
-        },
-        {
           "title": "截至 2026 年 10 月 9 日的当前油价 - 财富",
           "desc": "截至 2026 年 10 月 9 日的当前油价",
           "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE11dlNrd3RfTU5KV21YYXRVNVp2Q0FkbmFHQTRMelcxTG56eEl2OHZ6bjBMSk9RZVU0cEZmWlZUaUluZUVYSndjZnpzYm9xS2JWMUlyeV94d3JkX2VLYWRRVHV3?oc=5",
           "timestamp": "11:00:00Z",
           "source": "Fortune",
+          "sentiment_score": 0.0
+        },
+        {
+          "title": "由于战争导致全球能源供应减少，美国炼油厂正在印钞 - 华尔街日报",
+          "desc": "随着战争导致全球能源供应减少，美国炼油厂正在印钞 华尔街日报",
+          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPaW44YUM5NDd4bWtqcldnOFNndGRwS2xvdzMwazJiUWIyUmt6RXV4Z19YelB2anVDOGE0UUNiTlY4TlVicE9EV2Y3REVuTVR4QWhCWkN6OGpKMVZhdkpwZnYyeTduWXcxX2JIb3N2YmotNmhUdTdnT2VDbjNQQzNpaDEyQmhmWEUxZlo4cTdvRWl2LXhGQmtHam5hZTZOZW1NR00tRjdwMFVfNWJERlkwMm40ekF3d2NueUR3dnF5T2FyTkhGU2c?oc=5",
+          "timestamp": "02:00:00Z",
+          "source": "WSJ",
           "sentiment_score": 0.0
         },
         {
@@ -145,6 +137,14 @@
           "timestamp": "18:10:00Z",
           "source": "The Atlantic",
           "sentiment_score": -0.5
+        },
+        {
+          "title": "亚洲竞相储存石油，加快可再生能源发展以应对伊朗战争 - 路透中文网",
+          "desc": "亚洲竞相储存石油，加快可再生能源发展以应对伊朗战争 路透",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPcW1Cd0Mwc1pJOUR1MFdlMWxHSzRESGx0anZnd0FyYzJZRVAteGFZOFNvSEdjYjNZREFINVprWFhiVmIyZkNrZlNBM25GaVgzMGo4OFJNdmE0LVdJbmYxSFJILTZzaXRhTlFxTXZNOGhWamREdTlYQTI4dXJycS1lMFF6VEgyUHo3c3NUeV93NmY3RXowVEp2andOcWVTMmZpZUFVYXZKcGg1cVlwRjlaOUxsQnQ?oc=5",
+          "timestamp": "14:36:00Z",
+          "source": "Reuters",
+          "sentiment_score": 0.0
         }
       ]
     },
@@ -152,15 +152,15 @@
       "title": "AI & 前沿科技",
       "game_theory": {
         "bull_drivers": "生成式 AI 及大模型生态商业化落地加速",
-        "bear_drivers": "主要国家针对大科技公司的反垄断与AI安全监管趋紧"
+        "bear_drivers": "算力能耗制约 & 估值回调压力"
       },
       "items": [
         {
-          "title": "“这一切都不是不可避免的”——《大西洋月刊》",
-          "desc": "《大西洋月刊》“这一切都不是不可避免的”",
-          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOblZaNXh6YmxHSGZscG11UWxKQ05HX2tXQmtFbExRWVVVOVJ6dzJmLVNUQUNrdnprMC01azBBSkpTRlNJcjlmTE9rbFNncTI4Q2JHYzktcC1DX0dPeTJ4cVlFbF9ua1lVWTU3OWRkdVRuMTkyR3ZKWVdXN1g3YTE0cnhDQ1VxSkVjVW95UWMyRkdWYnVUTnNyZQ?oc=5",
-          "timestamp": "22:38:25Z",
-          "source": "The Atlantic",
+          "title": "人工智能不是“超级智能”。为什么没有人应该使用特朗普的术语 - CNET",
+          "desc": "人工智能不是“超级智能”。为什么没有人应该使用特朗普的术语 CNET",
+          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQTWFyczBwSHVSTlFIbEY5WTJHa0NTcUxRejNxb3JzZEVIR3c4S0Rpb2Zfd1dVTjdzcWNxaXhORVlkcDhfS0FEZ3Y0Z3VpbW8tanpIb0pialQ2UWt1bjRmNk1FTVdFNUtDNC1TZzRjdWNmVDkwb3JzbjVJbjNCN3lzVU4ta3Q1THplNVREcE8yMENUT2tuSGFncDR2MVAwUlRoS1cwQ2diOA?oc=5",
+          "timestamp": "11:00:03Z",
+          "source": "CNET",
           "sentiment_score": 0.0
         },
         {
@@ -172,27 +172,27 @@
           "sentiment_score": 0.5
         },
         {
-          "title": "马克·扎克伯格决定启动 Meta 人工智能的内幕代理人 - 纽约时报",
-          "desc": "马克·扎克伯格决定启动 Meta 人工智能的内幕代理《纽约时报》",
-          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOQUtkVjlwSXlOeEVudTI3NWxvd0RVeDBVOGwySmNxOGZ3ZDRmODQ0UTZsZGpLRzNhZXQxWFRISmloVm5xTVdlMFFnNzI4Tm4zdmpiWnlURXYtc2lPeWszZTh2T0RMSnpKbHhjdk5rRmMxUk1sYXFUNkxqbGlSWkNBdkRVTmlJdFIyR005NkE2c1g1aHlkYWFyLTRvbjQwdXFpdzBsUVFkSWI1MkhvaUxoNHQtbzR4RS14M0VCRlNB?oc=5",
-          "timestamp": "09:03:46Z",
+          "title": "人类特工试图在国务院网站上填写签证表格 - 纽约时报中文网",
+          "desc": "人类特工试图在国务院网站上填写签证表格 纽约时报",
+          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNSW45eVowQUtrRDU1czZqQ25KNW1UU0VLc201dkpjOEpJR2NFYUNmTnhITG94WnB6WlNsVkFfRzV5ZU1MeUJpY0NqX19lNVcyN3NLdXpSYk1xb0twRl85Z1RLRVllUVpNQTFPal9FaWp1SnNoNk8tbnN1a1ZpN1MxNVhR?oc=5",
+          "timestamp": "18:01:00Z",
           "source": "The New York Times",
           "sentiment_score": 0.0
         },
         {
-          "title": "被解雇的 OpenAI 员工引发了对人工智能安全和监控的担忧 - 福克斯新闻",
-          "desc": "Fired OpenAI employees raise concerns over AI safety, monitoring&nbsp;&nbsp;Fox News",
-          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5CMlZ4TV8tUDN5UE1pYU8tYlB4aUFST2lFZ090T3hoMzVSa0thTTBTVFFCMTNhTV9Ha21fandDcm9tS3c2NmR5RW5meHloeXVYMnc2Ty1nY1UyNWxiVlNvVXB0a3FjTU5NWFdkTzNod1hEdTkxVmx5MQ?oc=5",
-          "timestamp": "01:35:27Z",
-          "source": "Fox News",
-          "sentiment_score": -0.5
+          "title": "艾伦图灵研究所所长表示，英国不应受制于外国人工智能 - 卫报",
+          "desc": "艾伦图灵研究所所长表示，英国不应受制于外国人工智能",
+          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOU3ZZVGp0NnVEbEwyN3lJeUFnVHRkNW9oRnZDQk15SmhZWEJLNThBWXhZaG5HOFFwRXBKR0h2SDRkdGI3MFpaM1ZVaTdrTjBVQzdmVFNhWlJVTXlxLXBiV1BvRWdRampPdUFyaV9ITGhkUjRNRXRQVFh6SVJUZFdaeE9LQUJwM09SdVBBZWFvWHl5VXlxQkhNTHZOLXZCVjhURnFIUGVRWFFMWkwyNHc?oc=5",
+          "timestamp": "10:00:00Z",
+          "source": "The Guardian",
+          "sentiment_score": 0.0
         },
         {
-          "title": "人工智能不是“超级智能”。为什么没有人应该使用特朗普的术语 - CNET",
-          "desc": "AI Is Not ‘Super Intelligence.’ Why No One Should Use Trump’s Term&nbsp;&nbsp;CNET",
-          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQTWFyczBwSHVSTlFIbEY5WTJHa0NTcUxRejNxb3JzZEVIR3c4S0Rpb2Zfd1dVTjdzcWNxaXhORVlkcDhfS0FEZ3Y0Z3VpbW8tanpIb0pialQ2UWt1bjRmNk1FTVdFNUtDNC1TZzRjdWNmVDkwb3JzbjVJbjNCN3lzVU4ta3Q1THplNVREcE8yMENUT2tuSGFncDR2MVAwUlRoS1cwQ2diOA?oc=5",
-          "timestamp": "11:00:03Z",
-          "source": "CNET",
+          "title": "我们过于相信人工智能的拒绝能力——《麻省理工科技评论》",
+          "desc": "我们对人工智能说不的能力过于相信 麻省理工学院技术评论",
+          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNQUI2ZU5jbmZkcGVVZE5uNzRDZVlQTG1IRWN5WmNjSlRVMEowbkVDbmRmRzBvcnoxamdad3NadlloTGJDT2JuUE9NYTdlRTc2dE5GWjZrbC1KZDAzOEhtaWNRck1TOWFRSTZBNVVMaDZrM0FmeXhjeU5IUmp2Tk4zYWhqZ0tENnBTNHo5WC1UV3czdmR5bHltcEx5QWlyTzDSAaQBQVVfeXFMTnFGalM1T3NlVE40dE1tblR2aXZOOW14WnFhSHp3Qko4NE5XQlg0dWNPUUt6a3U2UGczRnFKeG9CV0NiRVJOenkycHZ4RVprdEhiZVRHVVB0QVRpcjBfcHlneThkaWV3TlZmYmNnLUdKQ1JlM2I3UmtyZGJSMkFsdmhSREI4TXlaWTNxRWRUMV9pd3VZbk5Ta2V3cmFJcVQ2V201T2M?oc=5",
+          "timestamp": "09:00:00Z",
+          "source": "MIT Technology Review",
           "sentiment_score": 0.0
         }
       ]
@@ -204,14 +204,6 @@
         "bear_drivers": "贸易保护主义风险上升导致全球供应链受阻"
       },
       "items": [
-        {
-          "title": "愤怒的农民不应该限制欧盟的地缘政治野心 - 英国《金融时报》",
-          "desc": "愤怒的农民不应限制欧盟的地缘政治野心",
-          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPc2Rvak9NZHdKbzRlbXo3bUIxVkpSYXJRdXRpQVBFVEQ1TGFrQXNDaDVOWHQzYVducWZyNHBkbE1vMVBYNlBPd0lBLXVPSnNlYWh4bm5YSUxZMWRRUFgxY2lmNW1XR0FSalQ3Wk9qTUNoWVFOZ1RPNkdpNmlVbFpWTVBSU3g?oc=5",
-          "timestamp": "10:00:02Z",
-          "source": "Financial Times",
-          "sentiment_score": 0.0
-        },
         {
           "title": "比亚迪高管称扩张面临的最大挑战是地缘政治 - 路透中文网",
           "desc": "比亚迪高管表示扩张面临的最大挑战是地缘政治 路透",
@@ -230,19 +222,27 @@
         },
         {
           "title": "我们所知道的中东的终结 - 地缘政治的未来",
-          "desc": "我们所知道的中东的终结 地缘政治的未来",
+          "desc": "我们所知的中东的终结 地缘政治的未来",
           "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1tVC0taERZZ2h5U25pSm01dmt3OGIyMWQ5cFlRbzl5YlF4SDVVNE5DSDNzVGFXM3BxWmhKZVh1TXJmTzl6UnlfMnJHbDN2ZkJ5Tl9NazNLcm9RWXdBUWMtNXp4WEZWaTBmclBrdUhUZFVvOG04amJ0WmgxNkhZQQ?oc=5",
           "timestamp": "10:00:42Z",
           "source": "Geopolitical Futures",
           "sentiment_score": 0.0
         },
         {
-          "title": "伊朗战争的地缘政治地震——外交政策焦点",
-          "desc": "伊朗战争的地缘政治地震外交政策焦点",
-          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE80NnN1ZEZIMUV1Z0Uxc1gxMkNLZDdyT2NibUVTUXB1ZWhUMGQ4X0plMkNLaU9haVU0eUMtc2hQZ0FZTUUwdUJoMlNPbmlLNG0xZnZhWGJVVC1yM0pWMGNCZjRiNURhU2tqT01wdk5n?oc=5",
-          "timestamp": "17:47:57Z",
-          "source": "Foreign Policy in Focus",
+          "title": "愤怒的农民不应该限制欧盟的地缘政治野心 - 英国《金融时报》",
+          "desc": "愤怒的农民不应限制欧盟的地缘政治野心",
+          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPc2Rvak9NZHdKbzRlbXo3bUIxVkpSYXJRdXRpQVBFVEQ1TGFrQXNDaDVOWHQzYVducWZyNHBkbE1vMVBYNlBPd0lBLXVPSnNlYWh4bm5YSUxZMWRRUFgxY2lmNW1XR0FSalQ3Wk9qTUNoWVFOZ1RPNkdpNmlVbFpWTVBSU3g?oc=5",
+          "timestamp": "10:00:02Z",
+          "source": "Financial Times",
           "sentiment_score": 0.0
+        },
+        {
+          "title": "地缘政治紧张局势推高油价，华尔街股市下滑 - 美股指南 - 美股开户 - 港股开户",
+          "desc": "地缘政治紧张局势推高油价，华尔街股市下滑 - 美股指南 - 美股开户 - 港股开户",
+          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNRFd6Qi1PLUdJNm12UXZLanY4bVo4U2tNcWdLeUVZYVNBakpoc2VwcDYwM3EwZnlBREYzT3BHc21vUWVZTEpXYm5nOG9ZSHNqam5fNVdJbzVVbWo2Zk5WanpkMmF1MmVfYktiLWJnOGt4YW5LekRmckE5VUlKN0JiNGJFU1ZNYkVnRnFFZzd5aU1XZkdxNUZQVEhnUDRkV2phRG1xb05n?oc=5",
+          "timestamp": "18:24:00Z",
+          "source": "Seeking Alpha",
+          "sentiment_score": -0.5
         }
       ]
     }
@@ -250,8 +250,8 @@
   "market_sentiment": [
     {
       "label": "贵金属（黄金/白银）",
-      "value": 0.1,
-      "sentiment": "震荡中性 (评分: 0.1)",
+      "value": 0.2,
+      "sentiment": "震荡中性 (评分: 0.2)",
       "sentiment_type": "neu"
     },
     {
@@ -262,14 +262,14 @@
     },
     {
       "label": "AI & 前沿科技",
-      "value": 0.0,
-      "sentiment": "分化盘整 (评分: 0.0)",
+      "value": 0.1,
+      "sentiment": "分化盘整 (评分: 0.1)",
       "sentiment_type": "neu"
     },
     {
       "label": "地缘政治与宏观雷达",
-      "value": 0.0,
-      "sentiment": "局势相对平缓 (评分: 0.0)",
+      "value": -0.1,
+      "sentiment": "局势相对平缓 (评分: -0.1)",
       "sentiment_type": "neu"
     }
   ],
