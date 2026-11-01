@@ -1,8 +1,8 @@
 {
   "report_metadata": {
     "version": "2.0",
-    "last_updated": "2026-11-01T06:00:04.693157",
-    "report_date": "2026-11-01",
+    "last_updated": "2026-11-02T06:00:05.521313",
+    "report_date": "2026-11-02",
     "title": "AURORA | 战略情报简报"
   },
   "prices": [
@@ -14,8 +14,8 @@
     },
     {
       "name": "白银 XAG/USD",
-      "price": "49.10",
-      "change": "-5.93%",
+      "price": "49.28",
+      "change": "-5.59%",
       "up": false
     },
     {
@@ -26,9 +26,9 @@
     },
     {
       "name": "布伦特 Brent",
-      "price": "117.64",
-      "change": "+2.40%",
-      "up": true
+      "price": "113.43",
+      "change": "-1.26%",
+      "up": false
     },
     {
       "name": "英伟达 NVDA",
@@ -38,8 +38,8 @@
     },
     {
       "name": "比特币 BTC",
-      "price": "77,523.93",
-      "change": "+0.42%",
+      "price": "77,800.12",
+      "change": "+0.47%",
       "up": true
     },
     {
@@ -54,15 +54,23 @@
       "title": "贵金属情报（黄金/白银）",
       "game_theory": {
         "bull_drivers": "地缘政治溢价走高 (中东局势升级)",
-        "bear_drivers": "美债收益率上升施压黄金"
+        "bear_drivers": "美元指数强势表现 & 美债实际收益率高企对无息资产形成挤压"
       },
       "items": [
         {
-          "title": "3只净利润率超过30%的黄金股 -​​ 雅虎财经",
-          "desc": "3只净利润率超过30%的黄金股 雅虎财经",
-          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQVW5wWWR2Y3FfZmFvVmtjb0t0SllkVW5GYzdJTFZxdHR5aThJZXYtakJuLUxQbHllY19uSzZVRUZTSlh0WWZfUzhWNVRCVjUwbzJpREpUdkxtbS1mN01RSmxhNlRaWWpoMW5ueFlaRWxYQkxfQm0wbFpGeFpja05qSWQwRjJJeEhaa2VZVWlEcEk0d01BMkJnb202QQ?oc=5",
-          "timestamp": "21:13:25Z",
+          "title": "金价刚刚触及年度低点。分析师怎么说？ - 雅虎财经",
+          "desc": "金价刚刚触及年度低点。分析师怎么说？  雅虎财经",
+          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPU0pPZHhycWdjRDdEQ3NfYlRNbXhlTGEtSHRfQlcwWWFxdl9KU1VZOGdvNHA0RnJ3WTVlaTNYZ0ctQUdUODJWSlhOOC1RT25LZXhPZW5oV2JaMk85aWxmR0FZaHhIVXl3cGt4cnA4MXJfWl8td244TGdoNGhfMEdUZVN3aWdsTVdRYWU5QW1mNVM2TDR6Z3d6Qlc1NVE?oc=5",
+          "timestamp": "19:54:53Z",
           "source": "Yahoo Finance",
+          "sentiment_score": 0.0
+        },
+        {
+          "title": "“我预计白银将跌至 30 美元高位……黄金将跌至 3,000 美元” – StoneX Group 的 Pavilonis - Kitco",
+          "desc": "“我预计白银将跌至 30 多美元……黄金将跌至 3,000 美元”——StoneX Group 的 Pavilonis Kitco",
+          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNQzVQNVIyNS1Dd2VVSDcxcVRZM1ZqNl84a0dnQWtrLUZ4RTRadkxnVDBQbS1IZHV2YWxNZDE3UU5NOHUtTHlUSjN2aFBxTHVXd1M1SmZqX0JvN1hKQzB0X3cwM0R6N1Ffc01HUHh3a18zbWFfZ0t2MGNXY3IzcER2LUVHaWQxLWJEcmdlRldVM2ttdnI4MmtscXctbEpvaXUyWXV2NWRTTjAweFdzX2pOTEIyMFFMOGlnY19jT0Z3?oc=5",
+          "timestamp": "18:19:06Z",
+          "source": "Kitco",
           "sentiment_score": 0.0
         },
         {
@@ -74,27 +82,19 @@
           "sentiment_score": 0.0
         },
         {
-          "title": "大宗商品价格可能上涨，而 PDBC 却滞后。归咎于期货滚动 - 24/7 Wall St.",
-          "desc": "大宗商品价格可能上涨，而 PDBC 却滞后。归咎于期货滚动 24/7 华尔街",
-          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNdXNIREhDN2FyUzJGMXVyT2VpZlRqYnA4OE1wZmpSQjM0ZmFPOS02VWt1ejVwbS1aSUR0YnRQdHlYdWZ5N2NiRDFRMS1kM1F0clJRVXAwQjRvNlZDRkxKZjF2bm9tRC1aMGNDZVQ2QWdyb0V0WTNmWkJjRU16T1g5RWJCQTN1VFRKMWJnRktLUjRvNFBWWWdydURraDc4dFlnSnFXQkJYTllLRENJWktqbW5n?oc=5",
-          "timestamp": "02:03:00Z",
-          "source": "24/7 Wall St.",
-          "sentiment_score": 0.5
+          "title": "金银比率刚刚达到 80。历史告诉我们接下来会发生什么。 - 雅虎财经",
+          "desc": "金银比率刚刚达到 80。历史告诉我们接下来会发生什么。  雅虎财经",
+          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPSjRZQ0szSkl3dlVlY0EybUtCX1lEZlBQMndlZ2tDbG81bjE2Y0QyYXd6MklOOWhoY0VaZjJod1R3SE1WTzN0cThtbklqWDVsaGRfQUNtMktkQ2pLdnFrWlFFaDRZdEU2aUFaNkRtcV9aLW5DOEg5TjhQLUpOTlJjaDNZaXpUYmVLWlpBcDZJWGZjNkUtMFVZS3FabjY?oc=5",
+          "timestamp": "18:15:00Z",
+          "source": "Yahoo Finance",
+          "sentiment_score": 0.0
         },
         {
-          "title": "随着股票损失的增加，黄金再次受到强制平仓的打击；基本面前景日益乐观 - InvestingLive",
-          "desc": "随着股票损失的增加，黄金再次受到强制平仓的打击；基本面前景日益乐观 投资直播",
-          "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPMW1xUXZFVVhkeW03S1V6RzNJVzVTTC0yeDZVNXdKYzFYYUhmQjZmdllKZzJXUV8xcXJtN2NWU01aLXdodHpvdEZhbVNtSXQwV1Bkb18zOTNNZnFVYUtPc2VucE5GaF91a2xuc3VVQ1V4QXM1TWZPb2E1THVOMDJaWDM0SHNMVzhiYTJqMWZESEw5aElEVVdRZEs2cGtJMktaVGRJbnhQMUQwa0t1eWRVc2U5X3hYWnlHMUU3TEdHa0tuTmw0aHpReW00RzJLRTRfaGsyLXY3aEJOVWZ3VFJR?oc=5",
-          "timestamp": "09:27:06Z",
-          "source": "investingLive",
-          "sentiment_score": 0.5
-        },
-        {
-          "title": "印度黄金进口量下降81%；全球价格可能受到影响 - 日经亚洲",
-          "desc": "印度黄金进口量下降81%；全球价格可能会受到影响 日经亚洲",
-          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPU1hESVN5SXhxMXhRZ202MERnQUhxRzFZNV82RWJBcF9xQUlzSGFjYTNQWVdIU3MtTHYzQW0wRzMyMVR1NWZuU2NjVXdwQURad3pwMzZYMjEwQ242ZHFHalVvUlFTT09FMWE1LXlQMktHVzkyS0dFX3FsRXpmcHJUMUVPRHZYS3gtRnh3c2dKeklvYllxTWxTZUpCNFRyN2pQZzJtRzc3eEx5bzNTVEVzeXRGRQ?oc=5",
-          "timestamp": "05:36:00Z",
-          "source": "Nikkei Asia",
+          "title": "GLD触及52周低点后，黄金、白银成为焦点，SLV跌至11个月低点——彼得勃兰特看到潜在底部的迹象 - 雅虎财经",
+          "desc": "Gold, Silver In Spotlight After GLD Hits 52-Week Low, SLV Sinks To 11-Month Low – Peter Brandt Sees Signs Of A Potential Bottom&nbsp;&nbsp;Yahoo Fi...",
+          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNXzR6SE5qenhYbmJ2MHVoc1l1RjNtVVZhWFRhbDhONnhfdHV1VmpoR0t4WHpjVUlDYmVWQzZFckZuOGZvWG9LUldiVzJqRlg5X2ZPdzQ1OTJITXJCdzRkMWwzQ2F0QjBSb2poZER2bGlCUHRGV2VkQ045ak5weGwtWHNqY1pKNVRNX1BMeHpjTy1fb25jbl9zOWoySU5ySlZvd3c?oc=5",
+          "timestamp": "17:10:58Z",
+          "source": "Yahoo Finance",
           "sentiment_score": 0.0
         }
       ]
@@ -115,35 +115,35 @@
           "sentiment_score": 0.0
         },
         {
+          "title": "非洲银行正式成立 50 亿美元能源银行 - 路透中文网",
+          "desc": "非洲银行正式成立 50 亿美元能源银行 路透",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQX0psczBDdnpUSWlSNnRmQURlR2tEUFhHVFZkZktQRTNRNWNNUU1laFplb2RfbDNGNGItRmF4d3A4XzdvdkdmZFQyMEQ1Q0c2bUhiWEZUSlpuV2ZXRXBsS0kzTkJkS2JJNGFDc2M1M1Y0WUc0UnVwa04xWVZIN2xJVFFjeUpLck1IUU5aWWpjWU92ZHc2VVNNYVFvTzJXdDlZSFNrZmx3enBYTkMx?oc=5",
+          "timestamp": "16:19:40Z",
+          "source": "Reuters",
+          "sentiment_score": 0.0
+        },
+        {
+          "title": "特朗普承诺大幅削减能源成本，但汽油、柴油和航空燃油价格却全部飙升 - CNBC",
+          "desc": "特朗普承诺大幅削减能源成本，但汽油、柴油和航空燃油却全部飙升 CNBC",
+          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPaVZRU2JRSWM2Ylo4a3NKR3RUdkVaX2JyeWZaU04zejZBRGFUVlk4VTU0MHVmYTVtWDZiNlAxZUNkcmRydmhyQkdQbDFyQm93MjZhZkF3MUw2eWE1ZjlmTk1uZXNNSlJDTURQSHQ0TVBEbF9kdDhoY2NuazlXb05VQVhn0gGHAUFVX3lxTE93THBWTXRfcWhNYmRfanNqbWdYbEdlazdoNFdqMWdnR3Rjd3pLTEJka24yakhNOXY3dmFGSWZDMUM0VV9SN09rOGxwUzZzWHE1QXdHVzRNQXlzeVJweTE2b1pycktiSjJpdzV1WUpmejk1S3ZvZ2FlYjhJZU5PMXVXTlVsb1BPbw?oc=5",
+          "timestamp": "12:49:58Z",
+          "source": "CNBC",
+          "sentiment_score": 0.5
+        },
+        {
           "title": "截至 2026 年 10 月 30 日的当前油价 - 财富",
           "desc": "截至 2026 年 10 月 30 日的当前油价",
           "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1sQlNTbGZfT1dXT2JUUDZ6UGRIU3Y4WWVvRFdaSVp0OFp4TlR1NkhNaHJYd1cyUHRud3BQWDR0ZXBKSmFJU3NyeUJNUHA2SlpPTmgtVnM4dXBmQU0zbVdtaFVB?oc=5",
-          "timestamp": "14:03:14Z",
+          "timestamp": "13:30:00Z",
           "source": "Fortune",
           "sentiment_score": 0.0
         },
         {
-          "title": "独家|雪佛龙重返偏远地区寻找石油和天然气 - 华尔街日报",
-          "desc": "独家|雪佛龙重返偏远地区寻找石油和天然气 华尔街日报",
-          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOY0NEOTFzM0FULVhqYkptZHk0b0NoSVVMVkg5MVF2MHFfMW0yYTkxZ0ZnVEFFbDhKZjlvR3l5NlVXMF85Q3pEU0tmVW45R0ItQk1pMmVwSzA4eFROdDBHYjBMS2gtQXM3N2RLalFGYXFINlpLVmx3RGdMSnpvNjRGSEhVSWZMV01ZakdfeDdJZmZaZnlPWEVUUUE1cVBEUlBsTUtCM2hSZG0xdUZ6WVVJcFF6WQ?oc=5",
-          "timestamp": "16:33:00Z",
-          "source": "WSJ",
-          "sentiment_score": 0.0
-        },
-        {
-          "title": "These IBD 50 Energy Stocks Show Gigantic Earnings Growth - Investor's Business Daily",
-          "desc": "These IBD 50 Energy Stocks Show Gigantic Earnings Growth&nbsp;&nbsp;Investor's Business Daily",
-          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPZmtaZkxLMUtubnN1RDBOdlZNNlVLZEhmbDBlX2drUkx1LVhobTJlek9lYjZJR1F1bzNZdC04dndpMXV0Zl82TXYxeWRPOVpXQlZvRXE4T0l0RGVqTnBfYkV2SDNyRzhqd016NUQwMUJJT054UE8xWXFKX1lpME85TkFzcHdzdmV4QWJuMg?oc=5",
-          "timestamp": "18:56:00Z",
-          "source": "Investor's Business Daily",
-          "sentiment_score": 0.0
-        },
-        {
-          "title": "英国能源公司准备在高税收和油价的情况下达成更多交易 - 路透中文网",
-          "desc": "英国能源公司准备在高税收和高油价的情况下达成更多交易 - 路透中文网",
-          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPajZvWmx1cVNMeHVPeHhIXzlVUnhwX3R6WTVnODhySnZvR2Y1QzZ4Y3FBaEUtS0hTenZHbmZWd2Fla0hXc3RpcG00SGtHckdtejJJT19nRFYzYVNrb2dtZ0FSR2lqSlRtZURQNHFqWU92Smh2SGdHMmcxeDduUnlXM19PdmtPekxtemJsbGZUYUNNUGUwdUxhQ2VZWjd4eGl4UGR5NTlDUUhLajQ?oc=5",
-          "timestamp": "11:18:37Z",
-          "source": "Reuters",
+          "title": "非洲能源银行成立，资本 50 亿美元 - 彭博社",
+          "desc": "非洲能源银行成立，资本 50 亿美元 彭博社",
+          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOUGFERGF2R19nMk85X2szcFFlbWd1dUhJR0tZZG9wcHdaT21fYWdOaFJhWFg4SXFXRXY3RV9zSF81Wm0zZ2pxYVdaSTM3ZUJkZlhuMV9TZm56THZSYWh2VlhIUmZPWUtnRzF3Y3ByMWRSTXVhTWVpa1VHbFhSZExwWmhWQU1aSVIxUnZfWGFJcHVxVWpYZDd1UDRkMUo2cjBZdTVZ?oc=5",
+          "timestamp": "15:55:47Z",
+          "source": "Bloomberg",
           "sentiment_score": 0.0
         }
       ]
@@ -152,7 +152,7 @@
       "title": "AI & 前沿科技",
       "game_theory": {
         "bull_drivers": "生成式 AI 及大模型生态商业化落地加速",
-        "bear_drivers": "算力能耗制约 & 估值回调压力"
+        "bear_drivers": "主要国家针对大科技公司的反垄断与AI安全监管趋紧"
       },
       "items": [
         {
@@ -164,19 +164,19 @@
           "sentiment_score": 0.0
         },
         {
+          "title": "技术治理学者 Gillian Hadfield 谈人工智能安全 - 约翰霍普金斯大学",
+          "desc": "约翰·霍普金斯大学技术治理学者 Gillian Hadfield 谈人工智能安全",
+          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE4weFJPWi1hQ3Y5UlZTakM4ODAzdU9jbWJhaEJVdk9NZU82UnM2QlQyZUxzWFg0QlRhUzJYVlplb1d1Sm1oZFU3aGVCY2hFb3BrSlc3akRra2dPYTc4UVNwMXJqVTV6WXEyMXFkdHM5dUNjV2s0TlE?oc=5",
+          "timestamp": "11:00:00Z",
+          "source": "Johns Hopkins University",
+          "sentiment_score": 0.0
+        },
+        {
           "title": "人工智能支出热潮中出现裂痕 - TechCrunch",
           "desc": "人工智能支出热潮中出现裂痕 TechCrunch",
           "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQN3RLejV2bml3REY1cnN2SUpGQV9VOEpKT2FDVUxhcEVESm5PNE1xdEZqTHJ6QUJIY2NIWGNOdXZVZmRXZFFfcko0X19lVE8yUTkwUlVfODdpV1FUTVdIQU9fQ1FaeW5RdENzZlIzUWhZQjJYY2htMlVBWjRseVQwM3hxRHE?oc=5",
           "timestamp": "21:17:40Z",
           "source": "TechCrunch",
-          "sentiment_score": 0.0
-        },
-        {
-          "title": "分析|担心新一波的人工智能黑客攻击吗？立即采取这些步骤。 - 华盛顿邮报",
-          "desc": "分析|担心新一波的人工智能黑客攻击吗？立即采取这些步骤。  华盛顿邮报",
-          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPLTU3RC1zMk92Nzc4NnpGQW5ReE9mT3dFTTdobk1tSnZxUDNwX3Q1SHNuTFFGMXF5QWU4Y28yNHdEOGtuYjdFY3VwbkZWZm4xbEI5SzBIeFlnRU95RjJEY0VoRW1GRjdTRHdGalJHeUp5N3B1REJGWVZLNjhGVEphSG1VOVY2RGRqeTFSLXRrbzFaZ29xbHpqaEpWQkVVMVVob2JxUXo5b1otQlBZRXpaY3VR?oc=5",
-          "timestamp": "16:00:00Z",
-          "source": "The Washington Post",
           "sentiment_score": 0.0
         },
         {
@@ -200,48 +200,48 @@
     "geopolitical_macro": {
       "title": "地缘政治与宏观雷达",
       "game_theory": {
-        "bull_drivers": "多极化国际秩序加速建立，避险流动资金重组",
+        "bull_drivers": "地缘政局选举不确定性引发国际资本避险流入",
         "bear_drivers": "贸易保护主义风险上升导致全球供应链受阻"
       },
       "items": [
         {
-          "title": "Secretary of State Marco Rubio at a Plenary Session on Geopolitical Issues - U.S. Department of State (.gov)",
-          "desc": "国务卿马可·卢比奥在地缘政治问题全体会议上美国国务院 (.gov)",
-          "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPeXNfVWJXTzk3WEFZR2xrQzN3SWc0YWhSc2RoVjlzZFJvM3YwNWFjakc2T3VXcXI0M3hieGhUV09lM3lyR3I2QnY1R2daZG1GM2xpTy1QNTBsR2pxMTBKeTlTanRUZndDRmhaal83R3k3bDRJa21tRWFtUFRfR3Nndm9uWmloNkVCYktzcTVXM292R1B3VWNjdEdhaEhsWkdQNUk4WlpiTXRNeDRhazR3Z00ydTJaTVFCdGIzZG5vX1RhSXVPM215TE9RSUo1elZwekM0?oc=5",
-          "timestamp": "17:20:54Z",
-          "source": "U.S. Department of State (.gov)",
+          "title": "How Geopolitics And Bigger Budgets Are Impacting The Defense Sector - Seeking Alpha",
+          "desc": "地缘政治和更大的预算如何影响国防部门 - 知乎",
+          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNZlJNLU8wTk9EbndzNjNTMWZXNFVSU0I5Zms5ZVpZQWxTOEkwaldjcU12UnJsMkJUd3JIa1N1bFNpYXIzWU53TzV0NE41Wk5Pb1IzbE5HWmhaTkJSaWlzZV9zMVl6RW1jX1hPZnFnMkNiNmRpbFM1ekRGb2E3WlQ2dklZRlAtZ3lFMWszaGZhdzlUdnlyX1dET3E3ZzM?oc=5",
+          "timestamp": "05:20:00Z",
+          "source": "Seeking Alpha",
           "sentiment_score": 0.0
         },
         {
-          "title": "东南亚如何在地缘政治竞争中实现其商业承诺 - 财富",
-          "desc": "东南亚如何在地缘政治竞争中实现其商业承诺",
-          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNRm1PNS1BMS1odXJuNWVqeC11UWJjVnFkSVROb2ZQbWtxNTduVTVoZVhRbERKZFJjVXhjOW9CN1ltQmZwXzZCWWpXdF80dUxra0lVOHVOMEV3aGhyM0kxQ3UyYnFzcVhZWmVOd183Njh3MTBNenlNN2ZLN05Sb2V5d2JxWGVBYVhHNHFYNkVYRW5BcnRPLUZralNDVlVtZXV6YUJGTU1xUS01ZUpxanpMNg?oc=5",
-          "timestamp": "11:31:09Z",
-          "source": "Fortune",
+          "title": "解读信号：新国会的地缘政治影响 - 大西洋理事会",
+          "desc": "解读信号：新一届国会大西洋理事会的地缘政治影响",
+          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNb1Y1TTZHTzRfbUwxTmQ1Zlh4VW0tMEpCN2dUanctV05PN1E3VjR0bTRCazFlWmtoYjZtYzVMNHd0a0JEN3pfMEFhRUlKX3V4Z3h5cUNKN21LQnV0SWY1ejdvR2tFTFdmTG5oS3ZMSUJ5Z09xYkZLZjZMcWZtOVdBNmk1djFOSmpLRHRpVXRDTHJpWnppc2g4QTFia3E2ejM1WWFEaGJBdUY0dw?oc=5",
+          "timestamp": "16:00:00Z",
+          "source": "Atlantic Council",
           "sentiment_score": 0.0
         },
         {
-          "title": "中美科技战进展如何？询问 AI - Bloomberg.com",
-          "desc": "中美科技战进展如何？询问 AI Bloomberg.com",
-          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPRDlGNDA3akR4eDFvczk1NmR5ZGx3S0RZV2IwMFlHUUVNV216aGFwVDRlQnhoMnNzbFlEeTVqODJiaWJTQkZiVzFmcFlocHVaaWU2OEJpQVhWSW1wQUFZWFdhSWFzejJacU5PbGhVRUZJTWh2dVpNZjF3LThORWE4SHJ1WUFJM3NtaUdRQmlhYUt2akt5Wi1YbDlaYkpnRHFINmhOTFV5MmVKUQ?oc=5",
-          "timestamp": "19:00:24Z",
-          "source": "Bloomberg.com",
+          "title": "选举可以改变地缘政治吗？ - 地缘政治期货",
+          "desc": "选举可以改变地缘政治吗？  地缘政治未来",
+          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE94eFk3YjBFXzQyU2NSWWx1aEl2dnI4VHZCS2pxRC1WYVlmUVdjUDd2enlqR0doU2h4cDNtOEFaQWpiRXZRVHlrUm1uSHNHVlA1U25VelhsYTNObEQ1ejViSUI5VDJNbzR6RVVqbExQdG1qTXc?oc=5",
+          "timestamp": "21:12:20Z",
+          "source": "Geopolitical Futures",
           "sentiment_score": 0.0
         },
         {
-          "title": "欧盟新的北极战略标志着其地缘政治思维方式的转变 - 对话",
-          "desc": "欧盟新的北极战略标志着其地缘政治思维方式的转变",
-          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQMTdYQzJybHBrUlh4N2dsMXo2QU9FNDYzQXN2VlVJdnlSampzSkQ4MTIwZ1B5VzJvb2N3Q3BEdnpVWEpGaDhZS3pxWlhNbnhZQS1sMmN1YmM3U1pLb09OM1h6bW11cUFKRXZvRzA1YXdRekQ3Y2R4a1VpVGt1bFV2YTNVcUwxSWtLeDE1N1NhMlZ4cDBmZWo2S3Z1cy1nRDdGWWc?oc=5",
-          "timestamp": "13:46:02Z",
-          "source": "The Conversation",
+          "title": "地缘政治正在重新定义多元化 - MSCI",
+          "desc": "地缘政治正在重新定义多元化 MSCI",
+          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPbjRYLUFORkN4YWdQSjNDQXhHSkQ1eXpQQ3YyVHp0M0xYTVV3WnA5NmNUajNzS0wxMldsZTd3MkZKY0tlbndPa0czOWdaZjUxRzRyRk1oTWM2OGdoWlFGX3J2OGxWR1VhemRjNHo0WndaWG02NzZpZDkxQklZZHhsQzR4UXNDUVpEak01N0YtaTJud3REbUVPQk9B?oc=5",
+          "timestamp": "04:21:10Z",
+          "source": "MSCI",
           "sentiment_score": 0.0
         },
         {
-          "title": "美国小麦农民在干旱和地缘政治混乱中应对不确定性 - 卫报",
-          "desc": "美国小麦农民在干旱和地缘政治混乱中应对不确定性 《卫报》",
-          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPN01TSnNxQ1poLUdQdXRuZlZ6RERDV21NekdOcWw4MEFyTjZ3bTZZNEpVRnhoVGlwN2xOVHFpeGZEYllPdEgwVXRGdnpleG5ONURFenRQWmVzSEcwbXFXMWxqVFBSMTBFQVBESTJBM2x2Wks2ZktFWENWVHRXcjlhMkJzdmpWTkxIOGc?oc=5",
-          "timestamp": "07:00:00Z",
-          "source": "The Guardian",
+          "title": "贸易基础设施的地缘政治 - 中东研究所",
+          "desc": "The Geopolitics of Trade Infrastructure&nbsp;&nbsp;Middle East Institute",
+          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5vblc0Tzl5U0sydTVpZ0c1NmZjd0gxMjg2OWg1SklsaFdxOGkxX0thbHk0S1lrRlR6cmI1MjhCWFRZVDVUZmhZOV9FTXBvLU5VVlZ1YnhDRE81UEJNQ1IydXQyM0NKQ1l0TzFKd0FTcThiREE2Q0tV?oc=5",
+          "timestamp": "21:45:05Z",
+          "source": "Middle East Institute",
           "sentiment_score": 0.0
         }
       ]
@@ -250,14 +250,14 @@
   "market_sentiment": [
     {
       "label": "贵金属（黄金/白银）",
-      "value": 0.2,
-      "sentiment": "震荡中性 (评分: 0.2)",
+      "value": 0.0,
+      "sentiment": "震荡中性 (评分: 0.0)",
       "sentiment_type": "neu"
     },
     {
       "label": "能源（石油/天然气）",
-      "value": 0.0,
-      "sentiment": "高波动震荡 (评分: 0.0)",
+      "value": 0.1,
+      "sentiment": "高波动震荡 (评分: 0.1)",
       "sentiment_type": "neu"
     },
     {
