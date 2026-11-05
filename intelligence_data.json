@@ -1,69 +1,93 @@
 {
   "report_metadata": {
     "version": "2.0",
-    "last_updated": "2026-11-05T06:00:04.022083",
-    "report_date": "2026-11-05",
+    "last_updated": "2026-11-06T06:00:04.834830",
+    "report_date": "2026-11-06",
     "title": "AURORA | 战略情报简报"
   },
   "prices": [
     {
       "name": "黄金 XAU/USD",
-      "price": "4,070.10",
-      "change": "+3.29%",
+      "price": "4,097.30",
+      "change": "+0.60%",
       "up": true
     },
     {
       "name": "白银 XAG/USD",
-      "price": "52.29",
-      "change": "+5.46%",
-      "up": true
+      "price": "51.79",
+      "change": "-0.63%",
+      "up": false
     },
     {
       "name": "WTI 原油",
-      "price": "88.17",
-      "change": "-8.24%",
-      "up": false
+      "price": "91.07",
+      "change": "+3.35%",
+      "up": true
     },
     {
       "name": "布伦特 Brent",
-      "price": "94.72",
-      "change": "-8.57%",
-      "up": false
+      "price": "99.02",
+      "change": "+4.65%",
+      "up": true
     },
     {
       "name": "英伟达 NVDA",
-      "price": "200.13",
-      "change": "-3.17%",
+      "price": "181.60",
+      "change": "-9.26%",
       "up": false
     },
     {
       "name": "比特币 BTC",
-      "price": "80,155.44",
-      "change": "+3.63%",
-      "up": true
+      "price": "75,709.40",
+      "change": "-5.84%",
+      "up": false
     },
     {
       "name": "美元指数 DXY",
-      "price": "101.53",
-      "change": "-0.34%",
-      "up": false
+      "price": "101.60",
+      "change": "+0.09%",
+      "up": true
     }
   ],
   "intelligence_sectors": {
     "precious_metals": {
       "title": "贵金属情报（黄金/白银）",
       "game_theory": {
-        "bull_drivers": "中央银行持续增持黄金储备 (以 PBOC 为首)",
+        "bull_drivers": "地缘政治溢价走高 (中东局势升级)",
         "bear_drivers": "美元指数强势表现 & 美债实际收益率高企对无息资产形成挤压"
       },
       "items": [
         {
-          "title": "各国央行第三季度加速购买黄金 - 华尔街日报",
-          "desc": "华尔街日报：各国央行第三季度加速购买黄金",
-          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNNE5ITWFudmVrYUgyekVzeUp1YkVlYTBkY0pZbTJSUFhraGRFRXdpczRWODFrOUpRRHQwU3VlbmJnNGk1ekV3MUpfOFJoa2liOEEtNEZDSEZQZDlUWENqa1NlaHJjZ25VYTNtMGVDQ2kxa3hJV25pZkxjTUJKandqeUgyUmJCaGpJWU8yaHBMQ2l4M19qRnFPYS1SSEZTMlF6ZFBubmRPMDgxUDFzbmtiaA?oc=5",
-          "timestamp": "11:57:00Z",
-          "source": "WSJ",
+          "title": "黄金、白银一天内价值突破 1 万亿美元：是什么推动了贵金属上涨？ - 雅虎财经",
+          "desc": "黄金、白银一天内价值突破 1 万亿美元：是什么推动了贵金属上涨？  雅虎财经",
+          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNWlpQUjlZUk9DbS0yS1pQZnAtSGNmN3NLQ2JXYktES1NLcDQtdl9JVnJaU1Y5RmtHTVRsM0tDWXhyNXF3c1p0N0I5RS1MZzZydk9DNTcyVUpyb2cyU0Z1ZFFSd0YxZmNqV2NsWVNydXlVN28zMXduOWd3Ui02UEtDcktVbE5oUnBMbXlDd05aTVpBZ0hCYmFyemRIR0NYWkU?oc=5",
+          "timestamp": "03:56:51Z",
+          "source": "Yahoo Finance",
+          "sentiment_score": 1.0
+        },
+        {
+          "title": "美元企稳黄金上涨，美国中期选举结果影响国债收益率下跌 - Investing.com",
+          "desc": "美元企稳，黄金上涨，美国中期选举影响导致国债收益率下跌 Investing.com",
+          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPR1MxRGVnd2pXLXhLV1VsSDhRV3JNUlQycWZBa1BjOUZDRElvcUVTX1VidjFFRXBZMUdGZ2MxdGMwWTd3ZlNfeS13ZXBDTFVjU1FvQnB2QUVCeU03WU1aWnFoZHNxejRUWlhQN1FfYkFfbU1TZ0Q2VU9mOHJRVktsazNjMl9mc3JYUHpuLUJqYk9udUtzRlpPOExtZHRXQVl4Q3g4WkZFQUJnQ1F4VmgyNHJTMmJwYlFvc1p4a0tYcHhKQkItVGdiMmNn?oc=5",
+          "timestamp": "02:05:48Z",
+          "source": "Investing.com",
           "sentiment_score": 0.5
+        },
+        {
+          "title": "伊朗外交希望推动油价暴跌，金价上涨，这是对花旗理论的早期检验 - InvestingLive",
+          "desc": "伊朗外交希望推动油价暴跌，金价上涨，这是对花旗论文投资的早期考验",
+          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOeE03ZlA2WUc5LW9mQ3hqZmlmcGVDa2NUUm5McFdxdVdkdThQbHNJelZLSkYzTDFITFN2Y1M4ZmU4dzB2ZUpyVmJRNklJYUhvLXFEbnZtd1pxMV9MUW1FYTUzMUJUZVhtaExFZmdGY3lUTVk1NWVoQ0NJU2tVdzFfVkFkZ1dBWkFxcS1OeVhsMDJfb21pemMxOXpqcFdMcjdaelRsMS1ZWm40UDd6MkhNeHlpWG1RN0N5NWc?oc=5",
+          "timestamp": "02:12:40Z",
+          "source": "investingLive",
+          "sentiment_score": 0.0
+        },
+        {
+          "title": "Gold, Silver Add $1 Trillion After US Midterm Results: 4 ETFs to Trade As Rally Heats Up - Yahoo Finance",
+          "desc": "Gold, Silver Add $1 Trillion After US Midterm Results: 4 ETFs to Trade As Rally Heats Up&nbsp;&nbsp;Yahoo Finance",
+          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQWThwWGdVRHd5aGhFZWd3UDd3MHk5VEhMOEJ0MWR4clVBNk1WNXBoQWxXTjlxSWUweTdBUnlWazBnWFA5VzFqVi0xTHN6WUszOWRlVEc1UGU0WEl2SG0zS2hnal95dy0xc3F2SUhoemFLdjRwRFdHbXQ1NUNieVc3TE44UVYxc1k2dmZYTjAxVWdNWExuVzlYYzM2WkE?oc=5",
+          "timestamp": "12:30:05Z",
+          "source": "Yahoo Finance",
+          "sentiment_score": 0.0
         },
         {
           "title": "SLV跌至近52周低点，GLD盘前下跌——世界黄金协会将2026年黄金投资预测下调一半 - 雅虎财经",
@@ -72,30 +96,6 @@
           "timestamp": "11:41:50Z",
           "source": "Yahoo Finance",
           "sentiment_score": -0.5
-        },
-        {
-          "title": "美元走强、美国经济数据强劲，金价下跌；关注中期选举 - Investing.com",
-          "desc": "美元走强、美国经济数据强劲，金价下跌；关注中期选举 Investing.com",
-          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQZU03WmxCbnZzNXBLNmlNTXc3MUtDWDBsQ1dIOU1yVHRzR1NKWUw5eXFjMEJINm9hRmNCSEc2WF8zeTR3MmZaYkF1YW1kSWpEeGFHV2p0RmFsWE5Pby1aRWZxTmNxYUZGRUF6T2Q2WWhyYXdjSjcyYnlVaEY0dmtxYmtRYm9uRVpaVDlSY3Q4SjlHd2x2U2d1YnBUYTB0c0xsOTl0YTFqemcwTF9VR0k5ZHBzRHA5X3YxZFlleGsyZw?oc=5",
-          "timestamp": "01:07:52Z",
-          "source": "Investing.com",
-          "sentiment_score": 0.5
-        },
-        {
-          "title": "黄金从美元和收益率走低中得到了线索。技术面也给买家带来了推动。 - 投资直播",
-          "desc": "黄金从美元和收益率走低中得到了线索。技术面也给买家带来了推动。  投资直播",
-          "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNdTdWclV4S295YURIS2NHa3BpSUdvT2hlald0Rzd2VE1sNGVzZmVfcTdmOVVOYW9PNk8zUXNGdkNEb19NWFpESXlSOGl4WWttM2VoTDBkbXJSSVlSQktiM004MWVMR29RTm5FNl82STh2ejNqN3hpRTBfb3V0d3BubTI2MW0tTnlwak04b09JT0dObEc4Y3o3czVBbUVGTTZ4N1g1NGt0dFUwOU13el9CZHhjbWs1TEpxSV9YUXFNZUxsQWRPcmx1OHFzOGdJcHpnOTg3dHFnRFZkNDA?oc=5",
-          "timestamp": "19:38:22Z",
-          "source": "investingLive",
-          "sentiment_score": -0.5
-        },
-        {
-          "title": "在 Dhanteras 购买黄金？去年买的黄金价值多少？ - 今日印度",
-          "desc": "在 Dhanteras 购买黄金？去年买的黄金价值多少？  今日印度",
-          "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNOVRySWxQeUdkOHg1bmdVcmtjRFdNV1dZdG55d3BfelhXM2FVUU8xNnQ1NnRjVU81UnR5bDRYY0luMWdCaW0xNVZmM3hyMm5uZ0xOTDBHSFdfUUpvc3JBRW0wUVN3ZTdFLVk2amc1V3I1aFd1MjBlTHBhNlJkSzJYem1BN1hsY1VPNGc2eVFpMG9mTTFqZ2o1S3JsNzRScG45T0ZxR3pkRGhDRE9BNUY3T1BKNXg2ejQxVEc2NUh6NTNBSmJ0akNJV2UzeUVONWl3ODFEQV81MUJBX0VvbHFwYVpmOWh6Zms2aHEyS2FIcHdaeXRqTlJiNjRB0gH_AUFVX3lxTE1haDE1LTQtNnU1WXBFVktEX1d5d3ktWUd1d0k0VmVqZ0NKYmZYcEdnRmRMZWlVYjVidDk2Uml1U29GTDVtV3poN3ZrREVXM29fNlVGV1MyMmc0UloyN002bnJidkZyOVh2MzZab1FoeldELXdRSjZvRXpLdFI3VDdQUmxRYzR0aDZ5Q3dBRGFKNE12VGg4N3dVVnE1NkRzb3U2QTdLWDZEV1RxYlNtOXBlU3hCQXRRQlktWV92b0c5ZjI1MVNPQW1LcnNKS1c3dWxhQ3RRTjd1cjd1bk8xenVFTk1ZNnlrRWdmbHk1QWZ2V2hqVU1XaFR5anV0RTRVQQ?oc=5",
-          "timestamp": "02:30:00Z",
-          "source": "India Today",
-          "sentiment_score": 0.0
         }
       ]
     },
@@ -107,6 +107,14 @@
       },
       "items": [
         {
+          "title": "科学家发现堵塞的过滤器可以彻底改变炼油业 - 科学日报",
+          "desc": "科学家发现堵塞的过滤器可以彻底改变炼油业",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE41aVJyMmFMZnpTd2tWUm9YOEV3dDJ0M2JXOUlqSDU3aS1BODJuNjh3dkpEeGVGTER2d1pWMHIyTVBUSjhfZVdwelBiRi1HMy1reGVMb1BCQVA4MzU1Rm1nTkVkbGo0aklTLVhjcm9fdw?oc=5",
+          "timestamp": "14:07:16Z",
+          "source": "Science Daily",
+          "sentiment_score": 0.0
+        },
+        {
           "title": "“地震”蓝色浪潮引发油价、能源股下跌以及电力允许改革的机会 - 财富",
           "desc": "“地震”蓝色浪潮引发油价、能源股下跌，以及电力允许改革的机会《财富》",
           "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNUjhfQlk2YVZjTW9CUGdkMHlxQnZMc2Y5TnhrWUhZbVhIVEFLbnpTakVKY1Z0dXRoTFUxZ2pxTm1PVVJqbkRwN2w5Mkp0LUQ4T01OQVJubXpEOGQ3UngyQ3NjQ1B2TG10MVhNSi1mVmJ6V3Q5UVAyRUZheU9ZTHZ2Y1k3cXJiX0JRZTR5RTcyZXBZMEptTV81UUc3Z1h3cE5lTldITXlEbndhZw?oc=5",
@@ -115,35 +123,27 @@
           "sentiment_score": 0.0
         },
         {
-          "title": "由于市场希望通过外交手段解决伊朗战争，原油价格连续第二天下跌 - CNBC",
-          "desc": "由于市场希望通过外交手段解决伊朗战争，原油价格连续第二天下跌 CNBC",
-          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQNjh3NEVPYnU5cTEtUE1OU0pwY3hYNE1qaHdxRVRjNGVSYlQxdndWM0hVNWpaa3RuRVd2MGZFQzY1aVQtVHVJSURmQ0lfdFFRdVB6MEpGV2lOR3VNbG8xSkFzRTZSUEFOSG9NMV9wZ3NiR1NOOHBmalNqeWlTTnFWU0dWbGFkaXAyNU5JQjMxODdwN1VnQzF1OGZoc2RtRWpLS3fSAacBQVVfeXFMTzVnZ0dQYzNVdFdLR0FiRVVXeWozMGZmNTR3QXVmUUNJaGF6QWJZMEtuanJuZUNNbVdncmRnY0FhYjFkSWQ5LUUxWEMwLVdoMUpiWk9ndElqQW1uSkliTjRIem5oNkJJek1Va1h4YkY2MTZVU0NEVEYxbFAtbXhaX3Rwc3VZaklkQ01CWDdrUTlQUEpEY2tFWDVNclR6cVhxNk53Vm91bU0?oc=5",
-          "timestamp": "06:41:07Z",
-          "source": "CNBC",
+          "title": "炼油厂已将生产从汽油转向中间馏分油 - 美国能源信息署 (EIA) (.gov)",
+          "desc": "炼油厂已将生产从汽油转向中间馏分油 美国能源信息管理局 (EIA) (.gov)",
+          "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9RNkRZcGVvanM1SGhJWU9ZYlRzN2k5RzRYcWMyWmtmT0FydFJRTC1abi1NbV9iNlJLUDFtVy1sY3NXSFVNdjZfNFpDYzRRRXh3OUJwTW44VHRkcWNCOUtodHhhVQ?oc=5",
+          "timestamp": "14:11:23Z",
+          "source": "U.S. Energy Information Administration (EIA) (.gov)",
           "sentiment_score": 0.0
         },
         {
-          "title": "全球炼油厂投入在 2026 年第二季度大幅下降，随后略有回升 - 美国能源信息署 (EIA) (.gov)",
-          "desc": "2026 年第二季度全球炼油厂投入大幅下降，随后略有回升 美国能源信息管理局 (EIA) (.gov)",
-          "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBmTHpUUndydUdSenJHb1JmY0lpclh5ZXQxWnN2blZ3NnJMRFg1ZUZuN0tkREZReU9ZYmJtd0lqYzBKT3NiWkZTMXA0UlJwMVcza1lEOWpjUHRGRHR4dUNxMmVPNA?oc=5",
-          "timestamp": "14:05:43Z",
-          "source": "U.S. Energy Information Administration (EIA) (.gov)",
-          "sentiment_score": 0.5
-        },
-        {
           "title": "美国原油库存仍在直线下降-今日原油价格|石油价格网",
-          "desc": "美国原油库存仍在直线下降 | 今日原油价格 |石油价格网",
+          "desc": "US Crude Oil Inventories Still in Freefall  Crude Oil Prices Today |石油价格网",
           "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNMm1lcm4zaGl0RWt5azF4T0JyVTIybnZfVDB5RGZWZDM5SG1wWTBEMzJkZFpsVHI1QTV0cmtmbjhUOHlKeTBjNGFVMi11NVNiM0pLc2pkcWdGVzdwcklPUlE4SEdGLXJkZmxWM2I2TGxuM1FFY3EzUFMtTlp4NVdfcDBhZHpUdGVFMVJKd2tDa0k2TG1JLVd0cGxKaFh6WW_SAaQBQVVfeXFMTUV4ZVpBTEZ4SmQ3QW9RaUZNREVDdmlreWtqVnNIR1U3OFIzLUtpNzhUT1V5RzQ3WFJQQ0JtUWhGaldCY19NWEJWZEVqRi16bjEyVmVVVkNiWVpqcW9Valp5REJPZTMyZzg2RzlYaFl5WFp2OWRXZnNDSlkycUVRVUlrUXVCZjV1OUJIdzM4YzVoTXdBMFVjT2xnQ2prcHdjUTVBRUE?oc=5",
           "timestamp": "22:00:47Z",
           "source": "Crude Oil Prices Today | OilPrice.com",
           "sentiment_score": 0.0
         },
         {
-          "title": "截至 2026 年 11 月 3 日的当前油价 - 财富",
-          "desc": "截至 2026 年 11 月 3 日的当前油价",
-          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9KbEJ2X1pJTHNxWHJwOFFURW5FNUtubUpydG54dDh5R3RXNTNzSG1QTVNHUUNJSTFRa0JGSVdPVXQxWmhoZ0IycjhMbG1XWWx0eE1zTk9ySG1WRG9lTndpaGFR?oc=5",
-          "timestamp": "12:00:00Z",
-          "source": "Fortune",
+          "title": "Oil Prices Continue to Fall as Democratic Sweep Shakes Energy Markets - Yahoo Finance",
+          "desc": "Oil Prices Continue to Fall as Democratic Sweep Shakes Energy Markets&nbsp;&nbsp;Yahoo Finance",
+          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQd2RtaGdSZnUtNEJJRG94X1NxeG5Ib2JpS1lvYUJJcm1SeXRKb3pyVEtMalF3RXlDNVBZNEFfYnRPZFpFZlpRUlpXb2dSVFRIaGNmSlpiQ0FXVHVaaWlWU2FPR2hyUG52SUdRU2ZXTV9DTXdWUHdNMW54SUZnTG5MNW5QYktQWFhMVUlodnY5T0NWcmFTQkdF?oc=5",
+          "timestamp": "06:30:00Z",
+          "source": "Yahoo Finance",
           "sentiment_score": 0.0
         }
       ]
@@ -151,26 +151,10 @@
     "ai_tech": {
       "title": "AI & 前沿科技",
       "game_theory": {
-        "bull_drivers": "生成式 AI 及大模型生态商业化落地加速",
-        "bear_drivers": "算力能耗制约 & 估值回调压力"
+        "bull_drivers": "AI 基础设施建设高景气持续，芯片供应依然短缺",
+        "bear_drivers": "主要国家针对大科技公司的反垄断与AI安全监管趋紧"
       },
       "items": [
-        {
-          "title": "“人工智能地震”：民主党人关注硅谷清算 - Politico",
-          "desc": "“人工智能地震”：民主党人关注硅谷的清算 Politico",
-          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQam9BYnlkekhXbVVvWktfYnhhcmpwdEpHV2FMYm00MlZWc2R5WU1zVnFtbTNqSjV6XzJuYlNZVjByeVhQN2loUEdmUlNWenNNbVhXWVkzd01RUF9GTXFaUXZMYVNmSWdHLUFBbmpVdWZkRGh0N1ZjbE0zWnRvMkNUVXoycDlmalJDX19Fa1g2TlZ6QTJKWnZSbg?oc=5",
-          "timestamp": "15:06:00Z",
-          "source": "Politico",
-          "sentiment_score": 0.0
-        },
-        {
-          "title": "苹果削减内部人工智能使用预算以减少支出 - 彭博社",
-          "desc": "苹果削减内部人工智能使用预算以减少支出 彭博社",
-          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQNlpwLUc1MHh4TnNOVk9HY3BLVUlLS2ZwTjRIUEtqb0VKa2JYZG13VTc2TzdZZ2dlOUUtTmlZYTdmeGJIUVVpcWFBeS1PWGQ5X3FFS3lBMzJ0WjJsRjMzWmpaRl9KRUZzSWRpTHVaQ3lUeU5wNnM0S3dZLTVaMWo3RWNnMmZqcTBCY3NOajRvSk13UmM4R2VBUjNtT2w0NU96aU9FelhEZ1BJcHNWTExwYVRNczg?oc=5",
-          "timestamp": "19:45:00Z",
-          "source": "Bloomberg",
-          "sentiment_score": 0.0
-        },
         {
           "title": "谷歌称如果不使用人工智能就无法使用搜索 - 卫报",
           "desc": "谷歌表示，如果不使用人工智能就无法使用搜索",
@@ -180,19 +164,35 @@
           "sentiment_score": 0.0
         },
         {
-          "title": "毕业生就业：更多与人工智能相关的工作，但还有什么？ - 英国广播公司",
-          "desc": "毕业生就业：更多与人工智能相关的工作，但还有什么？  英国广播公司",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5IdzRJT09Td1Q2T2o1dHZyQ0RwSkI1V3R5OHNzNVV1aXJFN2E0a3VSb0pkX0FhNVZsTzViUVBfbU4xWDFGYlRLVnA2a2hIcjZSRmlGNm5RTnJyUjQ?oc=5",
-          "timestamp": "00:04:35Z",
-          "source": "BBC",
+          "title": "苹果削减内部人工智能使用预算以减少支出 - Bloomberg.com",
+          "desc": "苹果削减内部人工智能使用预算以减少支出 Bloomberg.com",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQNlpwLUc1MHh4TnNOVk9HY3BLVUlLS2ZwTjRIUEtqb0VKa2JYZG13VTc2TzdZZ2dlOUUtTmlZYTdmeGJIUVVpcWFBeS1PWGQ5X3FFS3lBMzJ0WjJsRjMzWmpaRl9KRUZzSWRpTHVaQ3lUeU5wNnM0S3dZLTVaMWo3RWNnMmZqcTBCY3NOajRvSk13UmM4R2VBUjNtT2w0NU96aU9FelhEZ1BJcHNWTExwYVRNczg?oc=5",
+          "timestamp": "19:45:00Z",
+          "source": "Bloomberg.com",
           "sentiment_score": 0.0
         },
         {
-          "title": "谷歌研究人员正在与该公司抗争，要求其向世界展示他们对人工智能的了解 - 《华盛顿邮报》",
-          "desc": "谷歌研究人员正在与该公司抗争，要求其向世界展示他们对人工智能的了解。《华盛顿邮报》",
-          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQYWNrdVBqZDE1MU5SRE1jMEI4Y3VLRnlkYmYteUhFRFRhbGp2UXZpa18tNmlsU3BqWWszRkc0UWl0WE5XbUlZSDBCTDl2R3psX1BCNTkyZUxjaFZuaVlVUU9iTWJoaWdIWGExRXZfSzdYdjIxTll1R010Nnhlb2ZtYktZU21HU1ZzRkhBcm5lb2c2ZnluOWdoMy13S2NqMDNpUVd6MFQ1M255RDdIT2VCTzN6d0ZTVWM?oc=5",
-          "timestamp": "00:42:29Z",
-          "source": "The Washington Post",
+          "title": "德克萨斯州是人工智能数据中心建设的新中心。那可能就完了。 - MIT Technology Review",
+          "desc": "德克萨斯州是人工智能数据中心建设的新中心。那可能就完了。  麻省理工科技评论",
+          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOcEJJcnItVEJsTFR6cjFwUS1ISF9FX2tpNmJWSU1OS2EzOXJaQjhnRGpTaE96YVZHdzU1VXNmTGJSWnhhWWN1eFp6SXhtNlNGdmVoSUtWbWxNY09BY3Q4RlplUm1MNEVKNF9pcGNlREMzU0pnSzM3QXVTTzlfSjV5emFkMk1TenllYUhDVUNzN29uT2N5UDZQWllPOG5wcTdjTDZfWFRTWGp6aTIxdTlXM2hiVW1teFBuU21CUG9QMklpREVNR1hfMmoxONIB0AFBVV95cUxQMkVSejhoRkZXQlBLVTBPNE1WbHhxTk10TE5vcmdranlJSXdYcjZUeTJfLVhpWGNTQzNuX1lJdzVBVGdEajA2bGVjUFRpVU5STlJNaGhWZ1FXb1Jiek1PZkI1cV9VeE4zWG0tWmpzUTdSWDh1bFAzVEgxMEdtVTVTRjlidTVWNXlIRlplbkZXYnlfV3hqZXdId3pOTHhRbXYyWnJqZ0VmdFI4VWNCRnA2TjNGMDRRdEJHRC1Td0NxR0d5Sm1YYU1fZzJmZGs3b3lO?oc=5",
+          "timestamp": "18:50:55Z",
+          "source": "MIT Technology Review",
+          "sentiment_score": 0.0
+        },
+        {
+          "title": "Marvell 同意以 115B 美元股票交易收购 Lumentum - Manufacturing Dive",
+          "desc": "Marvell 同意以 115B 美元股票交易收购 Lumentum",
+          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOV0pKeUszR0lQek0yWllGajNWeWZXYWJ1TC0tWS10OTZJdDRBZzhSVGt0MHRuMWhLNVdTUndZd3pRSURIQ0FSaTdDaWFMdVBTQVAxTi1lc25sS2VDQlBVenlmUXA4Z001WXRBaTJ5R3NnSXhsOEhXcGhLVExpeks2bUNvR3FOUGNWb1FtM0J5UHJxNnBwaDRISUhHYw?oc=5",
+          "timestamp": "16:21:24Z",
+          "source": "Manufacturing Dive",
+          "sentiment_score": 0.0
+        },
+        {
+          "title": "Oracle Cancels $7 Billion Tencent AI Chip Leasing Agreement Amid US Regulatory Pressure - Yahoo Finance",
+          "desc": "迫于美国监管压力，甲骨文取消了价值 70 亿美元的腾讯 AI 芯片租赁协议 雅虎财经",
+          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQVFd1RDJjcmNyYjdRNEpRV0Z3U1NLZDRmRmRJVE1va09qTVVJQ2Z0Rkp6RlpIeEgxZkdrM1JOR2g1MHBsYTd6QkFhLVE5MER6dFJCN0RkZ3NDajVaQU82MnBIdURnalM2Z2Zhb3JkRFlYaHJZekJBZGNtcm1qd09pY1BXTWo1THFXUklRMGlNa1FWQnJhY09vV1RuQlY?oc=5",
+          "timestamp": "11:36:59Z",
+          "source": "Yahoo Finance",
           "sentiment_score": 0.0
         }
       ]
@@ -213,19 +213,11 @@
           "sentiment_score": 0.0
         },
         {
-          "title": "全球地缘政治紧张局势 - 地缘政治未来",
-          "desc": "全球地缘政治紧张局势 地缘政治未来",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBhSGZwY2JsUmN5aTFoNE1wUjA5dkllVUpmVGl3OGJTbjVfd0pYbDlUSktPdHhObEY5ZzBYSTVGN2RGaWl0NkplbU93cDRnbnlnSGE0V0hTblJQTS1ycE9QQ1R2LWU3aTJnOFYzcnlPLUQ?oc=5",
-          "timestamp": "11:00:46Z",
-          "source": "Geopolitical Futures",
-          "sentiment_score": -0.5
-        },
-        {
-          "title": "马来西亚总理表示，马来西亚将举行会议，为应对日益严重的网络和地缘政治威胁做好准备 - 路透中文网",
-          "desc": "马来西亚总理表示，马来西亚将召开会议，为应对日益严重的网络和地缘政治威胁做好准备 路透",
-          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQdGVuREFmeWttaHp3SHJTdll0ZEs1WlFXYjFpS2loMDhHemxWRVpxQmMwTHhjRnBac2FrTlB4d3drZThQQmNXa2FQYktSVEptdlJydXVTbTlUak9NVDBmTEVhTkFONlJXVGRTSjQ4Qll2aXZOT0l2a2xwNm03X2Nwa3d1ZjhjMjNwRnFCVzFrN19pV0dFVGlZc2h1dTMyazA?oc=5",
-          "timestamp": "02:57:00Z",
-          "source": "Reuters",
+          "title": "石油地缘政治风险降温暴露了供应充足的市场 - Bloomberg.com",
+          "desc": "石油降温的地缘政治风险暴露了供应充足的市场  Bloomberg.com",
+          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOMXR1MkFVVmVHTDBWdjJXc0pmRjd5eTFVRVZacS1sZXdKaHNrdXp3c1U5a2ZvSzJXTE1ISjZ3cUpqaTBHU3dEajhNekVXYklray1UcVRUc1B1cmtWdlBXNkJPaFFIczczVHFQcXAzTURPMmg1RzJjdjdLNExkNnNoRzd0Rmc1RjhiSjlHa0E0ZHg3bTdvRnpsRVdnc2tMWmdtV2xGLVVsOFlRei1KTGF2bGpnbXA4dw?oc=5",
+          "timestamp": "15:06:12Z",
+          "source": "Bloomberg.com",
           "sentiment_score": 0.0
         },
         {
@@ -237,11 +229,19 @@
           "sentiment_score": 0.0
         },
         {
-          "title": "苏联怀旧是地缘政治的死胡同 - 外交政策",
-          "desc": "苏联怀旧是外交政策的地缘政治死胡同",
-          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPYzJOVlJZT09xMFRmamlGSGRURUxmbzBNelZIWW5sYWF1TzlBQy1fV0tubWxJV1gxOXRrd1pIZEVfUC1VSVNSX2xPa2Z6VWtJREVKMjJ2Y25idVZqelhFSm9QdmRTYnVzRTFmXzNVNWVwZkh4SnNnRloxaVQtWkxxTG0xZnhsemZBcE9uR3BR?oc=5",
-          "timestamp": "17:32:12Z",
-          "source": "Foreign Policy",
+          "title": "也门战争蔓延至非洲之角 - 地缘政治未来",
+          "desc": "也门战争触及非洲之角地缘政治未来",
+          "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBiMzg2NHBGZV9kQXFoSW5xS2NLdzlCYU1xckdJLVVSeGtMS0JscXBINHJKOE5tZjZZYUlEeFo4U19EQjlkYldya0gtTWtZaGVYeFdQQnJrYnR6eVRTLW5UdWlOUHBYcXk0ZVlyczRYR2d5OTlFQmpOMVpn?oc=5",
+          "timestamp": "11:00:55Z",
+          "source": "Geopolitical Futures",
+          "sentiment_score": 0.0
+        },
+        {
+          "title": "马来西亚总理表示，马来西亚将举行会议，为应对日益严重的网络和地缘政治威胁做好准备 - 路透中文网",
+          "desc": "马来西亚总理表示，马来西亚将召开会议，为应对日益严重的网络和地缘政治威胁做好准备 路透",
+          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQdGVuREFmeWttaHp3SHJTdll0ZEs1WlFXYjFpS2loMDhHemxWRVpxQmMwTHhjRnBac2FrTlB4d3drZThQQmNXa2FQYktSVEptdlJydXVTbTlUak9NVDBmTEVhTkFONlJXVGRTSjQ4Qll2aXZOT0l2a2xwNm03X2Nwa3d1ZjhjMjNwRnFCVzFrN19pV0dFVGlZc2h1dTMyazA?oc=5",
+          "timestamp": "02:57:00Z",
+          "source": "Reuters",
           "sentiment_score": 0.0
         }
       ]
@@ -250,14 +250,14 @@
   "market_sentiment": [
     {
       "label": "贵金属（黄金/白银）",
-      "value": 0.0,
-      "sentiment": "震荡中性 (评分: 0.0)",
+      "value": 0.2,
+      "sentiment": "震荡中性 (评分: 0.2)",
       "sentiment_type": "neu"
     },
     {
       "label": "能源（石油/天然气）",
-      "value": 0.1,
-      "sentiment": "高波动震荡 (评分: 0.1)",
+      "value": 0.0,
+      "sentiment": "高波动震荡 (评分: 0.0)",
       "sentiment_type": "neu"
     },
     {
@@ -268,8 +268,8 @@
     },
     {
       "label": "地缘政治与宏观雷达",
-      "value": -0.1,
-      "sentiment": "局势相对平缓 (评分: -0.1)",
+      "value": 0.0,
+      "sentiment": "局势相对平缓 (评分: 0.0)",
       "sentiment_type": "neu"
     }
   ],
